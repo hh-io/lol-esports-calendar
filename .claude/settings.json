@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "jq -r '.tool_input.file_path // .tool_response.filePath' | { read -r f; case \"$f\" in *.py) if command -v ruff >/dev/null 2>&1; then ruff check --fix \"$f\" && ruff format \"$f\"; else python3 -m py_compile \"$f\"; fi;; esac; }",
+            "statusMessage": "Linting Python (ruff)..."
+          }
+        ]
+      }
+    ]
+  }
+}

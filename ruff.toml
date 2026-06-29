@@ -1,0 +1,7 @@
+# 仅本地/CI 开发工具，不属于运行时依赖（运行时保持纯标准库）。
+target-version = "py312"
+line-length = 100
+
+[lint]
+# E/F: pyflakes+pycodestyle，I: import 排序，UP: pyupgrade，B: bugbear，SIM: 简化。
+select = ["E", "F", "I", "UP", "B", "SIM"]
