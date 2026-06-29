@@ -5,13 +5,13 @@
 
 ## 订阅链接
 
-部署后（开启 GitHub Pages）将 `<user>` / `<repo>` 替换为你的信息：
-
 | 赛区 | 订阅 URL |
 |------|----------|
-| LPL（中国） | `https://<user>.github.io/<repo>/lpl.ics` |
-| LCK（韩国） | `https://<user>.github.io/<repo>/lck.ics` |
-| 国际赛（MSI/Worlds） | `https://<user>.github.io/<repo>/intl.ics` |
+| LPL（中国） | `https://hh-io.github.io/lol-esports-calendar/dist/lpl.ics` |
+| LCK（韩国） | `https://hh-io.github.io/lol-esports-calendar/dist/lck.ics` |
+| 国际赛（MSI/Worlds） | `https://hh-io.github.io/lol-esports-calendar/dist/intl.ics` |
+
+> 自己 fork 部署时，把 `hh-io` / `lol-esports-calendar` 换成你的用户名 / 仓库名。
 
 > 比赛时间以 UTC 存储，Apple 日历会自动按你的本地时区（北京时间）显示。
 
