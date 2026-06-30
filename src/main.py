@@ -54,7 +54,7 @@ OUTPUTS = {
 ALL_SLUGS = sorted({s for slugs, _ in OUTPUTS.values() for s in slugs})
 
 # 保留最近 N 天已结束的比赛，便于回看比分。
-KEEP_COMPLETED_DAYS = 2
+KEEP_COMPLETED_DAYS = 7
 
 
 def main() -> int:
