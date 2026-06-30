@@ -1,15 +1,24 @@
 # lol-esports-calendar
 
-自动抓取英雄联盟职业赛程（**LPL / LCK / MSI / 世界赛**），生成 Apple 日历可订阅的 `.ics` 文件，
+**简体中文** · [English](README.en.md) · [한국어](README.ko.md)
+
+自动抓取英雄联盟职业赛程（**LPL / LCK / LEC / LCP / LTA / 国际赛**），生成 Apple 日历可订阅的 `.ics` 文件，
 由 GitHub Actions 每小时刷新一次并托管在 GitHub Pages 上。**纯标准库，零依赖。**
+
+日历正文支持中文 / 英文 / 韩文三种语言（见下表）。
 
 ## 订阅链接
 
-| 赛区 | 订阅 URL |
+默认中文日历在 `dist/` 根目录；英文在 `dist/en/`、韩文在 `dist/ko/`（把下表 URL 里的 `/dist/` 换成 `/dist/en/` 或 `/dist/ko/` 即可）。
+
+| 赛区 | 订阅 URL（中文） |
 |------|----------|
 | LPL（中国） | `https://hh-io.github.io/lol-esports-calendar/dist/lpl.ics` |
 | LCK（韩国） | `https://hh-io.github.io/lol-esports-calendar/dist/lck.ics` |
-| 国际赛（MSI/Worlds） | `https://hh-io.github.io/lol-esports-calendar/dist/intl.ics` |
+| LEC（欧洲） | `https://hh-io.github.io/lol-esports-calendar/dist/lec.ics` |
+| LCP（太平洋） | `https://hh-io.github.io/lol-esports-calendar/dist/lcp.ics` |
+| LTA（美洲） | `https://hh-io.github.io/lol-esports-calendar/dist/lta.ics` |
+| 国际赛（MSI/Worlds/First Stand） | `https://hh-io.github.io/lol-esports-calendar/dist/intl.ics` |
 
 > 自己 fork 部署时，把 `hh-io` / `lol-esports-calendar` 换成你的用户名 / 仓库名。
 
@@ -27,7 +36,7 @@
 ## 本地运行
 
 ```bash
-python3 src/main.py      # 生成 dist/lpl.ics、lck.ics、intl.ics
+python3 src/main.py      # 生成 dist/*.ics 及 dist/en、dist/ko 多语言版本
 ```
 
 ## 部署
@@ -43,11 +52,11 @@ python3 src/main.py      # 生成 dist/lpl.ics、lck.ics、intl.ics
 ## 结构
 
 ```
-src/fetch.py   调 getLeagues 解析赛区 ID，分页抓 getSchedule，归一化事件
-src/ics.py     事件 → RFC 5545 .ics 文本（稳定 UID、CRLF、75 字节折叠）
-src/main.py    按订阅分组输出 dist/*.ics；任一赛区抓取失败则保留旧文件
+src/fetch.py   调 getLeagues 解析赛区 ID，分页抓 getSchedule，归一化事件（hl 参数控制语言）
+src/ics.py     事件 → RFC 5545 .ics 文本（稳定 UID、CRLF、75 字节折叠、静态词条多语言）
+src/main.py    按语言 × 订阅分组输出 .ics；任一赛区抓取失败则保留旧文件
 .github/workflows/update.yml   定时 + 手动触发，有变更才提交
-dist/          生成的 .ics（被 Pages 托管）
+dist/          中文 .ics；dist/en、dist/ko 为英文 / 韩文（被 Pages 托管）
 ```
 
 ## 数据源与风险
@@ -60,4 +69,4 @@ dist/          生成的 .ics（被 Pages 托管）
 - 网络/接口失败时退出并**保留上一次的 `.ics`**，不会写出空文件覆盖订阅。
 - 休赛期某赛区暂无未来赛程时，对应 `.ics` 为空日历（正常现象，新赛程发布后自动出现）。
 
-可在 `src/main.py` 的 `OUTPUTS` 里增删赛区（如加入 `lcs`、`lec`）。
+可在 `src/main.py` 的 `OUTPUTS` 里增删赛区，在 `LANGS` 里增删语言（`slug` 见 `getLeagues`）。

@@ -14,7 +14,7 @@ This project has no automated tests. Use this skill to verify changes by running
    - Exit code 0 = success. Note the per-region `[info] <slug>: N 场比赛` counts.
    - Exit code 1 = a fetch failed; by design no `.ics` was written. Report the error; this is the intended failure-preserves-old-files behavior, not a bug to "fix" by writing partial output.
 
-2. Sanity-check each generated file (`dist/lpl.ics`, `dist/lck.ics`, `dist/intl.ics`):
+2. Sanity-check the generated files. There is one `.ics` per region (`lpl`, `lck`, `lec`, `lcp`, `lta`, `intl`) per language: Chinese at `dist/*.ics`, English at `dist/en/*.ics`, Korean at `dist/ko/*.ics`. Spot-check at least one file per language. For each:
    - Starts with `BEGIN:VCALENDAR` and ends with `END:VCALENDAR`.
    - Uses CRLF (`\r\n`) line endings (RFC 5545). Check with:
      ```bash
@@ -23,6 +23,7 @@ This project has no automated tests. Use this skill to verify changes by running
    - VEVENT blocks are balanced (`BEGIN:VEVENT` count == `END:VEVENT` count).
    - UIDs follow `lolmatch-<id>@lol-esports-calendar`.
    - An empty calendar (no VEVENTs) is normal during the off-season — not a failure.
+   - Localization: `dist/en/*.ics` SUMMARY/DESCRIPTION should be English (`League/Stage/...`), `dist/ko/*.ics` Korean (`리그/단계/...`), `dist/*.ics` Chinese. Team codes stay latin in all languages.
 
 3. If you changed folding/escaping in `ics.py`, spot-check that no line exceeds 75 bytes (continuation lines start with a single space) and that `;`, `,`, `\`, newline are escaped in TEXT values.
 

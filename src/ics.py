@@ -9,7 +9,35 @@ from datetime import UTC, datetime, timedelta
 
 from fetch import Event
 
-PRODID = "-//lol-esports-calendar//ZH//"
+PRODID = "-//lol-esports-calendar//EN//"
+
+# 日历正文的静态词条翻译。赛区名与阶段名由 API 按 hl 返回，不在此表内。
+STRINGS = {
+    "zh": {
+        "league": "赛区",
+        "stage": "阶段",
+        "format": "赛制",
+        "matchup": "对阵",
+        "tbd": "待定",
+        "updated": "数据更新",
+    },
+    "en": {
+        "league": "League",
+        "stage": "Stage",
+        "format": "Format",
+        "matchup": "Match",
+        "tbd": "TBD",
+        "updated": "Updated",
+    },
+    "ko": {
+        "league": "리그",
+        "stage": "단계",
+        "format": "방식",
+        "matchup": "대진",
+        "tbd": "미정",
+        "updated": "업데이트",
+    },
+}
 
 
 def _ics_dt(iso: str) -> str:
@@ -48,7 +76,7 @@ def _fold(line: str) -> str:
     return "\r\n ".join(out)
 
 
-def _summary(ev: Event) -> str:
+def _summary(ev: Event, t: dict) -> str:
     if len(ev.teams) >= 2:
         a, b = ev.teams[0], ev.teams[1]
         vs = f"{a['code']} vs {b['code']}"
@@ -56,26 +84,27 @@ def _summary(ev: Event) -> str:
         if ev.state == "completed" and a["score"] is not None and b["score"] is not None:
             vs = f"{a['code']} {a['score']}-{b['score']} {b['code']}"
     else:
-        vs = "待定"
+        vs = t["tbd"]
     prefix = ev.league_name or ev.league_slug.upper()
     block = f" ({ev.block})" if ev.block else ""
     return f"{prefix}: {vs}{block}"
 
 
-def _description(ev: Event, generated_at: str) -> str:
-    parts = [f"赛区: {ev.league_name}"]
+def _description(ev: Event, generated_at: str, t: dict) -> str:
+    parts = [f"{t['league']}: {ev.league_name}"]
     if ev.block:
-        parts.append(f"阶段: {ev.block}")
+        parts.append(f"{t['stage']}: {ev.block}")
     if ev.best_of:
-        parts.append(f"赛制: BO{ev.best_of}")
+        parts.append(f"{t['format']}: BO{ev.best_of}")
     if len(ev.teams) >= 2:
-        parts.append(f"对阵: {ev.teams[0]['name']} vs {ev.teams[1]['name']}")
-    parts.append(f"数据更新: {generated_at}")
+        parts.append(f"{t['matchup']}: {ev.teams[0]['name']} vs {ev.teams[1]['name']}")
+    parts.append(f"{t['updated']}: {generated_at}")
     return "\n".join(parts)
 
 
-def build_calendar(name: str, events: list[Event]) -> str:
-    """生成单个 VCALENDAR 文本。"""
+def build_calendar(name: str, events: list[Event], lang: str = "zh") -> str:
+    """生成单个 VCALENDAR 文本。lang 决定日历正文静态词条的语言。"""
+    t = STRINGS.get(lang, STRINGS["zh"])
     now = datetime.now(UTC)
     dtstamp = now.strftime("%Y%m%dT%H%M%SZ")
     generated_at = now.strftime("%Y-%m-%d %H:%M UTC")
@@ -98,8 +127,8 @@ def build_calendar(name: str, events: list[Event]) -> str:
             f"DTSTAMP:{dtstamp}",
             f"DTSTART:{_ics_dt(ev.start_utc)}",
             f"DTEND:{_dt_plus(ev.start_utc, ev.duration_hours)}",
-            f"SUMMARY:{_escape(_summary(ev))}",
-            f"DESCRIPTION:{_escape(_description(ev, generated_at))}",
+            f"SUMMARY:{_escape(_summary(ev, t))}",
+            f"DESCRIPTION:{_escape(_description(ev, generated_at, t))}",
             "END:VEVENT",
         ]
     lines.append("END:VCALENDAR")

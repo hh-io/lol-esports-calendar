@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//lol-esports-calendar//ZH//
+PRODID:-//lol-esports-calendar//EN//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:LOL 赛程 · LCK

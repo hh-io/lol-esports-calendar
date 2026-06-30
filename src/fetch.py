@@ -68,9 +68,9 @@ def _request(path: str, params: dict) -> dict:
     raise FetchError(f"请求 {path} 失败: {last_err}")
 
 
-def get_league_ids(slugs: Iterable[str]) -> dict[str, dict]:
+def get_league_ids(slugs: Iterable[str], hl: str = HL) -> dict[str, dict]:
     """返回 {slug: {id, name}}，仅包含命中的目标赛区。"""
-    data = _request("getLeagues", {"hl": HL})
+    data = _request("getLeagues", {"hl": hl})
     leagues = data.get("data", {}).get("leagues", [])
     wanted = set(slugs)
     result: dict[str, dict] = {}
@@ -118,10 +118,11 @@ def _normalize(ev: dict) -> Event | None:
     )
 
 
-def get_events(league_id: str, include_completed_days: int = 0) -> list[Event]:
+def get_events(league_id: str, include_completed_days: int = 0, hl: str = HL) -> list[Event]:
     """抓取某赛区赛程，跟随分页向后翻完所有未来事件。
 
     include_completed_days: 保留最近 N 天内已结束的比赛（便于回看），0 表示不保留。
+    hl: 语言标签（如 zh-CN / en-US / ko-KR），决定赛区名与阶段名的语言。
     """
     from datetime import datetime, timedelta
 
@@ -134,7 +135,7 @@ def get_events(league_id: str, include_completed_days: int = 0) -> list[Event]:
     seen_tokens: set[str] = set()
 
     while True:
-        params = {"hl": HL, "leagueId": league_id}
+        params = {"hl": hl, "leagueId": league_id}
         if page_token:
             params["pageToken"] = page_token
         data = _request("getSchedule", params)
