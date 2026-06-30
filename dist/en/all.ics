@@ -48,7 +48,7 @@ UID:lolmatch-115570934355614521@lol-esports-calendar
 DTSTAMP:20260630T080000Z
 DTSTART:20260630T080000Z
 DTEND:20260630T123000Z
-SUMMARY:MSI: TLAW vs KC (Play In Knockouts)
+SUMMARY:MSI: TLAW 3-0 KC (Play In Knockouts)
 DESCRIPTION:League: MSI\nStage: Play In Knockouts\nFormat: BO5\nMatch: Tea
  m Liquid Alienware vs Karmine Corp
 END:VEVENT
@@ -57,9 +57,9 @@ UID:lolmatch-115570969745329263@lol-esports-calendar
 DTSTAMP:20260701T080000Z
 DTSTART:20260701T080000Z
 DTEND:20260701T123000Z
-SUMMARY:MSI: TBD vs T1 (Play In Knockouts)
-DESCRIPTION:League: MSI\nStage: Play In Knockouts\nFormat: BO5\nMatch: TBD
-  vs T1
+SUMMARY:MSI: TLAW vs T1 (Play In Knockouts)
+DESCRIPTION:League: MSI\nStage: Play In Knockouts\nFormat: BO5\nMatch: Tea
+ m Liquid Alienware vs T1
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115570934355614527@lol-esports-calendar
