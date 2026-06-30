@@ -119,11 +119,13 @@ def build_calendar(name: str, events: list[Event], lang: str = "zh") -> str:
         "X-PUBLISHED-TTL:PT1H",
     ]
     for ev in events:
+        start = _ics_dt(ev.start_utc)
         lines += [
             "BEGIN:VEVENT",
             f"UID:{ev.uid}",
-            f"DTSTAMP:{_ics_dt(ev.start_utc)}",
-            f"DTSTART:{_ics_dt(ev.start_utc)}",
+            # DTSTAMP 取开赛时间（稳定值），使输出不随生成时刻变化，见上方说明。
+            f"DTSTAMP:{start}",
+            f"DTSTART:{start}",
             f"DTEND:{_dt_plus(ev.start_utc, ev.duration_hours)}",
             f"SUMMARY:{_escape(_summary(ev, t))}",
             f"DESCRIPTION:{_escape(_description(ev, t))}",

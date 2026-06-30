@@ -88,17 +88,18 @@ def main() -> int:
             planned.append((out_dir / f"{filename}.ics", ics_text, len(events)))
 
     # 退化保护：接口可能返回 HTTP 200 却是空/残缺数据（赛区列表为空、结构变更），
-    # 这种情况不会抛 FetchError。若某个原本有事件的文件这次会被写成 0 事件，
-    # 视为数据退化，整体放弃写入、保留全部旧文件。
-    degraded = [
-        path
-        for path, _text, count in planned
-        if count == 0 and path.exists() and _existing_event_count(path) > 0
-    ]
-    if degraded:
-        names = ", ".join(str(p.relative_to(DIST)) for p in sorted(degraded))
+    # 这种情况不会抛 FetchError，表现为「所有赛区一起归零」。仅当全部计划文件
+    # 事件总数为 0、而磁盘上仍有非空旧文件时，才判为系统性退化、整体放弃写入。
+    #
+    # 注意只看「系统性归零」而非「任一文件归零」：单个赛区休赛期合法地变 0
+    # （旧完赛记录滑出回看窗口）不应阻塞其余赛区的正常更新，其空日历照常写出。
+    total_events = sum(count for _path, _text, count in planned)
+    had_data = any(
+        path.exists() and _existing_event_count(path) > 0 for path, _text, _count in planned
+    )
+    if total_events == 0 and had_data:
         print(
-            f"[error] 数据疑似退化（{names} 由非空变为 0 事件），保留现有 .ics 文件",
+            "[error] 数据疑似系统性退化（全部赛区均为 0 事件，旧文件非空），保留现有 .ics 文件",
             file=sys.stderr,
         )
         return 1
