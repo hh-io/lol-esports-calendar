@@ -2,7 +2,7 @@ name: Update LoL calendars
 
 on:
   schedule:
-    - cron: "0 * * * *"     # 每小时（UTC）
+    - cron: "17 * * * *"    # 每小时（UTC）；错峰到 17 分，避开整点高负载被丢弃
   workflow_dispatch: {}      # 支持手动触发
 
 permissions:
