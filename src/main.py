@@ -53,6 +53,12 @@ OUTPUTS = {
 # 所有需要抓取的赛区。
 ALL_SLUGS = sorted({s for slugs, _ in OUTPUTS.values() for s in slugs})
 
+# 聚合订阅：所有赛区 + 国际赛合并到一个日历。复用 ALL_SLUGS，增删赛区时自动跟随。
+OUTPUTS["all"] = (
+    ALL_SLUGS,
+    {"zh": "全部赛区", "en": "All Leagues", "ko": "전체 리그"},
+)
+
 # 保留最近 N 天已结束的比赛，便于回看比分。
 KEEP_COMPLETED_DAYS = 7
 

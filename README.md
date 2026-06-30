@@ -20,6 +20,7 @@
 | LCP（太平洋） | `https://hh-io.github.io/lol-esports-calendar/dist/lcp.ics` |
 | LTA（美洲） | `https://hh-io.github.io/lol-esports-calendar/dist/lta.ics` |
 | 国际赛（MSI/Worlds/First Stand） | `https://hh-io.github.io/lol-esports-calendar/dist/intl.ics` |
+| 全部赛区（含国际赛） | `https://hh-io.github.io/lol-esports-calendar/dist/all.ics` |
 
 > 自己 fork 部署时，把 `hh-io` / `lol-esports-calendar` 换成你的用户名 / 仓库名。
 

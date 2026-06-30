@@ -18,6 +18,7 @@ Copy a link below to subscribe (calendar content is in **English**). Want Chines
 | LCP (Pacific) | `https://hh-io.github.io/lol-esports-calendar/dist/en/lcp.ics` |
 | LTA (Americas) | `https://hh-io.github.io/lol-esports-calendar/dist/en/lta.ics` |
 | International (MSI/Worlds/First Stand) | `https://hh-io.github.io/lol-esports-calendar/dist/en/intl.ics` |
+| All Leagues (incl. International) | `https://hh-io.github.io/lol-esports-calendar/dist/en/all.ics` |
 
 > When you fork and deploy your own, replace `hh-io` / `lol-esports-calendar` with your username / repo.
 
