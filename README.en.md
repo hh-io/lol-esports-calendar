@@ -8,16 +8,16 @@ Calendar content is available in Chinese / English / Korean (see below).
 
 ## Subscription links
 
-Copy the link from the column for the **calendar language** you want.
+Copy a link below to subscribe (calendar content is in **English**). Want Chinese or Korean? Use the **简体中文 / 한국어** switch at the top of this page.
 
-| Region | English | 中文 | 한국어 |
-|--------|---------|------|--------|
-| LPL (China) | `https://hh-io.github.io/lol-esports-calendar/dist/en/lpl.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/lpl.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lpl.ics` |
-| LCK (Korea) | `https://hh-io.github.io/lol-esports-calendar/dist/en/lck.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/lck.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lck.ics` |
-| LEC (EMEA) | `https://hh-io.github.io/lol-esports-calendar/dist/en/lec.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/lec.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lec.ics` |
-| LCP (Pacific) | `https://hh-io.github.io/lol-esports-calendar/dist/en/lcp.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/lcp.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lcp.ics` |
-| LTA (Americas) | `https://hh-io.github.io/lol-esports-calendar/dist/en/lta.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/lta.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lta.ics` |
-| International (MSI/Worlds/First Stand) | `https://hh-io.github.io/lol-esports-calendar/dist/en/intl.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/intl.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/ko/intl.ics` |
+| Region | Subscription URL |
+|--------|------------------|
+| LPL (China) | `https://hh-io.github.io/lol-esports-calendar/dist/en/lpl.ics` |
+| LCK (Korea) | `https://hh-io.github.io/lol-esports-calendar/dist/en/lck.ics` |
+| LEC (EMEA) | `https://hh-io.github.io/lol-esports-calendar/dist/en/lec.ics` |
+| LCP (Pacific) | `https://hh-io.github.io/lol-esports-calendar/dist/en/lcp.ics` |
+| LTA (Americas) | `https://hh-io.github.io/lol-esports-calendar/dist/en/lta.ics` |
+| International (MSI/Worlds/First Stand) | `https://hh-io.github.io/lol-esports-calendar/dist/en/intl.ics` |
 
 > When you fork and deploy your own, replace `hh-io` / `lol-esports-calendar` with your username / repo.
 

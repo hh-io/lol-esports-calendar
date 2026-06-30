@@ -8,16 +8,16 @@
 
 ## 구독 링크
 
-원하는 **캘린더 언어** 열의 링크를 복사하세요.
+아래 링크를 복사해 구독하세요(캘린더 본문은 **한국어**). 중국어 / 영어가 필요하면 페이지 상단의 **简体中文 / English** 전환을 사용하세요.
 
-| 지역 | 한국어 | 中文 | English |
-|------|--------|------|---------|
-| LPL (중국) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lpl.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/lpl.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/lpl.ics` |
-| LCK (한국) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lck.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/lck.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/lck.ics` |
-| LEC (유럽) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lec.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/lec.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/lec.ics` |
-| LCP (태평양) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lcp.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/lcp.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/lcp.ics` |
-| LTA (아메리카) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lta.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/lta.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/lta.ics` |
-| 국제 대회 (MSI/Worlds/First Stand) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/intl.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/intl.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/intl.ics` |
+| 지역 | 구독 URL |
+|------|----------|
+| LPL (중국) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lpl.ics` |
+| LCK (한국) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lck.ics` |
+| LEC (유럽) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lec.ics` |
+| LCP (태평양) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lcp.ics` |
+| LTA (아메리카) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lta.ics` |
+| 국제 대회 (MSI/Worlds/First Stand) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/intl.ics` |
 
 > 직접 포크해서 배포할 때는 `hh-io` / `lol-esports-calendar`를 본인 사용자명 / 저장소명으로 바꾸세요.
 
