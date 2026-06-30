@@ -2,7 +2,8 @@
 
 **简体中文** · [English](README.en.md) · [한국어](README.ko.md)
 
-自动抓取英雄联盟职业赛程（**LPL / LCK / LEC / LCP / LTA / 国际赛**），生成 Apple 日历可订阅的 `.ics` 文件，
+自动抓取**英雄联盟职业联赛赛程**（**LPL / LCK / LEC / LCP / LTA / MSI / Worlds / 国际赛**），生成可订阅的 `.ics` 日历文件，
+兼容 **Apple 日历、Google 日历、Outlook** 等任意支持 iCalendar（`.ics`）订阅的客户端。
 由 GitHub Actions 每小时刷新一次并托管在 GitHub Pages 上。**纯标准库，零依赖。**
 
 日历正文支持中文 / 英文 / 韩文三种语言（见下表）。
@@ -32,6 +33,13 @@
 **iPhone/iPad**：设置 → 日历 → 账户 → 添加账户 → 其他 → 添加已订阅的日历 → 粘贴 URL。
 
 把 URL 里的 `https://` 换成 `webcal://` 可以直接点链接唤起日历 App。
+
+## Google 日历 / Outlook
+
+同一个 `.ics` URL 也能在其它客户端订阅：
+
+- **Google 日历**（网页版）：左侧「其他日历」→「＋」→「通过网址添加」→ 粘贴 URL。
+- **Outlook**：「添加日历」→「从 Internet 订阅」→ 粘贴 URL。
 
 ## 本地运行
 

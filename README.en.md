@@ -2,7 +2,7 @@
 
 [简体中文](README.md) · **English** · [한국어](README.ko.md)
 
-Auto-fetches League of Legends pro schedules (**LPL / LCK / LEC / LCP / LTA / International**) and generates `.ics` files you can subscribe to in Apple Calendar. Refreshed hourly by GitHub Actions and hosted on GitHub Pages. **Pure standard library, zero dependencies.**
+Auto-fetches **League of Legends esports schedules** (**LPL / LCK / LEC / LCP / LTA / MSI / Worlds / International**) and generates subscribable `.ics` calendar files that work in **Apple Calendar, Google Calendar, Outlook**, and any client supporting iCalendar (`.ics`) subscriptions. Refreshed hourly by GitHub Actions and hosted on GitHub Pages. **Pure standard library, zero dependencies.**
 
 Calendar content is available in Chinese / English / Korean (see below).
 
@@ -30,6 +30,13 @@ Copy a link below to subscribe (calendar content is in **English**). Want Chines
 **iPhone/iPad**: Settings → Calendar → Accounts → Add Account → Other → Add Subscribed Calendar → paste the URL.
 
 Replacing `https://` with `webcal://` lets you open the calendar app directly from the link.
+
+## Google Calendar / Outlook
+
+The same `.ics` URL works in other clients too:
+
+- **Google Calendar** (web): "Other calendars" → "+" → "From URL" → paste the URL.
+- **Outlook**: "Add calendar" → "Subscribe from web" → paste the URL.
 
 ## Run locally
 

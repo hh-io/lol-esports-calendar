@@ -2,7 +2,7 @@
 
 [简体中文](README.md) · [English](README.en.md) · **한국어**
 
-리그 오브 레전드 프로 경기 일정(**LPL / LCK / LEC / LCP / LTA / 국제 대회**)을 자동으로 수집해 Apple 캘린더에서 구독할 수 있는 `.ics` 파일을 생성합니다. GitHub Actions가 매시간 갱신하고 GitHub Pages에서 호스팅합니다. **순수 표준 라이브러리, 의존성 없음.**
+**리그 오브 레전드 e스포츠 경기 일정**(**LPL / LCK / LEC / LCP / LTA / MSI / Worlds / 국제 대회**)을 자동으로 수집해 구독 가능한 `.ics` 캘린더 파일을 생성합니다. **Apple 캘린더, Google 캘린더, Outlook** 등 iCalendar(`.ics`) 구독을 지원하는 모든 클라이언트에서 사용할 수 있습니다. GitHub Actions가 매시간 갱신하고 GitHub Pages에서 호스팅합니다. **순수 표준 라이브러리, 의존성 없음.**
 
 캘린더 본문은 중국어 / 영어 / 한국어를 지원합니다(아래 표 참고).
 
@@ -30,6 +30,13 @@
 **iPhone/iPad**: 설정 → 캘린더 → 계정 → 계정 추가 → 기타 → 구독 캘린더 추가 → URL 붙여넣기.
 
 URL의 `https://`를 `webcal://`로 바꾸면 링크를 눌러 바로 캘린더 앱을 열 수 있습니다.
+
+## Google 캘린더 / Outlook
+
+같은 `.ics` URL을 다른 클라이언트에서도 구독할 수 있습니다:
+
+- **Google 캘린더**(웹): "다른 캘린더" → "+" → "URL로 추가" → URL 붙여넣기.
+- **Outlook**: "캘린더 추가" → "웹에서 구독" → URL 붙여넣기.
 
 ## 로컬 실행
 
