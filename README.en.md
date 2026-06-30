@@ -70,3 +70,9 @@ Data comes from the unofficial endpoint lolesports.com itself uses (`esports-api
 - During the off-season a region with no upcoming matches yields an empty calendar (normal — events reappear when new schedules are published).
 
 Add or remove regions in `OUTPUTS`, and languages in `LANGS`, in `src/main.py` (slugs come from `getLeagues`).
+
+## License
+
+The **code** in this project is released under the [MIT](LICENSE) license.
+
+Schedule data comes from lolesports and is owned by Riot Games and related parties; this project only reformats it, claims no rights over the data, and is neither affiliated with nor endorsed by Riot Games.
