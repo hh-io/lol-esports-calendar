@@ -8,16 +8,16 @@
 
 ## 구독 링크
 
-한국어 캘린더는 `dist/ko/` 아래에 있습니다. (중국어는 `dist/` 루트, 영어는 `dist/en/` — URL의 `/dist/ko/`를 `/dist/` 또는 `/dist/en/`으로 바꾸면 됩니다.)
+원하는 **캘린더 언어** 열의 링크를 복사하세요.
 
-| 지역 | 구독 URL (한국어) |
-|------|-------------------|
-| LPL (중국) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lpl.ics` |
-| LCK (한국) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lck.ics` |
-| LEC (유럽) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lec.ics` |
-| LCP (태평양) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lcp.ics` |
-| LTA (아메리카) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lta.ics` |
-| 국제 대회 (MSI/Worlds/First Stand) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/intl.ics` |
+| 지역 | 한국어 | 中文 | English |
+|------|--------|------|---------|
+| LPL (중국) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lpl.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/lpl.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/lpl.ics` |
+| LCK (한국) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lck.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/lck.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/lck.ics` |
+| LEC (유럽) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lec.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/lec.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/lec.ics` |
+| LCP (태평양) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lcp.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/lcp.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/lcp.ics` |
+| LTA (아메리카) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lta.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/lta.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/lta.ics` |
+| 국제 대회 (MSI/Worlds/First Stand) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/intl.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/intl.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/intl.ics` |
 
 > 직접 포크해서 배포할 때는 `hh-io` / `lol-esports-calendar`를 본인 사용자명 / 저장소명으로 바꾸세요.
 

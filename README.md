@@ -9,16 +9,16 @@
 
 ## 订阅链接
 
-默认中文日历在 `dist/` 根目录；英文在 `dist/en/`、韩文在 `dist/ko/`（把下表 URL 里的 `/dist/` 换成 `/dist/en/` 或 `/dist/ko/` 即可）。
+按你想要的**日历语言**复制对应那一列的链接即可。
 
-| 赛区 | 订阅 URL（中文） |
-|------|----------|
-| LPL（中国） | `https://hh-io.github.io/lol-esports-calendar/dist/lpl.ics` |
-| LCK（韩国） | `https://hh-io.github.io/lol-esports-calendar/dist/lck.ics` |
-| LEC（欧洲） | `https://hh-io.github.io/lol-esports-calendar/dist/lec.ics` |
-| LCP（太平洋） | `https://hh-io.github.io/lol-esports-calendar/dist/lcp.ics` |
-| LTA（美洲） | `https://hh-io.github.io/lol-esports-calendar/dist/lta.ics` |
-| 国际赛（MSI/Worlds/First Stand） | `https://hh-io.github.io/lol-esports-calendar/dist/intl.ics` |
+| 赛区 | 中文 | English | 한국어 |
+|------|------|---------|--------|
+| LPL（中国） | `https://hh-io.github.io/lol-esports-calendar/dist/lpl.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/lpl.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lpl.ics` |
+| LCK（韩国） | `https://hh-io.github.io/lol-esports-calendar/dist/lck.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/lck.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lck.ics` |
+| LEC（欧洲） | `https://hh-io.github.io/lol-esports-calendar/dist/lec.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/lec.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lec.ics` |
+| LCP（太平洋） | `https://hh-io.github.io/lol-esports-calendar/dist/lcp.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/lcp.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lcp.ics` |
+| LTA（美洲） | `https://hh-io.github.io/lol-esports-calendar/dist/lta.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/lta.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lta.ics` |
+| 国际赛（MSI/Worlds/First Stand） | `https://hh-io.github.io/lol-esports-calendar/dist/intl.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/en/intl.ics` | `https://hh-io.github.io/lol-esports-calendar/dist/ko/intl.ics` |
 
 > 自己 fork 部署时，把 `hh-io` / `lol-esports-calendar` 换成你的用户名 / 仓库名。
 
