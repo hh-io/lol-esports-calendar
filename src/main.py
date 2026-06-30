@@ -73,9 +73,10 @@ def main() -> int:
         print(f"[error] 抓取失败，保留现有 .ics 文件: {err}", file=sys.stderr)
         return 1
 
+    # 先把所有文件构建到内存，再统一校验、统一写入，保持全有或全无。
+    planned: list[tuple[Path, str, int]] = []  # (路径, 内容, 事件数)
     for lang in LANGS:
         out_dir = DIST if lang == DEFAULT_LANG else DIST / lang
-        out_dir.mkdir(parents=True, exist_ok=True)
         by_slug = events_by_lang[lang]
         for filename, (slugs, names) in OUTPUTS.items():
             events = []
@@ -84,11 +85,35 @@ def main() -> int:
             events.sort(key=lambda e: e.start_utc)
             cal_name = f"{CAL_PREFIX[lang]} · {names[lang]}"
             ics_text = build_calendar(cal_name, events, lang=lang)
-            out_path = out_dir / f"{filename}.ics"
-            out_path.write_text(ics_text, encoding="utf-8")
-            print(f"[info] 写入 {out_path} ({len(events)} 事件)")
+            planned.append((out_dir / f"{filename}.ics", ics_text, len(events)))
+
+    # 退化保护：接口可能返回 HTTP 200 却是空/残缺数据（赛区列表为空、结构变更），
+    # 这种情况不会抛 FetchError。若某个原本有事件的文件这次会被写成 0 事件，
+    # 视为数据退化，整体放弃写入、保留全部旧文件。
+    degraded = [
+        path
+        for path, _text, count in planned
+        if count == 0 and path.exists() and _existing_event_count(path) > 0
+    ]
+    if degraded:
+        names = ", ".join(str(p.relative_to(DIST)) for p in sorted(degraded))
+        print(
+            f"[error] 数据疑似退化（{names} 由非空变为 0 事件），保留现有 .ics 文件",
+            file=sys.stderr,
+        )
+        return 1
+
+    for path, ics_text, count in planned:
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(ics_text, encoding="utf-8")
+        print(f"[info] 写入 {path} ({count} 事件)")
 
     return 0
+
+
+def _existing_event_count(path: Path) -> int:
+    """已写出的 .ics 中 VEVENT 数量，用于判断数据是否退化。"""
+    return path.read_text(encoding="utf-8").count("BEGIN:VEVENT")
 
 
 if __name__ == "__main__":

@@ -19,7 +19,6 @@ STRINGS = {
         "format": "赛制",
         "matchup": "对阵",
         "tbd": "待定",
-        "updated": "数据更新",
     },
     "en": {
         "league": "League",
@@ -27,7 +26,6 @@ STRINGS = {
         "format": "Format",
         "matchup": "Match",
         "tbd": "TBD",
-        "updated": "Updated",
     },
     "ko": {
         "league": "리그",
@@ -35,7 +33,6 @@ STRINGS = {
         "format": "방식",
         "matchup": "대진",
         "tbd": "미정",
-        "updated": "업데이트",
     },
 }
 
@@ -90,7 +87,7 @@ def _summary(ev: Event, t: dict) -> str:
     return f"{prefix}: {vs}{block}"
 
 
-def _description(ev: Event, generated_at: str, t: dict) -> str:
+def _description(ev: Event, t: dict) -> str:
     parts = [f"{t['league']}: {ev.league_name}"]
     if ev.block:
         parts.append(f"{t['stage']}: {ev.block}")
@@ -98,16 +95,17 @@ def _description(ev: Event, generated_at: str, t: dict) -> str:
         parts.append(f"{t['format']}: BO{ev.best_of}")
     if len(ev.teams) >= 2:
         parts.append(f"{t['matchup']}: {ev.teams[0]['name']} vs {ev.teams[1]['name']}")
-    parts.append(f"{t['updated']}: {generated_at}")
     return "\n".join(parts)
 
 
 def build_calendar(name: str, events: list[Event], lang: str = "zh") -> str:
-    """生成单个 VCALENDAR 文本。lang 决定日历正文静态词条的语言。"""
+    """生成单个 VCALENDAR 文本。lang 决定日历正文静态词条的语言。
+
+    输出是赛程数据的纯函数：DTSTAMP 由事件开始时间派生（不取当前时间），
+    正文也不含生成时刻。这样赛程不变时每次输出逐字节一致，CI 不会每小时
+    产生"只有时间戳变化"的空提交。
+    """
     t = STRINGS.get(lang, STRINGS["zh"])
-    now = datetime.now(UTC)
-    dtstamp = now.strftime("%Y%m%dT%H%M%SZ")
-    generated_at = now.strftime("%Y-%m-%d %H:%M UTC")
 
     lines = [
         "BEGIN:VCALENDAR",
@@ -124,11 +122,11 @@ def build_calendar(name: str, events: list[Event], lang: str = "zh") -> str:
         lines += [
             "BEGIN:VEVENT",
             f"UID:{ev.uid}",
-            f"DTSTAMP:{dtstamp}",
+            f"DTSTAMP:{_ics_dt(ev.start_utc)}",
             f"DTSTART:{_ics_dt(ev.start_utc)}",
             f"DTEND:{_dt_plus(ev.start_utc, ev.duration_hours)}",
             f"SUMMARY:{_escape(_summary(ev, t))}",
-            f"DESCRIPTION:{_escape(_description(ev, generated_at, t))}",
+            f"DESCRIPTION:{_escape(_description(ev, t))}",
             "END:VEVENT",
         ]
     lines.append("END:VCALENDAR")
