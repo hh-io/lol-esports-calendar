@@ -28,6 +28,7 @@ python3 src/main.py   # 生成 dist/ 及 dist/en、dist/ko 下各赛区 .ics
 - 增删赛区：改 `src/main.py` 的 `OUTPUTS`(`文件名 -> (slug 列表, {语言: 显示名})`)。`leagueId` 运行时由 `getLeagues` 按 slug 动态解析,不硬编码。
 - 增删语言：改 `LANGS`(`main.py`),并在 `ics.py` 的 `STRINGS` 加该语言的静态词条;赛区名/阶段名由 API 按 `hl` 返回。
 - 回看比分窗口：`src/main.py` 的 `KEEP_COMPLETED_DAYS`。
+- `dist/all.ics` 是聚合所有赛区的派生订阅(`main.py` 里复用 `ALL_SLUGS` 自动生成,写在 `OUTPUTS` 字面量外),增删赛区时自动跟随,无需单独维护。
 - `fetch.py` 里的 `API_KEY` 是官网公开固定 key（非机密），不是需要保护的密钥。
 
 ## Lint / Format
