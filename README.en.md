@@ -6,6 +6,8 @@ Auto-fetches **League of Legends esports schedules** (**LPL / LCK / LEC / LCP / 
 
 Calendar content is available in Chinese / English / Korean (see below).
 
+> 🌐 Web subscription page: **<https://hh-io.github.io/lol-esports-calendar/>** (all region links and step-by-step instructions).
+
 ## Subscription links
 
 Copy a link below to subscribe (calendar content is in **English**). Want Chinese or Korean? Use the **简体中文 / 한국어** switch at the top of this page.

@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>英雄联盟职业赛程日历订阅 (.ics) — LPL / LCK / LEC / MSI / Worlds | LoL Esports Calendar</title>
+<meta name="description" content="免费订阅英雄联盟职业联赛赛程日历（.ics）：LPL、LCK、LEC、LCP、LTA、MSI、Worlds 国际赛。每小时自动更新，兼容 Apple 日历、Google 日历、Outlook。Free LoL esports schedule calendar subscription.">
+<meta name="keywords" content="英雄联盟赛程,LOL赛程,英雄联盟日历订阅,LPL赛程,LCK赛程,LEC赛程,MSI赛程,Worlds赛程,S赛赛程,ics订阅,日历订阅,lol esports calendar,lol schedule ics,league of legends schedule,롤 일정,롤 e스포츠 일정 캘린더">
+<meta name="author" content="hh-io">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://hh-io.github.io/lol-esports-calendar/">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="英雄联盟职业赛程日历订阅 (.ics) — LPL / LCK / LEC / MSI / Worlds">
+<meta property="og:description" content="免费订阅英雄联盟职业联赛赛程日历，每小时自动更新，兼容 Apple 日历 / Google 日历 / Outlook。">
+<meta property="og:url" content="https://hh-io.github.io/lol-esports-calendar/">
+<meta property="og:site_name" content="LoL Esports Calendar">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:locale:alternate" content="en_US">
+<meta property="og:locale:alternate" content="ko_KR">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="英雄联盟职业赛程日历订阅 (.ics) — LPL / LCK / LEC / MSI / Worlds">
+<meta name="twitter:description" content="免费订阅英雄联盟职业联赛赛程日历，每小时自动更新，兼容 Apple / Google / Outlook 日历。">
+
+<link rel="alternate" hreflang="zh-Hans" href="https://hh-io.github.io/lol-esports-calendar/">
+<link rel="alternate" hreflang="x-default" href="https://hh-io.github.io/lol-esports-calendar/">
+
+<!-- 结构化数据：软件应用 + 常见问题，帮助搜索引擎理解并生成富摘要 -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://hh-io.github.io/lol-esports-calendar/#website",
+      "url": "https://hh-io.github.io/lol-esports-calendar/",
+      "name": "LoL Esports Calendar · 英雄联盟职业赛程日历",
+      "description": "英雄联盟职业联赛赛程 .ics 日历订阅：LPL / LCK / LEC / LCP / LTA / MSI / Worlds。",
+      "inLanguage": ["zh-CN", "en", "ko"]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "LoL Esports Calendar",
+      "applicationCategory": "UtilitiesApplication",
+      "operatingSystem": "iOS, macOS, Android, Windows, Web",
+      "description": "抓取英雄联盟职业联赛（LPL / LCK / LEC / LCP / LTA / MSI / Worlds）赛程，生成可订阅的 .ics 日历，每小时自动更新。",
+      "url": "https://hh-io.github.io/lol-esports-calendar/",
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "如何订阅英雄联盟职业赛程日历？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "复制对应赛区的 .ics 链接（如 LPL、LCK、LEC），在 Apple 日历「新建日历订阅」、Google 日历「通过网址添加」或 Outlook「从 Internet 订阅」中粘贴即可，日历会自动按小时刷新。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "支持哪些赛区和赛事？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "支持 LPL（中国）、LCK（韩国）、LEC（欧洲）、LCP（太平洋）、LTA（美洲），以及 MSI、Worlds（S 赛）、First Stand 等国际赛，也提供合并全部赛区的 all.ics。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "赛程时间是本地时区吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "比赛时间以 UTC 存储，Apple 日历、Google 日历等客户端会自动换算为你所在的本地时区显示。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "日历支持哪些语言？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "日历正文支持简体中文、English、한국어三种语言，分别对应根目录、/en/ 与 /ko/ 下的 .ics 文件。"
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+<style>
+  :root { color-scheme: light dark; }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, "Segoe UI", Roboto, "PingFang SC", "Microsoft YaHei", sans-serif;
+    line-height: 1.65; margin: 0; padding: 0 1rem;
+    background: #fafafa; color: #1a1a1a;
+  }
+  @media (prefers-color-scheme: dark) {
+    body { background: #16181c; color: #e6e6e6; }
+    a { color: #6fb3ff; }
+    table { border-color: #333; }
+    th, td { border-color: #333; }
+    code { background: #23262b; }
+    .card { background: #1e2127; border-color: #2a2e35; }
+  }
+  main { max-width: 780px; margin: 0 auto; padding: 2rem 0 4rem; }
+  h1 { font-size: 1.75rem; line-height: 1.3; margin: 0 0 .5rem; }
+  h2 { font-size: 1.25rem; margin: 2.25rem 0 .75rem; }
+  .sub { color: #666; margin: 0 0 1.5rem; }
+  @media (prefers-color-scheme: dark) { .sub { color: #9aa0a6; } }
+  a { color: #0b66d0; }
+  table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
+  th, td { border: 1px solid #ddd; padding: .5rem .65rem; text-align: left; font-size: .95rem; }
+  th { background: rgba(127,127,127,.08); }
+  code { background: #f0f0f0; padding: .1rem .35rem; border-radius: 4px; font-size: .85em; word-break: break-all; }
+  .card { background: #fff; border: 1px solid #eee; border-radius: 10px; padding: 1rem 1.25rem; margin: 1rem 0; }
+  .langbar a { margin-right: .5rem; font-size: .9rem; }
+  footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid #ddd; font-size: .85rem; color: #666; }
+  .btn { display: inline-block; background: #0b66d0; color: #fff !important; padding: .35rem .8rem; border-radius: 6px; text-decoration: none; font-size: .9rem; }
+</style>
+</head>
+<body>
+<main>
+
+  <p class="langbar">🌐 简体中文 · <a href="https://github.com/hh-io/lol-esports-calendar/blob/main/README.en.md">English</a> · <a href="https://github.com/hh-io/lol-esports-calendar/blob/main/README.ko.md">한국어</a></p>
+
+  <h1>英雄联盟职业赛程日历订阅（.ics）</h1>
+  <p class="sub">LPL · LCK · LEC · LCP · LTA · MSI · Worlds — 一键订阅，每小时自动更新，兼容 Apple 日历 / Google 日历 / Outlook。</p>
+
+  <p>
+    这是一个免费开源的<strong>英雄联盟职业联赛赛程日历</strong>订阅服务。它自动抓取
+    LPL（中国）、LCK（韩国）、LEC（欧洲）、LCP（太平洋）、LTA（美洲）以及
+    MSI、Worlds（S 赛）、First Stand 等<strong>国际赛</strong>的最新赛程，
+    生成标准 <code>.ics</code> 日历文件，托管在 GitHub Pages 上，由 GitHub Actions
+    <strong>每小时刷新一次</strong>。比赛打完后约 1～2 小时内，对应场次还会带上比分。
+  </p>
+
+  <h2>📅 订阅链接（中文日历）</h2>
+  <p>复制下面的 URL，添加到你的日历 App 即可。想要英文 / 韩文日历，见页面下方多语言说明。</p>
+  <table>
+    <thead><tr><th>赛区 / 赛事</th><th>订阅 URL</th></tr></thead>
+    <tbody>
+      <tr><td>LPL（中国）</td><td><code>https://hh-io.github.io/lol-esports-calendar/dist/lpl.ics</code></td></tr>
+      <tr><td>LCK（韩国）</td><td><code>https://hh-io.github.io/lol-esports-calendar/dist/lck.ics</code></td></tr>
+      <tr><td>LEC（欧洲）</td><td><code>https://hh-io.github.io/lol-esports-calendar/dist/lec.ics</code></td></tr>
+      <tr><td>LCP（太平洋）</td><td><code>https://hh-io.github.io/lol-esports-calendar/dist/lcp.ics</code></td></tr>
+      <tr><td>LTA（美洲）</td><td><code>https://hh-io.github.io/lol-esports-calendar/dist/lta.ics</code></td></tr>
+      <tr><td>国际赛（MSI / Worlds / First Stand）</td><td><code>https://hh-io.github.io/lol-esports-calendar/dist/intl.ics</code></td></tr>
+      <tr><td>全部赛区（含国际赛）</td><td><code>https://hh-io.github.io/lol-esports-calendar/dist/all.ics</code></td></tr>
+    </tbody>
+  </table>
+
+  <h2>🍎 如何订阅</h2>
+  <div class="card">
+    <p><strong>Apple 日历（macOS）</strong>：日历 App → 菜单栏「文件」→「新建日历订阅…」→ 粘贴上面的 URL → 把「自动刷新」设为「每小时」。</p>
+    <p><strong>iPhone / iPad</strong>：设置 → 日历 → 账户 → 添加账户 → 其他 → 添加已订阅的日历 → 粘贴 URL。把 <code>https://</code> 换成 <code>webcal://</code> 可直接点链接唤起日历 App。</p>
+    <p><strong>Google 日历</strong>（网页版）：左侧「其他日历」→「＋」→「通过网址添加」→ 粘贴 URL。</p>
+    <p><strong>Outlook</strong>：「添加日历」→「从 Internet 订阅」→ 粘贴 URL。</p>
+  </div>
+
+  <h2>🌍 多语言 / Multi-language / 다국어</h2>
+  <p>
+    日历正文支持三种语言：<strong>简体中文</strong>（<code>/dist/</code>）、
+    <strong>English</strong>（<code>/dist/en/</code>）、
+    <strong>한국어</strong>（<code>/dist/ko/</code>）。例如英文版 LPL 日历为
+    <code>https://hh-io.github.io/lol-esports-calendar/dist/en/lpl.ics</code>。
+  </p>
+  <p lang="en">
+    <strong>Free League of Legends esports schedule calendar (.ics) subscription.</strong>
+    Auto-updated hourly with LPL, LCK, LEC, LCP, LTA, MSI and Worlds schedules —
+    subscribe in Apple Calendar, Google Calendar or Outlook. See the
+    <a href="https://github.com/hh-io/lol-esports-calendar/blob/main/README.en.md">English README</a>.
+  </p>
+  <p lang="ko">
+    <strong>무료 리그 오브 레전드 e스포츠 일정 캘린더(.ics) 구독.</strong>
+    LPL, LCK, LEC, LCP, LTA, MSI, Worlds 일정을 매시간 자동 업데이트하여
+    Apple 캘린더 · Google 캘린더 · Outlook에서 구독할 수 있습니다.
+    <a href="https://github.com/hh-io/lol-esports-calendar/blob/main/README.ko.md">한국어 README</a>를 참고하세요.
+  </p>
+
+  <h2>❓ 常见问题</h2>
+  <div class="card">
+    <p><strong>时间是本地时区吗？</strong> 比赛时间以 UTC 存储，客户端会自动按你的本地时区（如北京时间）显示。</p>
+    <p><strong>休赛期日历是空的？</strong> 某赛区暂无未来赛程时为空日历，属正常现象，新赛程发布后会自动出现。</p>
+    <p><strong>数据来源？</strong> 来自 lolesports 官网自身使用的公开接口，本项目仅做格式转换，与 Riot Games 无隶属或背书关系。</p>
+  </div>
+
+  <p style="margin-top:2rem">
+    <a class="btn" href="https://github.com/hh-io/lol-esports-calendar">⭐ 在 GitHub 上查看源码</a>
+  </p>
+
+  <footer>
+    <p>
+      开源项目 · <a href="https://github.com/hh-io/lol-esports-calendar">GitHub</a> ·
+      MIT License。赛程数据版权归 Riot Games 及相关方所有；本项目与 Riot Games 无任何隶属或背书关系。
+    </p>
+  </footer>
+
+</main>
+</body>
+</html>

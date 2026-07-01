@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hh-io.github.io/lol-esports-calendar/sitemap.xml
