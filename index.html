@@ -26,6 +26,8 @@
 <meta name="twitter:description" content="免费订阅英雄联盟职业联赛赛程日历，每小时自动更新，兼容 Apple / Google / Outlook 日历。">
 
 <link rel="alternate" hreflang="zh-Hans" href="https://hh-io.github.io/lol-esports-calendar/">
+<link rel="alternate" hreflang="en" href="https://hh-io.github.io/lol-esports-calendar/en/">
+<link rel="alternate" hreflang="ko" href="https://hh-io.github.io/lol-esports-calendar/ko/">
 <link rel="alternate" hreflang="x-default" href="https://hh-io.github.io/lol-esports-calendar/">
 
 <!-- 结构化数据：软件应用 + 常见问题，帮助搜索引擎理解并生成富摘要 -->
@@ -91,91 +93,12 @@
 }
 </script>
 
-<style>
-  :root {
-    color-scheme: light dark;
-    --canvas: #faf9f5;
-    --surface-card: #efe9de;
-    --hairline: #e6dfd8;
-    --ink: #141413;
-    --body: #3d3d3a;
-    --muted: #6c6a64;
-    --primary: #cc785c;
-    --primary-active: #a9583e;
-    --on-primary: #fff;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --canvas: #181715;
-      --surface-card: #252320;
-      --hairline: rgba(255, 255, 255, .1);
-      --ink: #faf9f5;
-      --body: #d8d5cd;
-      --muted: #a09d96;
-      --primary: #e0916f;
-      --primary-active: #ec9c78;
-    }
-  }
-  * { box-sizing: border-box; }
-  body {
-    font-family: -apple-system, "Segoe UI", Roboto, "PingFang SC", "Microsoft YaHei", sans-serif;
-    line-height: 1.65; margin: 0; padding: 0 1rem;
-    background: var(--canvas); color: var(--body);
-  }
-  main { max-width: 780px; margin: 0 auto; padding: 2.5rem 0 4rem; }
-  h1 {
-    font-family: Georgia, "Songti SC", "Noto Serif SC", serif;
-    font-weight: 400; letter-spacing: -.01em;
-    font-size: 2rem; line-height: 1.3; margin: 0 0 .6rem; color: var(--ink);
-  }
-  h2 {
-    font-family: Georgia, "Songti SC", "Noto Serif SC", serif;
-    font-weight: 400;
-    font-size: 1.4rem; margin: 2.75rem 0 1rem; color: var(--ink);
-  }
-  .sub { color: var(--muted); margin: 0 0 1.75rem; font-size: 1.05rem; }
-  a { color: var(--primary); }
-  a:hover { color: var(--primary-active); }
-  table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
-  th, td { border: 1px solid var(--hairline); padding: .6rem .75rem; text-align: left; font-size: .95rem; }
-  th { background: var(--surface-card); color: var(--ink); font-weight: 600; }
-  code {
-    background: var(--surface-card); color: var(--ink);
-    padding: .15rem .4rem; border-radius: 6px; font-size: .85em; word-break: break-all;
-  }
-  .card {
-    background: var(--surface-card); border-radius: 12px;
-    padding: 1.25rem 1.5rem; margin: 1rem 0;
-  }
-  .card p { margin: .6rem 0; }
-  .card p:first-child { margin-top: 0; }
-  .card p:last-child { margin-bottom: 0; }
-  .langbar { display: flex; flex-wrap: wrap; gap: .4rem; margin: 0 0 1.5rem; padding: 0; list-style: none; }
-  .langbar a, .langbar span {
-    font-size: .85rem; padding: .3rem .8rem; border-radius: 9999px;
-    background: var(--surface-card); color: var(--muted); text-decoration: none;
-  }
-  .langbar span { color: var(--ink); font-weight: 600; }
-  footer {
-    margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--hairline);
-    font-size: .85rem; color: var(--muted);
-  }
-  .btn {
-    display: inline-block; background: var(--primary); color: var(--on-primary) !important;
-    padding: .6rem 1.1rem; border-radius: 8px; text-decoration: none; font-size: .9rem; font-weight: 500;
-  }
-  .btn:hover { background: var(--primary-active); }
-  .badge {
-    display: inline-block; background: var(--primary); color: var(--on-primary);
-    font-size: .7rem; font-weight: 600; letter-spacing: .04em;
-    padding: .1rem .5rem; border-radius: 9999px; margin-left: .4rem; vertical-align: middle;
-  }
-</style>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 <main>
 
-  <p class="langbar"><span>简体中文</span><a href="https://github.com/hh-io/lol-esports-calendar/blob/main/README.en.md">English</a><a href="https://github.com/hh-io/lol-esports-calendar/blob/main/README.ko.md">한국어</a></p>
+  <p class="langbar"><span>简体中文</span><a href="en/">English</a><a href="ko/">한국어</a></p>
 
   <h1>英雄联盟职业赛程日历订阅（.ics）</h1>
   <p class="sub">LPL · LCK · LEC · LCP · LTA · MSI · Worlds — 一键订阅，每小时自动更新，兼容 Apple 日历 / Google 日历 / Outlook。</p>
@@ -221,14 +144,14 @@
   <p lang="en">
     <strong>Free League of Legends esports schedule calendar (.ics) subscription.</strong>
     Auto-updated hourly with LPL, LCK, LEC, LCP, LTA, MSI and Worlds schedules —
-    subscribe in Apple Calendar, Google Calendar or Outlook. See the
-    <a href="https://github.com/hh-io/lol-esports-calendar/blob/main/README.en.md">English README</a>.
+    subscribe in Apple Calendar, Google Calendar or Outlook. View the
+    <a href="en/">English version of this page →</a>
   </p>
   <p lang="ko">
     <strong>무료 리그 오브 레전드 e스포츠 일정 캘린더(.ics) 구독.</strong>
     LPL, LCK, LEC, LCP, LTA, MSI, Worlds 일정을 매시간 자동 업데이트하여
     Apple 캘린더 · Google 캘린더 · Outlook에서 구독할 수 있습니다.
-    <a href="https://github.com/hh-io/lol-esports-calendar/blob/main/README.ko.md">한국어 README</a>를 참고하세요.
+    <a href="ko/">한국어 페이지 보기 →</a>
   </p>
 
   <h2>❓ 常见问题</h2>
