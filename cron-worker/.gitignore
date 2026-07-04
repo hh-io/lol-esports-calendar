@@ -1,0 +1,3 @@
+# wrangler 本地状态/缓存（含 account id 等身份信息），不入库
+.wrangler/
+node_modules/

@@ -1,0 +1,11 @@
+name = "lol-esports-cron"
+main = "worker.js"
+compatibility_date = "2026-07-04"
+
+# 只有 scheduled 触发器、不对外提供 HTTP，关掉默认开启的公开 URL，减少暴露面。
+workers_dev = false
+preview_urls = false
+
+# 每小时触发一次（UTC）。走 API 触发不受 GitHub schedule 丢弃影响，无需错峰。
+[triggers]
+crons = ["20 * * * *"]
