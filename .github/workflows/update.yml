@@ -2,7 +2,7 @@ name: Update LoL calendars
 
 on:
   schedule:
-    - cron: "53 * * * *"    # 每小时（UTC）；错峰到 53 分，避开整点高负载被丢弃
+    - cron: "53 * * * *"    # 兜底：主触发由 Cloudflare Worker 走 workflow_dispatch 负责（见 cron-worker/），schedule 会被 GitHub 大量丢弃，仅作后备
   workflow_dispatch: {}      # 支持手动触发
 
 permissions:
