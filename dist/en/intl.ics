@@ -93,7 +93,7 @@ UID:lolmatch-115570934355614569@lol-esports-calendar
 DTSTAMP:20260705T030000Z
 DTSTART:20260705T030000Z
 DTEND:20260705T073000Z
-SUMMARY:MSI: TSW vs TES (Knockouts)
+SUMMARY:MSI: TSW 3-1 TES (Knockouts)
 DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: Team Secret
   Whales vs TOP ESPORTS
 END:VEVENT
@@ -136,8 +136,9 @@ UID:lolmatch-115570934355614587@lol-esports-calendar
 DTSTAMP:20260708T080000Z
 DTSTART:20260708T080000Z
 DTEND:20260708T123000Z
-SUMMARY:MSI: TBD vs TBD (Knockouts)
-DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: TBD vs TBD
+SUMMARY:MSI: TBD vs TSW (Knockouts)
+DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: TBD vs Team
+  Secret Whales
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115570934355614575@lol-esports-calendar
