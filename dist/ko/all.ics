@@ -93,7 +93,7 @@ UID:lolmatch-115570934355614557@lol-esports-calendar
 DTSTAMP:20260705T080000Z
 DTSTART:20260705T080000Z
 DTEND:20260705T123000Z
-SUMMARY:MSI: HLE vs G2 (토너먼트 스테이지)
+SUMMARY:MSI: HLE 3-0 G2 (토너먼트 스테이지)
 DESCRIPTION:리그: MSI\n단계: 토너먼트 스테이지\n방식: BO5\n
  대진: Hanwha Life Esports vs G2 Esports
 END:VEVENT
@@ -120,9 +120,9 @@ UID:lolmatch-115570934355614581@lol-esports-calendar
 DTSTAMP:20260708T030000Z
 DTSTART:20260708T030000Z
 DTEND:20260708T073000Z
-SUMMARY:MSI: TBD vs TBD (토너먼트 스테이지)
+SUMMARY:MSI: TBD vs G2 (토너먼트 스테이지)
 DESCRIPTION:리그: MSI\n단계: 토너먼트 스테이지\n방식: BO5\n
- 대진: TBD vs TBD
+ 대진: TBD vs G2 Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115570934355614587@lol-esports-calendar
@@ -138,9 +138,9 @@ UID:lolmatch-115570934355614575@lol-esports-calendar
 DTSTAMP:20260709T080000Z
 DTSTART:20260709T080000Z
 DTEND:20260709T123000Z
-SUMMARY:MSI: TBD vs TBD (토너먼트 스테이지)
+SUMMARY:MSI: TBD vs HLE (토너먼트 스테이지)
 DESCRIPTION:리그: MSI\n단계: 토너먼트 스테이지\n방식: BO5\n
- 대진: TBD vs TBD
+ 대진: TBD vs Hanwha Life Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115570934355614593@lol-esports-calendar

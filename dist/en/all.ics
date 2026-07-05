@@ -93,7 +93,7 @@ UID:lolmatch-115570934355614557@lol-esports-calendar
 DTSTAMP:20260705T080000Z
 DTSTART:20260705T080000Z
 DTEND:20260705T123000Z
-SUMMARY:MSI: HLE vs G2 (Knockouts)
+SUMMARY:MSI: HLE 3-0 G2 (Knockouts)
 DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: Hanwha Life
   Esports vs G2 Esports
 END:VEVENT
@@ -119,8 +119,9 @@ UID:lolmatch-115570934355614581@lol-esports-calendar
 DTSTAMP:20260708T030000Z
 DTSTART:20260708T030000Z
 DTEND:20260708T073000Z
-SUMMARY:MSI: TBD vs TBD (Knockouts)
-DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: TBD vs TBD
+SUMMARY:MSI: TBD vs G2 (Knockouts)
+DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: TBD vs G2 E
+ sports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115570934355614587@lol-esports-calendar
@@ -136,8 +137,9 @@ UID:lolmatch-115570934355614575@lol-esports-calendar
 DTSTAMP:20260709T080000Z
 DTSTART:20260709T080000Z
 DTEND:20260709T123000Z
-SUMMARY:MSI: TBD vs TBD (Knockouts)
-DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: TBD vs TBD
+SUMMARY:MSI: TBD vs HLE (Knockouts)
+DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: TBD vs Hanw
+ ha Life Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115570934355614593@lol-esports-calendar
