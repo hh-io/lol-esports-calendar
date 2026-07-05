@@ -6,7 +6,9 @@ on:
   workflow_dispatch: {}      # 支持手动触发
 
 permissions:
-  contents: write
+  contents: write            # 提交刷新后的 dist/
+  pages: write               # 部署到 GitHub Pages
+  id-token: write            # deploy-pages 走 OIDC 需要
 
 concurrency:
   group: update-calendars
@@ -15,6 +17,10 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    # 用 GitHub Actions 部署 Pages，绕开会偶发挂掉的 legacy 分支构建管线
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v5
 
@@ -22,6 +28,7 @@ jobs:
         with:
           python-version: "3.12"
 
+      # main.py 抓取失败会非 0 退出，下面的提交/部署都不会跑，已订阅文件保持上一份成功部署
       - name: Generate .ics
         run: python src/main.py
 
@@ -36,3 +43,29 @@ jobs:
           else
             echo "No changes."
           fi
+
+      # configure-pages 会把仓库 Pages 源从 legacy 分支构建切成 GitHub Actions
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      # 只发布对外内容，排除 VCS/开发文件；保持 dist/、en/、ko/ 等 URL 路径不变
+      - name: Stage site
+        run: |
+          mkdir -p _site
+          rsync -a --delete \
+            --exclude='.git' \
+            --exclude='.github' \
+            --exclude='.claude' \
+            --exclude='_site' \
+            --exclude='src' \
+            --exclude='cron-worker' \
+            --exclude='ruff.toml' \
+            --exclude='CLAUDE.md' \
+            ./ _site/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
