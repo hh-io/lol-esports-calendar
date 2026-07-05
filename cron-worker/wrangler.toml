@@ -9,3 +9,7 @@ preview_urls = false
 # 每小时触发一次（UTC）。走 API 触发不受 GitHub schedule 丢弃影响，无需错峰。
 [triggers]
 crons = ["20 * * * *"]
+
+# 持久化日志到 Cloudflare Dashboard（Workers → 本 Worker → Logs），便于排查失败。
+[observability]
+enabled = true
