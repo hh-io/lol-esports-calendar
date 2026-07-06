@@ -93,7 +93,7 @@ UID:lolmatch-115570934355614551@lol-esports-calendar
 DTSTAMP:20260706T030000Z
 DTSTART:20260706T030000Z
 DTEND:20260706T073000Z
-SUMMARY:MSI: BLG vs LYON (Knockouts)
+SUMMARY:MSI: BLG 3-0 LYON (Knockouts)
 DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: BILIBILI GA
  MING vs LYON
 END:VEVENT
@@ -119,18 +119,18 @@ UID:lolmatch-115570934355614587@lol-esports-calendar
 DTSTAMP:20260708T080000Z
 DTSTART:20260708T080000Z
 DTEND:20260708T123000Z
-SUMMARY:MSI: TBD vs TSW (Knockouts)
-DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: TBD vs Team
-  Secret Whales
+SUMMARY:MSI: TSW vs LYON (Knockouts)
+DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: Team Secret
+  Whales vs LYON
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115570934355614575@lol-esports-calendar
 DTSTAMP:20260709T080000Z
 DTSTART:20260709T080000Z
 DTEND:20260709T123000Z
-SUMMARY:MSI: TBD vs HLE (Knockouts)
-DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: TBD vs Hanw
- ha Life Esports
+SUMMARY:MSI: HLE vs BLG (Knockouts)
+DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: Hanwha Life
+  Esports vs BILIBILI GAMING
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115570934355614593@lol-esports-calendar
