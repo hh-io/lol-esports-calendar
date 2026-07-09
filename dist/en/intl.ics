@@ -101,9 +101,9 @@ UID:lolmatch-115570934355614575@lol-esports-calendar
 DTSTAMP:20260709T080000Z
 DTSTART:20260709T080000Z
 DTEND:20260709T123000Z
-SUMMARY:MSI: HLE vs BLG (Knockouts)
-DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: Hanwha Life
-  Esports vs BILIBILI GAMING
+SUMMARY:MSI: BLG vs HLE (Knockouts)
+DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: BILIBILI GA
+ MING vs Hanwha Life Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115570934355614593@lol-esports-calendar
