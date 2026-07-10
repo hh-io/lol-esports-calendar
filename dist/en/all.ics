@@ -92,7 +92,7 @@ UID:lolmatch-115570934355614593@lol-esports-calendar
 DTSTAMP:20260710T080000Z
 DTSTART:20260710T080000Z
 DTEND:20260710T123000Z
-SUMMARY:MSI: G2 vs LYON (Knockouts)
+SUMMARY:MSI: G2 0-3 LYON (Knockouts)
 DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: G2 Esports 
  vs LYON
 END:VEVENT
@@ -101,9 +101,9 @@ UID:lolmatch-115570934355614599@lol-esports-calendar
 DTSTAMP:20260711T080000Z
 DTSTART:20260711T080000Z
 DTEND:20260711T123000Z
-SUMMARY:MSI: TBD vs HLE (Knockouts)
-DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: TBD vs Hanw
- ha Life Esports
+SUMMARY:MSI: HLE vs LYON (Knockouts)
+DESCRIPTION:League: MSI\nStage: Knockouts\nFormat: BO5\nMatch: Hanwha Life
+  Esports vs LYON
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115570934355614605@lol-esports-calendar
