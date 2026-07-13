@@ -41,11 +41,11 @@ OUTPUTS = {
         {"zh": "LTA（美洲）", "en": "LTA (Americas)", "ko": "LTA (아메리카)"},
     ),
     "intl": (
-        ["msi", "worlds", "first_stand"],
+        ["msi", "worlds", "first_stand", "ewc_lol"],
         {
-            "zh": "国际赛 (MSI/Worlds/First Stand)",
-            "en": "International (MSI/Worlds/First Stand)",
-            "ko": "국제 대회 (MSI/Worlds/First Stand)",
+            "zh": "国际赛 (MSI/Worlds/First Stand/EWC)",
+            "en": "International (MSI/Worlds/First Stand/EWC)",
+            "ko": "국제 대회 (MSI/Worlds/First Stand/EWC)",
         },
     ),
 }

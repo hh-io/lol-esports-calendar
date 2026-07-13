@@ -19,7 +19,7 @@
 | LEC (유럽) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lec.ics` |
 | LCP (태평양) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lcp.ics` |
 | LTA (아메리카) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lta.ics` |
-| 국제 대회 (MSI/Worlds/First Stand) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/intl.ics` |
+| 국제 대회 (MSI/Worlds/First Stand/EWC) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/intl.ics` |
 | 전체 리그 (국제 대회 포함) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/all.ics` |
 
 > 직접 포크해서 배포할 때는 `hh-io` / `lol-esports-calendar`를 본인 사용자명 / 저장소명으로 바꾸세요.
