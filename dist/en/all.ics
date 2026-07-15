@@ -102,9 +102,9 @@ UID:lolmatch-116855104460702342@lol-esports-calendar
 DTSTAMP:20260715T123000Z
 DTSTART:20260715T123000Z
 DTEND:20260715T133000Z
-SUMMARY:EWC: HLE vs ML (Groups)
+SUMMARY:EWC: ML vs HLE (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO1\nMatch: 
- Hanwha Life Esports vs MIBR.LOS
+ MIBR.LOS vs Hanwha Life Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116855104460702344@lol-esports-calendar
@@ -138,9 +138,9 @@ UID:lolmatch-116855104460702306@lol-esports-calendar
 DTSTAMP:20260715T165500Z
 DTSTART:20260715T165500Z
 DTEND:20260715T195500Z
-SUMMARY:EWC: TBD vs TBD (Groups)
+SUMMARY:EWC: DK vs FUR (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO3\nMatch: 
- TBD vs TBD
+ Dplus KIA vs FURIA
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116855104460702348@lol-esports-calendar
@@ -174,9 +174,9 @@ UID:lolmatch-116855104460702304@lol-esports-calendar
 DTSTAMP:20260716T101000Z
 DTSTART:20260716T101000Z
 DTEND:20260716T111000Z
-SUMMARY:EWC: TBD vs TBD (Groups)
+SUMMARY:EWC: AGAL vs G2 (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO1\nMatch: 
- TBD vs TBD
+ AG.AL vs G2 Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116855104460702346@lol-esports-calendar
