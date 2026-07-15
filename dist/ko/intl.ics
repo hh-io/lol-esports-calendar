@@ -138,18 +138,18 @@ UID:lolmatch-116855104460702318@lol-esports-calendar
 DTSTAMP:20260715T161000Z
 DTSTART:20260715T161000Z
 DTEND:20260715T171000Z
-SUMMARY:EWC: TBD vs GEN (그룹)
+SUMMARY:EWC: GEN vs SEN (그룹)
 DESCRIPTION:리그: Esports World Cup\n단계: 그룹\n방식: BO1\n대진
- : TBD vs Gen.G Esports
+ : Gen.G Esports vs Sentinels
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116855104460702320@lol-esports-calendar
 DTSTAMP:20260715T161000Z
 DTSTART:20260715T161000Z
 DTEND:20260715T191000Z
-SUMMARY:EWC: TBD vs KC (그룹)
+SUMMARY:EWC: KC vs TS (그룹)
 DESCRIPTION:리그: Esports World Cup\n단계: 그룹\n방식: BO3\n대진
- : TBD vs Karmine Corp
+ : Karmine Corp vs Team Secret
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116855104460702346@lol-esports-calendar
