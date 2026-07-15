@@ -66,7 +66,7 @@ UID:lolmatch-116855104460702316@lol-esports-calendar
 DTSTAMP:20260715T090000Z
 DTSTART:20260715T090000Z
 DTEND:20260715T100000Z
-SUMMARY:Esports World Cup: GEN vs KC (Groups)
+SUMMARY:EWC: GEN vs KC (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO1\nMatch: 
  Gen.G Esports vs Karmine Corp
 END:VEVENT
@@ -75,7 +75,7 @@ UID:lolmatch-116855104460702314@lol-esports-calendar
 DTSTAMP:20260715T090000Z
 DTSTART:20260715T090000Z
 DTEND:20260715T100000Z
-SUMMARY:Esports World Cup: TS vs SEN (Groups)
+SUMMARY:EWC: TS vs SEN (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO1\nMatch: 
  Team Secret vs Sentinels
 END:VEVENT
@@ -84,7 +84,7 @@ UID:lolmatch-116855104460702330@lol-esports-calendar
 DTSTAMP:20260715T101000Z
 DTSTART:20260715T101000Z
 DTEND:20260715T111000Z
-SUMMARY:Esports World Cup: GAM vs T1 (Groups)
+SUMMARY:EWC: GAM vs T1 (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO1\nMatch: 
  GAM Esports vs T1
 END:VEVENT
@@ -93,7 +93,7 @@ UID:lolmatch-116855104460702328@lol-esports-calendar
 DTSTAMP:20260715T101000Z
 DTSTART:20260715T101000Z
 DTEND:20260715T111000Z
-SUMMARY:Esports World Cup: BLG vs MKOI (Groups)
+SUMMARY:EWC: BLG vs MKOI (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO1\nMatch: 
  BILIBILI GAMING vs Movistar KOI
 END:VEVENT
@@ -102,7 +102,7 @@ UID:lolmatch-116855104460702302@lol-esports-calendar
 DTSTAMP:20260715T112000Z
 DTSTART:20260715T112000Z
 DTEND:20260715T122000Z
-SUMMARY:Esports World Cup: DK vs AGAL (Groups)
+SUMMARY:EWC: DK vs AGAL (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO1\nMatch: 
  Dplus KIA vs AG.AL
 END:VEVENT
@@ -111,7 +111,7 @@ UID:lolmatch-116855104460702300@lol-esports-calendar
 DTSTAMP:20260715T112000Z
 DTSTART:20260715T112000Z
 DTEND:20260715T122000Z
-SUMMARY:Esports World Cup: G2 vs FUR (Groups)
+SUMMARY:EWC: G2 vs FUR (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO1\nMatch: 
  G2 Esports vs FURIA
 END:VEVENT
@@ -120,7 +120,7 @@ UID:lolmatch-116855104460702342@lol-esports-calendar
 DTSTAMP:20260715T123000Z
 DTSTART:20260715T123000Z
 DTEND:20260715T133000Z
-SUMMARY:Esports World Cup: HLE vs ML (Groups)
+SUMMARY:EWC: HLE vs ML (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO1\nMatch: 
  Hanwha Life Esports vs MIBR.LOS
 END:VEVENT
@@ -129,7 +129,7 @@ UID:lolmatch-116855104460702344@lol-esports-calendar
 DTSTAMP:20260715T123000Z
 DTSTART:20260715T123000Z
 DTEND:20260715T133000Z
-SUMMARY:Esports World Cup: JDG vs LYON (Groups)
+SUMMARY:EWC: JDG vs LYON (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO1\nMatch: 
  Beijing JDG Esports vs LYON
 END:VEVENT
@@ -138,7 +138,7 @@ UID:lolmatch-116855104460702304@lol-esports-calendar
 DTSTAMP:20260715T134000Z
 DTSTART:20260715T134000Z
 DTEND:20260715T144000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Groups)
+SUMMARY:EWC: TBD vs TBD (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO1\nMatch: 
  TBD vs TBD
 END:VEVENT
@@ -147,7 +147,7 @@ UID:lolmatch-116855104460702306@lol-esports-calendar
 DTSTAMP:20260715T134000Z
 DTSTART:20260715T134000Z
 DTEND:20260715T164000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Groups)
+SUMMARY:EWC: TBD vs TBD (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO3\nMatch: 
  TBD vs TBD
 END:VEVENT
@@ -156,7 +156,7 @@ UID:lolmatch-116855104460702318@lol-esports-calendar
 DTSTAMP:20260715T161000Z
 DTSTART:20260715T161000Z
 DTEND:20260715T171000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Groups)
+SUMMARY:EWC: TBD vs TBD (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO1\nMatch: 
  TBD vs TBD
 END:VEVENT
@@ -165,7 +165,7 @@ UID:lolmatch-116855104460702320@lol-esports-calendar
 DTSTAMP:20260715T161000Z
 DTSTART:20260715T161000Z
 DTEND:20260715T191000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Groups)
+SUMMARY:EWC: TBD vs TBD (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO3\nMatch: 
  TBD vs TBD
 END:VEVENT
@@ -174,7 +174,7 @@ UID:lolmatch-116855104460702346@lol-esports-calendar
 DTSTAMP:20260716T090000Z
 DTSTART:20260716T090000Z
 DTEND:20260716T100000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Groups)
+SUMMARY:EWC: TBD vs TBD (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO1\nMatch: 
  TBD vs TBD
 END:VEVENT
@@ -183,7 +183,7 @@ UID:lolmatch-116855104460702348@lol-esports-calendar
 DTSTAMP:20260716T090000Z
 DTSTART:20260716T090000Z
 DTEND:20260716T120000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Groups)
+SUMMARY:EWC: TBD vs TBD (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO3\nMatch: 
  TBD vs TBD
 END:VEVENT
@@ -192,7 +192,7 @@ UID:lolmatch-116855104460702332@lol-esports-calendar
 DTSTAMP:20260716T101000Z
 DTSTART:20260716T101000Z
 DTEND:20260716T111000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Groups)
+SUMMARY:EWC: TBD vs TBD (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO1\nMatch: 
  TBD vs TBD
 END:VEVENT
@@ -201,7 +201,7 @@ UID:lolmatch-116855104460702334@lol-esports-calendar
 DTSTAMP:20260716T101000Z
 DTSTART:20260716T101000Z
 DTEND:20260716T131000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Groups)
+SUMMARY:EWC: TBD vs TBD (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO3\nMatch: 
  TBD vs TBD
 END:VEVENT
@@ -210,7 +210,7 @@ UID:lolmatch-116855104460702310@lol-esports-calendar
 DTSTAMP:20260716T112000Z
 DTSTART:20260716T112000Z
 DTEND:20260716T142000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Groups)
+SUMMARY:EWC: TBD vs TBD (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO3\nMatch: 
  TBD vs TBD
 END:VEVENT
@@ -219,7 +219,7 @@ UID:lolmatch-116855104460702324@lol-esports-calendar
 DTSTAMP:20260716T112000Z
 DTSTART:20260716T112000Z
 DTEND:20260716T142000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Groups)
+SUMMARY:EWC: TBD vs TBD (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO3\nMatch: 
  TBD vs TBD
 END:VEVENT
@@ -228,7 +228,7 @@ UID:lolmatch-116855104460702338@lol-esports-calendar
 DTSTAMP:20260716T135000Z
 DTSTART:20260716T135000Z
 DTEND:20260716T165000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Groups)
+SUMMARY:EWC: TBD vs TBD (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO3\nMatch: 
  TBD vs TBD
 END:VEVENT
@@ -237,7 +237,7 @@ UID:lolmatch-116855104460702352@lol-esports-calendar
 DTSTAMP:20260716T135000Z
 DTSTART:20260716T135000Z
 DTEND:20260716T165000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Groups)
+SUMMARY:EWC: TBD vs TBD (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO3\nMatch: 
  TBD vs TBD
 END:VEVENT
@@ -246,7 +246,7 @@ UID:lolmatch-116855104460702356@lol-esports-calendar
 DTSTAMP:20260717T110000Z
 DTSTART:20260717T110000Z
 DTEND:20260717T140000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Quarterfinals)
+SUMMARY:EWC: TBD vs TBD (Quarterfinals)
 DESCRIPTION:League: Esports World Cup\nStage: Quarterfinals\nFormat: BO3\n
  Match: TBD vs TBD
 END:VEVENT
@@ -255,7 +255,7 @@ UID:lolmatch-116855104460702360@lol-esports-calendar
 DTSTAMP:20260717T110000Z
 DTSTART:20260717T110000Z
 DTEND:20260717T140000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Quarterfinals)
+SUMMARY:EWC: TBD vs TBD (Quarterfinals)
 DESCRIPTION:League: Esports World Cup\nStage: Quarterfinals\nFormat: BO3\n
  Match: TBD vs TBD
 END:VEVENT
@@ -264,7 +264,7 @@ UID:lolmatch-116855104460702364@lol-esports-calendar
 DTSTAMP:20260717T133000Z
 DTSTART:20260717T133000Z
 DTEND:20260717T163000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Quarterfinals)
+SUMMARY:EWC: TBD vs TBD (Quarterfinals)
 DESCRIPTION:League: Esports World Cup\nStage: Quarterfinals\nFormat: BO3\n
  Match: TBD vs TBD
 END:VEVENT
@@ -273,7 +273,7 @@ UID:lolmatch-116855104460702368@lol-esports-calendar
 DTSTAMP:20260717T133000Z
 DTSTART:20260717T133000Z
 DTEND:20260717T163000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Quarterfinals)
+SUMMARY:EWC: TBD vs TBD (Quarterfinals)
 DESCRIPTION:League: Esports World Cup\nStage: Quarterfinals\nFormat: BO3\n
  Match: TBD vs TBD
 END:VEVENT
@@ -282,7 +282,7 @@ UID:lolmatch-116855104460702372@lol-esports-calendar
 DTSTAMP:20260718T110000Z
 DTSTART:20260718T110000Z
 DTEND:20260718T140000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Semifinals)
+SUMMARY:EWC: TBD vs TBD (Semifinals)
 DESCRIPTION:League: Esports World Cup\nStage: Semifinals\nFormat: BO3\nMat
  ch: TBD vs TBD
 END:VEVENT
@@ -291,7 +291,7 @@ UID:lolmatch-116855104460702376@lol-esports-calendar
 DTSTAMP:20260718T133000Z
 DTSTART:20260718T133000Z
 DTEND:20260718T163000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Semifinals)
+SUMMARY:EWC: TBD vs TBD (Semifinals)
 DESCRIPTION:League: Esports World Cup\nStage: Semifinals\nFormat: BO3\nMat
  ch: TBD vs TBD
 END:VEVENT
@@ -300,7 +300,7 @@ UID:lolmatch-116855104460702386@lol-esports-calendar
 DTSTAMP:20260719T100000Z
 DTSTART:20260719T100000Z
 DTEND:20260719T130000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Finals)
+SUMMARY:EWC: TBD vs TBD (Finals)
 DESCRIPTION:League: Esports World Cup\nStage: Finals\nFormat: BO3\nMatch: 
  TBD vs TBD
 END:VEVENT
@@ -309,7 +309,7 @@ UID:lolmatch-116855104460702380@lol-esports-calendar
 DTSTAMP:20260719T123000Z
 DTSTART:20260719T123000Z
 DTEND:20260719T170000Z
-SUMMARY:Esports World Cup: TBD vs TBD (Finals)
+SUMMARY:EWC: TBD vs TBD (Finals)
 DESCRIPTION:League: Esports World Cup\nStage: Finals\nFormat: BO5\nMatch: 
  TBD vs TBD
 END:VEVENT

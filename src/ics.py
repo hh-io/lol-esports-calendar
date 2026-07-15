@@ -11,6 +11,13 @@ from fetch import Event
 
 PRODID = "-//lol-esports-calendar//EN//"
 
+# 标题前缀用的赛事缩写，按 slug 索引（跨语言稳定，不受 API 显示名变动影响）。
+# 只影响 SUMMARY；DESCRIPTION 仍保留 API 返回的全名。
+SHORT_NAMES = {
+    "ewc_lol": "EWC",
+    "worlds": "Worlds",
+}
+
 # 日历正文的静态词条翻译。赛区名与阶段名由 API 按 hl 返回，不在此表内。
 STRINGS = {
     "zh": {
@@ -82,7 +89,7 @@ def _summary(ev: Event, t: dict) -> str:
             vs = f"{a['code']} {a['score']}-{b['score']} {b['code']}"
     else:
         vs = t["tbd"]
-    prefix = ev.league_name or ev.league_slug.upper()
+    prefix = SHORT_NAMES.get(ev.league_slug) or ev.league_name or ev.league_slug.upper()
     block = f" ({ev.block})" if ev.block else ""
     return f"{prefix}: {vs}{block}"
 
