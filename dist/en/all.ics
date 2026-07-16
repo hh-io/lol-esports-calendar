@@ -183,18 +183,18 @@ UID:lolmatch-116855104460702324@lol-esports-calendar
 DTSTAMP:20260716T112000Z
 DTSTART:20260716T112000Z
 DTEND:20260716T142000Z
-SUMMARY:EWC: TBD vs KC (Groups)
+SUMMARY:EWC: KC vs SEN (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO3\nMatch: 
- TBD vs Karmine Corp
+ Karmine Corp vs Sentinels
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116855104460702338@lol-esports-calendar
 DTSTAMP:20260716T112000Z
 DTSTART:20260716T112000Z
 DTEND:20260716T142000Z
-SUMMARY:EWC: TBD vs GAM (Groups)
+SUMMARY:EWC: GAM vs T1 (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO3\nMatch: 
- TBD vs GAM Esports
+ GAM Esports vs T1
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116855104460702310@lol-esports-calendar
