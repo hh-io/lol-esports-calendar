@@ -12,9 +12,9 @@ UID:lolmatch-115548681803406275@lol-esports-calendar
 DTSTAMP:20260724T143000Z
 DTSTART:20260724T143000Z
 DTEND:20260724T173000Z
-SUMMARY:LEC: G2 vs MKOI (第 1 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 1 周\n赛制: BO3\n对阵: G2 Esport
- s vs Movistar KOI
+SUMMARY:LEC: MKOI vs G2 (第 1 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 1 周\n赛制: BO3\n对阵: Movistar 
+ KOI vs G2 Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406199@lol-esports-calendar
@@ -39,45 +39,45 @@ UID:lolmatch-115548681803406271@lol-esports-calendar
 DTSTAMP:20260725T173000Z
 DTSTART:20260725T173000Z
 DTEND:20260725T203000Z
-SUMMARY:LEC: KC vs MKOI (第 1 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 1 周\n赛制: BO3\n对阵: Karmine C
- orp vs Movistar KOI
+SUMMARY:LEC: MKOI vs KC (第 1 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 1 周\n赛制: BO3\n对阵: Movistar 
+ KOI vs Karmine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406191@lol-esports-calendar
 DTSTAMP:20260726T143000Z
 DTSTART:20260726T143000Z
 DTEND:20260726T173000Z
-SUMMARY:LEC: MKOI vs VIT (第 1 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 1 周\n赛制: BO3\n对阵: Movistar 
- KOI vs Team Vitality
+SUMMARY:LEC: VIT vs MKOI (第 1 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 1 周\n赛制: BO3\n对阵: Team Vita
+ lity vs Movistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406287@lol-esports-calendar
 DTSTAMP:20260726T173000Z
 DTSTART:20260726T173000Z
 DTEND:20260726T203000Z
-SUMMARY:LEC: G2 vs KC (第 1 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 1 周\n赛制: BO3\n对阵: G2 Esport
- s vs Karmine Corp
+SUMMARY:LEC: KC vs G2 (第 1 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 1 周\n赛制: BO3\n对阵: Karmine C
+ orp vs G2 Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406115@lol-esports-calendar
 DTSTAMP:20260731T150000Z
 DTSTART:20260731T150000Z
 DTEND:20260731T180000Z
-SUMMARY:LEC: VIT vs TH (第 2 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 2 周\n赛制: BO3\n对阵: Team Vita
- lity vs Team Heretics
+SUMMARY:LEC: TH vs VIT (第 2 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 2 周\n赛制: BO3\n对阵: Team Here
+ tics vs Team Vitality
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406215@lol-esports-calendar
 DTSTAMP:20260731T171500Z
 DTSTART:20260731T171500Z
 DTEND:20260731T201500Z
-SUMMARY:LEC: MKOI vs SHFT (第 2 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 2 周\n赛制: BO3\n对阵: Movistar 
- KOI vs Shifters
+SUMMARY:LEC: SHFT vs MKOI (第 2 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 2 周\n赛制: BO3\n对阵: Shifters 
+ vs Movistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406231@lol-esports-calendar
@@ -93,9 +93,9 @@ UID:lolmatch-115548681803406171@lol-esports-calendar
 DTSTAMP:20260801T171500Z
 DTSTART:20260801T171500Z
 DTEND:20260801T201500Z
-SUMMARY:LEC: KC vs NAVI (第 2 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 2 周\n赛制: BO3\n对阵: Karmine C
- orp vs Natus Vincere
+SUMMARY:LEC: NAVI vs KC (第 2 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 2 周\n赛制: BO3\n对阵: Natus Vin
+ cere vs Karmine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406263@lol-esports-calendar
@@ -111,9 +111,9 @@ UID:lolmatch-115548681803406267@lol-esports-calendar
 DTSTAMP:20260802T171500Z
 DTSTART:20260802T171500Z
 DTEND:20260802T201500Z
-SUMMARY:LEC: FNC vs MKOI (第 2 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 2 周\n赛制: BO3\n对阵: Fnatic vs
-  Movistar KOI
+SUMMARY:LEC: MKOI vs FNC (第 2 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 2 周\n赛制: BO3\n对阵: Movistar 
+ KOI vs Fnatic
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406151@lol-esports-calendar
@@ -129,9 +129,9 @@ UID:lolmatch-115548681803406139@lol-esports-calendar
 DTSTAMP:20260803T171500Z
 DTSTART:20260803T171500Z
 DTEND:20260803T201500Z
-SUMMARY:LEC: KC vs TH (第 2 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 2 周\n赛制: BO3\n对阵: Karmine C
- orp vs Team Heretics
+SUMMARY:LEC: TH vs KC (第 2 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 2 周\n赛制: BO3\n对阵: Team Here
+ tics vs Karmine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406207@lol-esports-calendar
@@ -156,18 +156,18 @@ UID:lolmatch-115548681803406159@lol-esports-calendar
 DTSTAMP:20260808T150000Z
 DTSTART:20260808T150000Z
 DTEND:20260808T180000Z
-SUMMARY:LEC: SK vs NAVI (第 3 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 3 周\n赛制: BO3\n对阵: SK Gaming
-  vs Natus Vincere
+SUMMARY:LEC: NAVI vs SK (第 3 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 3 周\n赛制: BO3\n对阵: Natus Vin
+ cere vs SK Gaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406235@lol-esports-calendar
 DTSTAMP:20260808T171500Z
 DTSTART:20260808T171500Z
 DTEND:20260808T201500Z
-SUMMARY:LEC: MKOI vs GX (第 3 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 3 周\n赛制: BO3\n对阵: Movistar 
- KOI vs GIANTX
+SUMMARY:LEC: GX vs MKOI (第 3 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 3 周\n赛制: BO3\n对阵: GIANTX vs
+  Movistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406143@lol-esports-calendar
@@ -192,9 +192,9 @@ UID:lolmatch-115548681803406187@lol-esports-calendar
 DTSTAMP:20260810T150000Z
 DTSTART:20260810T150000Z
 DTEND:20260810T180000Z
-SUMMARY:LEC: SK vs VIT (第 3 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 3 周\n赛制: BO3\n对阵: SK Gaming
-  vs Team Vitality
+SUMMARY:LEC: VIT vs SK (第 3 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 3 周\n赛制: BO3\n对阵: Team Vita
+ lity vs SK Gaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406175@lol-esports-calendar
@@ -219,9 +219,9 @@ UID:lolmatch-115548681803406183@lol-esports-calendar
 DTSTAMP:20260814T171500Z
 DTSTART:20260814T171500Z
 DTEND:20260814T201500Z
-SUMMARY:LEC: GX vs VIT (第 4 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 4 周\n赛制: BO3\n对阵: GIANTX vs
-  Team Vitality
+SUMMARY:LEC: VIT vs GX (第 4 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 4 周\n赛制: BO3\n对阵: Team Vita
+ lity vs GIANTX
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406255@lol-esports-calendar
@@ -237,36 +237,36 @@ UID:lolmatch-115548681803406227@lol-esports-calendar
 DTSTAMP:20260815T171500Z
 DTSTART:20260815T171500Z
 DTEND:20260815T201500Z
-SUMMARY:LEC: G2 vs SHFT (第 4 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 4 周\n赛制: BO3\n对阵: G2 Esport
- s vs Shifters
+SUMMARY:LEC: SHFT vs G2 (第 4 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 4 周\n赛制: BO3\n对阵: Shifters 
+ vs G2 Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406163@lol-esports-calendar
 DTSTAMP:20260816T150000Z
 DTSTART:20260816T150000Z
 DTEND:20260816T180000Z
-SUMMARY:LEC: MKOI vs NAVI (第 4 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 4 周\n赛制: BO3\n对阵: Movistar 
- KOI vs Natus Vincere
+SUMMARY:LEC: NAVI vs MKOI (第 4 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 4 周\n赛制: BO3\n对阵: Natus Vin
+ cere vs Movistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406283@lol-esports-calendar
 DTSTAMP:20260816T171500Z
 DTSTART:20260816T171500Z
 DTEND:20260816T201500Z
-SUMMARY:LEC: G2 vs FNC (第 4 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 4 周\n赛制: BO3\n对阵: G2 Esport
- s vs Fnatic
+SUMMARY:LEC: FNC vs G2 (第 4 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 4 周\n赛制: BO3\n对阵: Fnatic vs
+  G2 Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803340575@lol-esports-calendar
 DTSTAMP:20260817T150000Z
 DTSTART:20260817T150000Z
 DTEND:20260817T180000Z
-SUMMARY:LEC: NAVI vs TH (第 4 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 4 周\n赛制: BO3\n对阵: Natus Vin
- cere vs Team Heretics
+SUMMARY:LEC: TH vs NAVI (第 4 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 4 周\n赛制: BO3\n对阵: Team Here
+ tics vs Natus Vincere
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406243@lol-esports-calendar
@@ -291,18 +291,18 @@ UID:lolmatch-115548681803406147@lol-esports-calendar
 DTSTAMP:20260821T171500Z
 DTSTART:20260821T171500Z
 DTEND:20260821T201500Z
-SUMMARY:LEC: VIT vs NAVI (第 5 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 5 周\n赛制: BO3\n对阵: Team Vita
- lity vs Natus Vincere
+SUMMARY:LEC: NAVI vs VIT (第 5 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 5 周\n赛制: BO3\n对阵: Natus Vin
+ cere vs Team Vitality
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406219@lol-esports-calendar
 DTSTAMP:20260822T150000Z
 DTSTART:20260822T150000Z
 DTEND:20260822T180000Z
-SUMMARY:LEC: FNC vs SHFT (第 5 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 5 周\n赛制: BO3\n对阵: Fnatic vs
-  Shifters
+SUMMARY:LEC: SHFT vs FNC (第 5 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 5 周\n赛制: BO3\n对阵: Shifters 
+ vs Fnatic
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406251@lol-esports-calendar
@@ -354,9 +354,9 @@ UID:lolmatch-115548681803406119@lol-esports-calendar
 DTSTAMP:20260828T150000Z
 DTSTART:20260828T150000Z
 DTEND:20260828T180000Z
-SUMMARY:LEC: SHFT vs TH (第 6 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 6 周\n赛制: BO3\n对阵: Shifters 
- vs Team Heretics
+SUMMARY:LEC: TH vs SHFT (第 6 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 6 周\n赛制: BO3\n对阵: Team Here
+ tics vs Shifters
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406195@lol-esports-calendar
@@ -372,9 +372,9 @@ UID:lolmatch-115548681803406259@lol-esports-calendar
 DTSTAMP:20260829T150000Z
 DTSTART:20260829T150000Z
 DTEND:20260829T180000Z
-SUMMARY:LEC: KC vs SK (第 6 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 6 周\n赛制: BO3\n对阵: Karmine C
- orp vs SK Gaming
+SUMMARY:LEC: SK vs KC (第 6 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 6 周\n赛制: BO3\n对阵: SK Gaming
+  vs Karmine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406155@lol-esports-calendar
@@ -390,26 +390,26 @@ UID:lolmatch-115548681803406179@lol-esports-calendar
 DTSTAMP:20260830T120000Z
 DTSTART:20260830T120000Z
 DTEND:20260830T150000Z
-SUMMARY:LEC: SHFT vs VIT (第 6 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 6 周\n赛制: BO3\n对阵: Shifters 
- vs Team Vitality
+SUMMARY:LEC: VIT vs SHFT (第 6 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 6 周\n赛制: BO3\n对阵: Team Vita
+ lity vs Shifters
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406131@lol-esports-calendar
 DTSTAMP:20260830T141500Z
 DTSTART:20260830T141500Z
 DTEND:20260830T171500Z
-SUMMARY:LEC: MKOI vs TH (第 6 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 6 周\n赛制: BO3\n对阵: Movistar 
- KOI vs Team Heretics
+SUMMARY:LEC: TH vs MKOI (第 6 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 6 周\n赛制: BO3\n对阵: Team Here
+ tics vs Movistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406239@lol-esports-calendar
 DTSTAMP:20260830T163000Z
 DTSTART:20260830T163000Z
 DTEND:20260830T193000Z
-SUMMARY:LEC: FNC vs GX (第 6 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 6 周\n赛制: BO3\n对阵: Fnatic vs
-  GIANTX
+SUMMARY:LEC: GX vs FNC (第 6 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 6 周\n赛制: BO3\n对阵: GIANTX vs
+  Fnatic
 END:VEVENT
 END:VCALENDAR

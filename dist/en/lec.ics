@@ -12,9 +12,9 @@ UID:lolmatch-115548681803406275@lol-esports-calendar
 DTSTAMP:20260724T143000Z
 DTSTART:20260724T143000Z
 DTEND:20260724T173000Z
-SUMMARY:LEC: G2 vs MKOI (Week 1)
-DESCRIPTION:League: LEC\nStage: Week 1\nFormat: BO3\nMatch: G2 Esports vs 
- Movistar KOI
+SUMMARY:LEC: MKOI vs G2 (Week 1)
+DESCRIPTION:League: LEC\nStage: Week 1\nFormat: BO3\nMatch: Movistar KOI v
+ s G2 Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406199@lol-esports-calendar
@@ -39,45 +39,45 @@ UID:lolmatch-115548681803406271@lol-esports-calendar
 DTSTAMP:20260725T173000Z
 DTSTART:20260725T173000Z
 DTEND:20260725T203000Z
-SUMMARY:LEC: KC vs MKOI (Week 1)
-DESCRIPTION:League: LEC\nStage: Week 1\nFormat: BO3\nMatch: Karmine Corp v
- s Movistar KOI
+SUMMARY:LEC: MKOI vs KC (Week 1)
+DESCRIPTION:League: LEC\nStage: Week 1\nFormat: BO3\nMatch: Movistar KOI v
+ s Karmine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406191@lol-esports-calendar
 DTSTAMP:20260726T143000Z
 DTSTART:20260726T143000Z
 DTEND:20260726T173000Z
-SUMMARY:LEC: MKOI vs VIT (Week 1)
-DESCRIPTION:League: LEC\nStage: Week 1\nFormat: BO3\nMatch: Movistar KOI v
- s Team Vitality
+SUMMARY:LEC: VIT vs MKOI (Week 1)
+DESCRIPTION:League: LEC\nStage: Week 1\nFormat: BO3\nMatch: Team Vitality 
+ vs Movistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406287@lol-esports-calendar
 DTSTAMP:20260726T173000Z
 DTSTART:20260726T173000Z
 DTEND:20260726T203000Z
-SUMMARY:LEC: G2 vs KC (Week 1)
-DESCRIPTION:League: LEC\nStage: Week 1\nFormat: BO3\nMatch: G2 Esports vs 
- Karmine Corp
+SUMMARY:LEC: KC vs G2 (Week 1)
+DESCRIPTION:League: LEC\nStage: Week 1\nFormat: BO3\nMatch: Karmine Corp v
+ s G2 Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406115@lol-esports-calendar
 DTSTAMP:20260731T150000Z
 DTSTART:20260731T150000Z
 DTEND:20260731T180000Z
-SUMMARY:LEC: VIT vs TH (Week 2)
-DESCRIPTION:League: LEC\nStage: Week 2\nFormat: BO3\nMatch: Team Vitality 
- vs Team Heretics
+SUMMARY:LEC: TH vs VIT (Week 2)
+DESCRIPTION:League: LEC\nStage: Week 2\nFormat: BO3\nMatch: Team Heretics 
+ vs Team Vitality
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406215@lol-esports-calendar
 DTSTAMP:20260731T171500Z
 DTSTART:20260731T171500Z
 DTEND:20260731T201500Z
-SUMMARY:LEC: MKOI vs SHFT (Week 2)
-DESCRIPTION:League: LEC\nStage: Week 2\nFormat: BO3\nMatch: Movistar KOI v
- s Shifters
+SUMMARY:LEC: SHFT vs MKOI (Week 2)
+DESCRIPTION:League: LEC\nStage: Week 2\nFormat: BO3\nMatch: Shifters vs Mo
+ vistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406231@lol-esports-calendar
@@ -93,9 +93,9 @@ UID:lolmatch-115548681803406171@lol-esports-calendar
 DTSTAMP:20260801T171500Z
 DTSTART:20260801T171500Z
 DTEND:20260801T201500Z
-SUMMARY:LEC: KC vs NAVI (Week 2)
-DESCRIPTION:League: LEC\nStage: Week 2\nFormat: BO3\nMatch: Karmine Corp v
- s Natus Vincere
+SUMMARY:LEC: NAVI vs KC (Week 2)
+DESCRIPTION:League: LEC\nStage: Week 2\nFormat: BO3\nMatch: Natus Vincere 
+ vs Karmine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406263@lol-esports-calendar
@@ -111,9 +111,9 @@ UID:lolmatch-115548681803406267@lol-esports-calendar
 DTSTAMP:20260802T171500Z
 DTSTART:20260802T171500Z
 DTEND:20260802T201500Z
-SUMMARY:LEC: FNC vs MKOI (Week 2)
-DESCRIPTION:League: LEC\nStage: Week 2\nFormat: BO3\nMatch: Fnatic vs Movi
- star KOI
+SUMMARY:LEC: MKOI vs FNC (Week 2)
+DESCRIPTION:League: LEC\nStage: Week 2\nFormat: BO3\nMatch: Movistar KOI v
+ s Fnatic
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406151@lol-esports-calendar
@@ -129,9 +129,9 @@ UID:lolmatch-115548681803406139@lol-esports-calendar
 DTSTAMP:20260803T171500Z
 DTSTART:20260803T171500Z
 DTEND:20260803T201500Z
-SUMMARY:LEC: KC vs TH (Week 2)
-DESCRIPTION:League: LEC\nStage: Week 2\nFormat: BO3\nMatch: Karmine Corp v
- s Team Heretics
+SUMMARY:LEC: TH vs KC (Week 2)
+DESCRIPTION:League: LEC\nStage: Week 2\nFormat: BO3\nMatch: Team Heretics 
+ vs Karmine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406207@lol-esports-calendar
@@ -156,18 +156,18 @@ UID:lolmatch-115548681803406159@lol-esports-calendar
 DTSTAMP:20260808T150000Z
 DTSTART:20260808T150000Z
 DTEND:20260808T180000Z
-SUMMARY:LEC: SK vs NAVI (Week 3)
-DESCRIPTION:League: LEC\nStage: Week 3\nFormat: BO3\nMatch: SK Gaming vs N
- atus Vincere
+SUMMARY:LEC: NAVI vs SK (Week 3)
+DESCRIPTION:League: LEC\nStage: Week 3\nFormat: BO3\nMatch: Natus Vincere 
+ vs SK Gaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406235@lol-esports-calendar
 DTSTAMP:20260808T171500Z
 DTSTART:20260808T171500Z
 DTEND:20260808T201500Z
-SUMMARY:LEC: MKOI vs GX (Week 3)
-DESCRIPTION:League: LEC\nStage: Week 3\nFormat: BO3\nMatch: Movistar KOI v
- s GIANTX
+SUMMARY:LEC: GX vs MKOI (Week 3)
+DESCRIPTION:League: LEC\nStage: Week 3\nFormat: BO3\nMatch: GIANTX vs Movi
+ star KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406143@lol-esports-calendar
@@ -192,9 +192,9 @@ UID:lolmatch-115548681803406187@lol-esports-calendar
 DTSTAMP:20260810T150000Z
 DTSTART:20260810T150000Z
 DTEND:20260810T180000Z
-SUMMARY:LEC: SK vs VIT (Week 3)
-DESCRIPTION:League: LEC\nStage: Week 3\nFormat: BO3\nMatch: SK Gaming vs T
- eam Vitality
+SUMMARY:LEC: VIT vs SK (Week 3)
+DESCRIPTION:League: LEC\nStage: Week 3\nFormat: BO3\nMatch: Team Vitality 
+ vs SK Gaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406175@lol-esports-calendar
@@ -219,9 +219,9 @@ UID:lolmatch-115548681803406183@lol-esports-calendar
 DTSTAMP:20260814T171500Z
 DTSTART:20260814T171500Z
 DTEND:20260814T201500Z
-SUMMARY:LEC: GX vs VIT (Week 4)
-DESCRIPTION:League: LEC\nStage: Week 4\nFormat: BO3\nMatch: GIANTX vs Team
-  Vitality
+SUMMARY:LEC: VIT vs GX (Week 4)
+DESCRIPTION:League: LEC\nStage: Week 4\nFormat: BO3\nMatch: Team Vitality 
+ vs GIANTX
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406255@lol-esports-calendar
@@ -237,36 +237,36 @@ UID:lolmatch-115548681803406227@lol-esports-calendar
 DTSTAMP:20260815T171500Z
 DTSTART:20260815T171500Z
 DTEND:20260815T201500Z
-SUMMARY:LEC: G2 vs SHFT (Week 4)
-DESCRIPTION:League: LEC\nStage: Week 4\nFormat: BO3\nMatch: G2 Esports vs 
- Shifters
+SUMMARY:LEC: SHFT vs G2 (Week 4)
+DESCRIPTION:League: LEC\nStage: Week 4\nFormat: BO3\nMatch: Shifters vs G2
+  Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406163@lol-esports-calendar
 DTSTAMP:20260816T150000Z
 DTSTART:20260816T150000Z
 DTEND:20260816T180000Z
-SUMMARY:LEC: MKOI vs NAVI (Week 4)
-DESCRIPTION:League: LEC\nStage: Week 4\nFormat: BO3\nMatch: Movistar KOI v
- s Natus Vincere
+SUMMARY:LEC: NAVI vs MKOI (Week 4)
+DESCRIPTION:League: LEC\nStage: Week 4\nFormat: BO3\nMatch: Natus Vincere 
+ vs Movistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406283@lol-esports-calendar
 DTSTAMP:20260816T171500Z
 DTSTART:20260816T171500Z
 DTEND:20260816T201500Z
-SUMMARY:LEC: G2 vs FNC (Week 4)
-DESCRIPTION:League: LEC\nStage: Week 4\nFormat: BO3\nMatch: G2 Esports vs 
- Fnatic
+SUMMARY:LEC: FNC vs G2 (Week 4)
+DESCRIPTION:League: LEC\nStage: Week 4\nFormat: BO3\nMatch: Fnatic vs G2 E
+ sports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803340575@lol-esports-calendar
 DTSTAMP:20260817T150000Z
 DTSTART:20260817T150000Z
 DTEND:20260817T180000Z
-SUMMARY:LEC: NAVI vs TH (Week 4)
-DESCRIPTION:League: LEC\nStage: Week 4\nFormat: BO3\nMatch: Natus Vincere 
- vs Team Heretics
+SUMMARY:LEC: TH vs NAVI (Week 4)
+DESCRIPTION:League: LEC\nStage: Week 4\nFormat: BO3\nMatch: Team Heretics 
+ vs Natus Vincere
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406243@lol-esports-calendar
@@ -291,18 +291,18 @@ UID:lolmatch-115548681803406147@lol-esports-calendar
 DTSTAMP:20260821T171500Z
 DTSTART:20260821T171500Z
 DTEND:20260821T201500Z
-SUMMARY:LEC: VIT vs NAVI (Week 5)
-DESCRIPTION:League: LEC\nStage: Week 5\nFormat: BO3\nMatch: Team Vitality 
- vs Natus Vincere
+SUMMARY:LEC: NAVI vs VIT (Week 5)
+DESCRIPTION:League: LEC\nStage: Week 5\nFormat: BO3\nMatch: Natus Vincere 
+ vs Team Vitality
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406219@lol-esports-calendar
 DTSTAMP:20260822T150000Z
 DTSTART:20260822T150000Z
 DTEND:20260822T180000Z
-SUMMARY:LEC: FNC vs SHFT (Week 5)
-DESCRIPTION:League: LEC\nStage: Week 5\nFormat: BO3\nMatch: Fnatic vs Shif
- ters
+SUMMARY:LEC: SHFT vs FNC (Week 5)
+DESCRIPTION:League: LEC\nStage: Week 5\nFormat: BO3\nMatch: Shifters vs Fn
+ atic
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406251@lol-esports-calendar
@@ -354,9 +354,9 @@ UID:lolmatch-115548681803406119@lol-esports-calendar
 DTSTAMP:20260828T150000Z
 DTSTART:20260828T150000Z
 DTEND:20260828T180000Z
-SUMMARY:LEC: SHFT vs TH (Week 6)
-DESCRIPTION:League: LEC\nStage: Week 6\nFormat: BO3\nMatch: Shifters vs Te
- am Heretics
+SUMMARY:LEC: TH vs SHFT (Week 6)
+DESCRIPTION:League: LEC\nStage: Week 6\nFormat: BO3\nMatch: Team Heretics 
+ vs Shifters
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406195@lol-esports-calendar
@@ -372,9 +372,9 @@ UID:lolmatch-115548681803406259@lol-esports-calendar
 DTSTAMP:20260829T150000Z
 DTSTART:20260829T150000Z
 DTEND:20260829T180000Z
-SUMMARY:LEC: KC vs SK (Week 6)
-DESCRIPTION:League: LEC\nStage: Week 6\nFormat: BO3\nMatch: Karmine Corp v
- s SK Gaming
+SUMMARY:LEC: SK vs KC (Week 6)
+DESCRIPTION:League: LEC\nStage: Week 6\nFormat: BO3\nMatch: SK Gaming vs K
+ armine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406155@lol-esports-calendar
@@ -390,26 +390,26 @@ UID:lolmatch-115548681803406179@lol-esports-calendar
 DTSTAMP:20260830T120000Z
 DTSTART:20260830T120000Z
 DTEND:20260830T150000Z
-SUMMARY:LEC: SHFT vs VIT (Week 6)
-DESCRIPTION:League: LEC\nStage: Week 6\nFormat: BO3\nMatch: Shifters vs Te
- am Vitality
+SUMMARY:LEC: VIT vs SHFT (Week 6)
+DESCRIPTION:League: LEC\nStage: Week 6\nFormat: BO3\nMatch: Team Vitality 
+ vs Shifters
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406131@lol-esports-calendar
 DTSTAMP:20260830T141500Z
 DTSTART:20260830T141500Z
 DTEND:20260830T171500Z
-SUMMARY:LEC: MKOI vs TH (Week 6)
-DESCRIPTION:League: LEC\nStage: Week 6\nFormat: BO3\nMatch: Movistar KOI v
- s Team Heretics
+SUMMARY:LEC: TH vs MKOI (Week 6)
+DESCRIPTION:League: LEC\nStage: Week 6\nFormat: BO3\nMatch: Team Heretics 
+ vs Movistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406239@lol-esports-calendar
 DTSTAMP:20260830T163000Z
 DTSTART:20260830T163000Z
 DTEND:20260830T193000Z
-SUMMARY:LEC: FNC vs GX (Week 6)
-DESCRIPTION:League: LEC\nStage: Week 6\nFormat: BO3\nMatch: Fnatic vs GIAN
- TX
+SUMMARY:LEC: GX vs FNC (Week 6)
+DESCRIPTION:League: LEC\nStage: Week 6\nFormat: BO3\nMatch: GIANTX vs Fnat
+ ic
 END:VEVENT
 END:VCALENDAR

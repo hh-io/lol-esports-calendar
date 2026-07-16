@@ -12,9 +12,9 @@ UID:lolmatch-115548681803406275@lol-esports-calendar
 DTSTAMP:20260724T143000Z
 DTSTART:20260724T143000Z
 DTEND:20260724T173000Z
-SUMMARY:LEC: G2 vs MKOI (1주 차)
-DESCRIPTION:리그: LEC\n단계: 1주 차\n방식: BO3\n대진: G2 Esports
-  vs Movistar KOI
+SUMMARY:LEC: MKOI vs G2 (1주 차)
+DESCRIPTION:리그: LEC\n단계: 1주 차\n방식: BO3\n대진: Movistar K
+ OI vs G2 Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406199@lol-esports-calendar
@@ -39,45 +39,45 @@ UID:lolmatch-115548681803406271@lol-esports-calendar
 DTSTAMP:20260725T173000Z
 DTSTART:20260725T173000Z
 DTEND:20260725T203000Z
-SUMMARY:LEC: KC vs MKOI (1주 차)
-DESCRIPTION:리그: LEC\n단계: 1주 차\n방식: BO3\n대진: Karmine Co
- rp vs Movistar KOI
+SUMMARY:LEC: MKOI vs KC (1주 차)
+DESCRIPTION:리그: LEC\n단계: 1주 차\n방식: BO3\n대진: Movistar K
+ OI vs Karmine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406191@lol-esports-calendar
 DTSTAMP:20260726T143000Z
 DTSTART:20260726T143000Z
 DTEND:20260726T173000Z
-SUMMARY:LEC: MKOI vs VIT (1주 차)
-DESCRIPTION:리그: LEC\n단계: 1주 차\n방식: BO3\n대진: Movistar K
- OI vs Team Vitality
+SUMMARY:LEC: VIT vs MKOI (1주 차)
+DESCRIPTION:리그: LEC\n단계: 1주 차\n방식: BO3\n대진: Team Vital
+ ity vs Movistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406287@lol-esports-calendar
 DTSTAMP:20260726T173000Z
 DTSTART:20260726T173000Z
 DTEND:20260726T203000Z
-SUMMARY:LEC: G2 vs KC (1주 차)
-DESCRIPTION:리그: LEC\n단계: 1주 차\n방식: BO3\n대진: G2 Esports
-  vs Karmine Corp
+SUMMARY:LEC: KC vs G2 (1주 차)
+DESCRIPTION:리그: LEC\n단계: 1주 차\n방식: BO3\n대진: Karmine Co
+ rp vs G2 Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406115@lol-esports-calendar
 DTSTAMP:20260731T150000Z
 DTSTART:20260731T150000Z
 DTEND:20260731T180000Z
-SUMMARY:LEC: VIT vs TH (2주 차)
-DESCRIPTION:리그: LEC\n단계: 2주 차\n방식: BO3\n대진: Team Vital
- ity vs Team Heretics
+SUMMARY:LEC: TH vs VIT (2주 차)
+DESCRIPTION:리그: LEC\n단계: 2주 차\n방식: BO3\n대진: Team Heret
+ ics vs Team Vitality
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406215@lol-esports-calendar
 DTSTAMP:20260731T171500Z
 DTSTART:20260731T171500Z
 DTEND:20260731T201500Z
-SUMMARY:LEC: MKOI vs SHFT (2주 차)
-DESCRIPTION:리그: LEC\n단계: 2주 차\n방식: BO3\n대진: Movistar K
- OI vs Shifters
+SUMMARY:LEC: SHFT vs MKOI (2주 차)
+DESCRIPTION:리그: LEC\n단계: 2주 차\n방식: BO3\n대진: Shifters v
+ s Movistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406231@lol-esports-calendar
@@ -93,9 +93,9 @@ UID:lolmatch-115548681803406171@lol-esports-calendar
 DTSTAMP:20260801T171500Z
 DTSTART:20260801T171500Z
 DTEND:20260801T201500Z
-SUMMARY:LEC: KC vs NAVI (2주 차)
-DESCRIPTION:리그: LEC\n단계: 2주 차\n방식: BO3\n대진: Karmine Co
- rp vs Natus Vincere
+SUMMARY:LEC: NAVI vs KC (2주 차)
+DESCRIPTION:리그: LEC\n단계: 2주 차\n방식: BO3\n대진: Natus Vinc
+ ere vs Karmine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406263@lol-esports-calendar
@@ -111,9 +111,9 @@ UID:lolmatch-115548681803406267@lol-esports-calendar
 DTSTAMP:20260802T171500Z
 DTSTART:20260802T171500Z
 DTEND:20260802T201500Z
-SUMMARY:LEC: FNC vs MKOI (2주 차)
-DESCRIPTION:리그: LEC\n단계: 2주 차\n방식: BO3\n대진: Fnatic vs 
- Movistar KOI
+SUMMARY:LEC: MKOI vs FNC (2주 차)
+DESCRIPTION:리그: LEC\n단계: 2주 차\n방식: BO3\n대진: Movistar K
+ OI vs Fnatic
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406151@lol-esports-calendar
@@ -129,9 +129,9 @@ UID:lolmatch-115548681803406139@lol-esports-calendar
 DTSTAMP:20260803T171500Z
 DTSTART:20260803T171500Z
 DTEND:20260803T201500Z
-SUMMARY:LEC: KC vs TH (2주 차)
-DESCRIPTION:리그: LEC\n단계: 2주 차\n방식: BO3\n대진: Karmine Co
- rp vs Team Heretics
+SUMMARY:LEC: TH vs KC (2주 차)
+DESCRIPTION:리그: LEC\n단계: 2주 차\n방식: BO3\n대진: Team Heret
+ ics vs Karmine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406207@lol-esports-calendar
@@ -156,18 +156,18 @@ UID:lolmatch-115548681803406159@lol-esports-calendar
 DTSTAMP:20260808T150000Z
 DTSTART:20260808T150000Z
 DTEND:20260808T180000Z
-SUMMARY:LEC: SK vs NAVI (3주 차)
-DESCRIPTION:리그: LEC\n단계: 3주 차\n방식: BO3\n대진: SK Gaming 
- vs Natus Vincere
+SUMMARY:LEC: NAVI vs SK (3주 차)
+DESCRIPTION:리그: LEC\n단계: 3주 차\n방식: BO3\n대진: Natus Vinc
+ ere vs SK Gaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406235@lol-esports-calendar
 DTSTAMP:20260808T171500Z
 DTSTART:20260808T171500Z
 DTEND:20260808T201500Z
-SUMMARY:LEC: MKOI vs GX (3주 차)
-DESCRIPTION:리그: LEC\n단계: 3주 차\n방식: BO3\n대진: Movistar K
- OI vs GIANTX
+SUMMARY:LEC: GX vs MKOI (3주 차)
+DESCRIPTION:리그: LEC\n단계: 3주 차\n방식: BO3\n대진: GIANTX vs 
+ Movistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406143@lol-esports-calendar
@@ -192,9 +192,9 @@ UID:lolmatch-115548681803406187@lol-esports-calendar
 DTSTAMP:20260810T150000Z
 DTSTART:20260810T150000Z
 DTEND:20260810T180000Z
-SUMMARY:LEC: SK vs VIT (3주 차)
-DESCRIPTION:리그: LEC\n단계: 3주 차\n방식: BO3\n대진: SK Gaming 
- vs Team Vitality
+SUMMARY:LEC: VIT vs SK (3주 차)
+DESCRIPTION:리그: LEC\n단계: 3주 차\n방식: BO3\n대진: Team Vital
+ ity vs SK Gaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406175@lol-esports-calendar
@@ -219,9 +219,9 @@ UID:lolmatch-115548681803406183@lol-esports-calendar
 DTSTAMP:20260814T171500Z
 DTSTART:20260814T171500Z
 DTEND:20260814T201500Z
-SUMMARY:LEC: GX vs VIT (4주 차)
-DESCRIPTION:리그: LEC\n단계: 4주 차\n방식: BO3\n대진: GIANTX vs 
- Team Vitality
+SUMMARY:LEC: VIT vs GX (4주 차)
+DESCRIPTION:리그: LEC\n단계: 4주 차\n방식: BO3\n대진: Team Vital
+ ity vs GIANTX
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406255@lol-esports-calendar
@@ -237,36 +237,36 @@ UID:lolmatch-115548681803406227@lol-esports-calendar
 DTSTAMP:20260815T171500Z
 DTSTART:20260815T171500Z
 DTEND:20260815T201500Z
-SUMMARY:LEC: G2 vs SHFT (4주 차)
-DESCRIPTION:리그: LEC\n단계: 4주 차\n방식: BO3\n대진: G2 Esports
-  vs Shifters
+SUMMARY:LEC: SHFT vs G2 (4주 차)
+DESCRIPTION:리그: LEC\n단계: 4주 차\n방식: BO3\n대진: Shifters v
+ s G2 Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406163@lol-esports-calendar
 DTSTAMP:20260816T150000Z
 DTSTART:20260816T150000Z
 DTEND:20260816T180000Z
-SUMMARY:LEC: MKOI vs NAVI (4주 차)
-DESCRIPTION:리그: LEC\n단계: 4주 차\n방식: BO3\n대진: Movistar K
- OI vs Natus Vincere
+SUMMARY:LEC: NAVI vs MKOI (4주 차)
+DESCRIPTION:리그: LEC\n단계: 4주 차\n방식: BO3\n대진: Natus Vinc
+ ere vs Movistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406283@lol-esports-calendar
 DTSTAMP:20260816T171500Z
 DTSTART:20260816T171500Z
 DTEND:20260816T201500Z
-SUMMARY:LEC: G2 vs FNC (4주 차)
-DESCRIPTION:리그: LEC\n단계: 4주 차\n방식: BO3\n대진: G2 Esports
-  vs Fnatic
+SUMMARY:LEC: FNC vs G2 (4주 차)
+DESCRIPTION:리그: LEC\n단계: 4주 차\n방식: BO3\n대진: Fnatic vs 
+ G2 Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803340575@lol-esports-calendar
 DTSTAMP:20260817T150000Z
 DTSTART:20260817T150000Z
 DTEND:20260817T180000Z
-SUMMARY:LEC: NAVI vs TH (4주 차)
-DESCRIPTION:리그: LEC\n단계: 4주 차\n방식: BO3\n대진: Natus Vinc
- ere vs Team Heretics
+SUMMARY:LEC: TH vs NAVI (4주 차)
+DESCRIPTION:리그: LEC\n단계: 4주 차\n방식: BO3\n대진: Team Heret
+ ics vs Natus Vincere
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406243@lol-esports-calendar
@@ -291,18 +291,18 @@ UID:lolmatch-115548681803406147@lol-esports-calendar
 DTSTAMP:20260821T171500Z
 DTSTART:20260821T171500Z
 DTEND:20260821T201500Z
-SUMMARY:LEC: VIT vs NAVI (5주 차)
-DESCRIPTION:리그: LEC\n단계: 5주 차\n방식: BO3\n대진: Team Vital
- ity vs Natus Vincere
+SUMMARY:LEC: NAVI vs VIT (5주 차)
+DESCRIPTION:리그: LEC\n단계: 5주 차\n방식: BO3\n대진: Natus Vinc
+ ere vs Team Vitality
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406219@lol-esports-calendar
 DTSTAMP:20260822T150000Z
 DTSTART:20260822T150000Z
 DTEND:20260822T180000Z
-SUMMARY:LEC: FNC vs SHFT (5주 차)
-DESCRIPTION:리그: LEC\n단계: 5주 차\n방식: BO3\n대진: Fnatic vs 
- Shifters
+SUMMARY:LEC: SHFT vs FNC (5주 차)
+DESCRIPTION:리그: LEC\n단계: 5주 차\n방식: BO3\n대진: Shifters v
+ s Fnatic
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406251@lol-esports-calendar
@@ -354,9 +354,9 @@ UID:lolmatch-115548681803406119@lol-esports-calendar
 DTSTAMP:20260828T150000Z
 DTSTART:20260828T150000Z
 DTEND:20260828T180000Z
-SUMMARY:LEC: SHFT vs TH (6주 차)
-DESCRIPTION:리그: LEC\n단계: 6주 차\n방식: BO3\n대진: Shifters v
- s Team Heretics
+SUMMARY:LEC: TH vs SHFT (6주 차)
+DESCRIPTION:리그: LEC\n단계: 6주 차\n방식: BO3\n대진: Team Heret
+ ics vs Shifters
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406195@lol-esports-calendar
@@ -372,9 +372,9 @@ UID:lolmatch-115548681803406259@lol-esports-calendar
 DTSTAMP:20260829T150000Z
 DTSTART:20260829T150000Z
 DTEND:20260829T180000Z
-SUMMARY:LEC: KC vs SK (6주 차)
-DESCRIPTION:리그: LEC\n단계: 6주 차\n방식: BO3\n대진: Karmine Co
- rp vs SK Gaming
+SUMMARY:LEC: SK vs KC (6주 차)
+DESCRIPTION:리그: LEC\n단계: 6주 차\n방식: BO3\n대진: SK Gaming 
+ vs Karmine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406155@lol-esports-calendar
@@ -390,26 +390,26 @@ UID:lolmatch-115548681803406179@lol-esports-calendar
 DTSTAMP:20260830T120000Z
 DTSTART:20260830T120000Z
 DTEND:20260830T150000Z
-SUMMARY:LEC: SHFT vs VIT (6주 차)
-DESCRIPTION:리그: LEC\n단계: 6주 차\n방식: BO3\n대진: Shifters v
- s Team Vitality
+SUMMARY:LEC: VIT vs SHFT (6주 차)
+DESCRIPTION:리그: LEC\n단계: 6주 차\n방식: BO3\n대진: Team Vital
+ ity vs Shifters
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406131@lol-esports-calendar
 DTSTAMP:20260830T141500Z
 DTSTART:20260830T141500Z
 DTEND:20260830T171500Z
-SUMMARY:LEC: MKOI vs TH (6주 차)
-DESCRIPTION:리그: LEC\n단계: 6주 차\n방식: BO3\n대진: Movistar K
- OI vs Team Heretics
+SUMMARY:LEC: TH vs MKOI (6주 차)
+DESCRIPTION:리그: LEC\n단계: 6주 차\n방식: BO3\n대진: Team Heret
+ ics vs Movistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406239@lol-esports-calendar
 DTSTAMP:20260830T163000Z
 DTSTART:20260830T163000Z
 DTEND:20260830T193000Z
-SUMMARY:LEC: FNC vs GX (6주 차)
-DESCRIPTION:리그: LEC\n단계: 6주 차\n방식: BO3\n대진: Fnatic vs 
- GIANTX
+SUMMARY:LEC: GX vs FNC (6주 차)
+DESCRIPTION:리그: LEC\n단계: 6주 차\n방식: BO3\n대진: GIANTX vs 
+ Fnatic
 END:VEVENT
 END:VCALENDAR
