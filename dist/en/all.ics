@@ -210,9 +210,9 @@ UID:lolmatch-116855104460702352@lol-esports-calendar
 DTSTAMP:20260716T135000Z
 DTSTART:20260716T135000Z
 DTEND:20260716T165000Z
-SUMMARY:EWC: ML vs JDG (Groups)
+SUMMARY:EWC: JDG vs ML (Groups)
 DESCRIPTION:League: Esports World Cup\nStage: Groups\nFormat: BO3\nMatch: 
- MIBR.LOS vs Beijing JDG Esports
+ Beijing JDG Esports vs MIBR.LOS
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116855104460702356@lol-esports-calendar
