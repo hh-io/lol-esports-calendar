@@ -210,7 +210,7 @@ UID:lolmatch-116855104460702356@lol-esports-calendar
 DTSTAMP:20260717T110000Z
 DTSTART:20260717T110000Z
 DTEND:20260717T140000Z
-SUMMARY:EWC: T1 vs HLE (Quarterfinals)
+SUMMARY:EWC: T1 2-0 HLE (Quarterfinals)
 DESCRIPTION:League: Esports World Cup\nStage: Quarterfinals\nFormat: BO3\n
  Match: T1 vs Hanwha Life Esports
 END:VEVENT
@@ -219,7 +219,7 @@ UID:lolmatch-116855104460702364@lol-esports-calendar
 DTSTAMP:20260717T110000Z
 DTSTART:20260717T110000Z
 DTEND:20260717T140000Z
-SUMMARY:EWC: GEN vs JDG (Quarterfinals)
+SUMMARY:EWC: GEN 2-0 JDG (Quarterfinals)
 DESCRIPTION:League: Esports World Cup\nStage: Quarterfinals\nFormat: BO3\n
  Match: Gen.G Esports vs Beijing JDG Esports
 END:VEVENT
@@ -228,7 +228,7 @@ UID:lolmatch-116855104460702360@lol-esports-calendar
 DTSTAMP:20260717T133000Z
 DTSTART:20260717T133000Z
 DTEND:20260717T163000Z
-SUMMARY:EWC: KC vs AGAL (Quarterfinals)
+SUMMARY:EWC: KC 2-0 AGAL (Quarterfinals)
 DESCRIPTION:League: Esports World Cup\nStage: Quarterfinals\nFormat: BO3\n
  Match: Karmine Corp vs AG.AL
 END:VEVENT
@@ -237,7 +237,7 @@ UID:lolmatch-116855104460702368@lol-esports-calendar
 DTSTAMP:20260717T133000Z
 DTSTART:20260717T133000Z
 DTEND:20260717T163000Z
-SUMMARY:EWC: DK vs BLG (Quarterfinals)
+SUMMARY:EWC: DK 2-1 BLG (Quarterfinals)
 DESCRIPTION:League: Esports World Cup\nStage: Quarterfinals\nFormat: BO3\n
  Match: Dplus KIA vs BILIBILI GAMING
 END:VEVENT
@@ -255,9 +255,9 @@ UID:lolmatch-116855104460702376@lol-esports-calendar
 DTSTAMP:20260718T133000Z
 DTSTART:20260718T133000Z
 DTEND:20260718T163000Z
-SUMMARY:EWC: TBD vs GEN (Semifinals)
+SUMMARY:EWC: DK vs GEN (Semifinals)
 DESCRIPTION:League: Esports World Cup\nStage: Semifinals\nFormat: BO3\nMat
- ch: TBD vs Gen.G Esports
+ ch: Dplus KIA vs Gen.G Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116855104460702386@lol-esports-calendar
