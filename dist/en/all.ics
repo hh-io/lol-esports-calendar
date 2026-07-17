@@ -228,27 +228,27 @@ UID:lolmatch-116855104460702360@lol-esports-calendar
 DTSTAMP:20260717T133000Z
 DTSTART:20260717T133000Z
 DTEND:20260717T163000Z
-SUMMARY:EWC: AGAL vs KC (Quarterfinals)
+SUMMARY:EWC: KC vs AGAL (Quarterfinals)
 DESCRIPTION:League: Esports World Cup\nStage: Quarterfinals\nFormat: BO3\n
- Match: AG.AL vs Karmine Corp
+ Match: Karmine Corp vs AG.AL
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116855104460702368@lol-esports-calendar
 DTSTAMP:20260717T133000Z
 DTSTART:20260717T133000Z
 DTEND:20260717T163000Z
-SUMMARY:EWC: BLG vs DK (Quarterfinals)
+SUMMARY:EWC: DK vs BLG (Quarterfinals)
 DESCRIPTION:League: Esports World Cup\nStage: Quarterfinals\nFormat: BO3\n
- Match: BILIBILI GAMING vs Dplus KIA
+ Match: Dplus KIA vs BILIBILI GAMING
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116855104460702372@lol-esports-calendar
 DTSTAMP:20260718T110000Z
 DTSTART:20260718T110000Z
 DTEND:20260718T140000Z
-SUMMARY:EWC: TBD vs TBD (Semifinals)
+SUMMARY:EWC: TBD vs T1 (Semifinals)
 DESCRIPTION:League: Esports World Cup\nStage: Semifinals\nFormat: BO3\nMat
- ch: TBD vs TBD
+ ch: TBD vs T1
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116855104460702376@lol-esports-calendar
