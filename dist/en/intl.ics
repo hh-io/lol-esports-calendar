@@ -210,9 +210,9 @@ UID:lolmatch-116855104460702356@lol-esports-calendar
 DTSTAMP:20260717T110000Z
 DTSTART:20260717T110000Z
 DTEND:20260717T140000Z
-SUMMARY:EWC: HLE vs T1 (Quarterfinals)
+SUMMARY:EWC: T1 vs HLE (Quarterfinals)
 DESCRIPTION:League: Esports World Cup\nStage: Quarterfinals\nFormat: BO3\n
- Match: Hanwha Life Esports vs T1
+ Match: T1 vs Hanwha Life Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116855104460702364@lol-esports-calendar

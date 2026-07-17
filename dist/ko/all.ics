@@ -210,9 +210,9 @@ UID:lolmatch-116855104460702356@lol-esports-calendar
 DTSTAMP:20260717T110000Z
 DTSTART:20260717T110000Z
 DTEND:20260717T140000Z
-SUMMARY:EWC: HLE vs T1 (8강)
+SUMMARY:EWC: T1 vs HLE (8강)
 DESCRIPTION:리그: Esports World Cup\n단계: 8강\n방식: BO3\n대진: 
- Hanwha Life Esports vs T1
+ T1 vs Hanwha Life Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116855104460702364@lol-esports-calendar
