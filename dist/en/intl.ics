@@ -246,7 +246,7 @@ UID:lolmatch-116855104460702386@lol-esports-calendar
 DTSTAMP:20260719T100000Z
 DTSTART:20260719T100000Z
 DTEND:20260719T130000Z
-SUMMARY:EWC: GEN vs T1 (Finals)
+SUMMARY:EWC: GEN 2-1 T1 (Finals)
 DESCRIPTION:League: Esports World Cup\nStage: Finals\nFormat: BO3\nMatch: 
  Gen.G Esports vs T1
 END:VEVENT
@@ -255,8 +255,8 @@ UID:lolmatch-116855104460702380@lol-esports-calendar
 DTSTAMP:20260719T123000Z
 DTSTART:20260719T123000Z
 DTEND:20260719T170000Z
-SUMMARY:EWC: DK vs KC (Finals)
+SUMMARY:EWC: KC vs DK (Finals)
 DESCRIPTION:League: Esports World Cup\nStage: Finals\nFormat: BO5\nMatch: 
- Dplus KIA vs Karmine Corp
+ Karmine Corp vs Dplus KIA
 END:VEVENT
 END:VCALENDAR
