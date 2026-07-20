@@ -354,8 +354,9 @@ UID:lolmatch-115570814727838285@lol-esports-calendar
 DTSTAMP:20260725T090000Z
 DTSTART:20260725T090000Z
 DTEND:20260725T120000Z
-SUMMARY:LCP: TBD vs TBD (Swiss)
-DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
+SUMMARY:LCP: GZ vs MVK (Swiss)
+DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: Ground Zero Gam
+ ing vs MVK Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116566854547835312@lol-esports-calendar
@@ -380,8 +381,9 @@ UID:lolmatch-115570814727903825@lol-esports-calendar
 DTSTAMP:20260725T113000Z
 DTSTART:20260725T113000Z
 DTEND:20260725T143000Z
-SUMMARY:LCP: TBD vs TBD (Swiss)
-DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
+SUMMARY:LCP: SHG vs TSW (Swiss)
+DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: Fukuoka SoftBan
+ k HAWKS gaming vs Team Secret Whales
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406203@lol-esports-calendar
@@ -415,8 +417,9 @@ UID:lolmatch-115570814727903829@lol-esports-calendar
 DTSTAMP:20260726T090000Z
 DTSTART:20260726T090000Z
 DTEND:20260726T120000Z
-SUMMARY:LCP: TBD vs TBD (Swiss)
-DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
+SUMMARY:LCP: DFM vs GAM (Swiss)
+DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: DetonatioN Focu
+ sMe vs GAM Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116566854547769652@lol-esports-calendar
@@ -441,8 +444,9 @@ UID:lolmatch-115570814727903833@lol-esports-calendar
 DTSTAMP:20260726T113000Z
 DTSTART:20260726T113000Z
 DTEND:20260726T143000Z
-SUMMARY:LCP: TBD vs TBD (Swiss)
-DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
+SUMMARY:LCP: CFO vs DCG (Swiss)
+DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: CTBC Flying Oys
+ ter vs Relove Deep Cross Gaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406191@lol-esports-calendar
