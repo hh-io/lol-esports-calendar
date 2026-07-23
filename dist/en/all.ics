@@ -1343,13 +1343,13 @@ DESCRIPTION:League: LCK\nStage: Week 13\nFormat: BO3\nMatch: Gen.G Esports
   vs kt Rolster
 END:VEVENT
 BEGIN:VEVENT
-UID:lolmatch-116566854547769752@lol-esports-calendar
+UID:lolmatch-116566854547769688@lol-esports-calendar
 DTSTAMP:20260819T090000Z
 DTSTART:20260819T090000Z
 DTEND:20260819T120000Z
-SUMMARY:LPL: TT vs JDG (Week 5)
-DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: THUNDER TALK G
- AMING vs Beijing JDG Esports
+SUMMARY:LPL: AL vs TES (Week 5)
+DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: Anyone's Legen
+ d vs TOP ESPORTS
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548147900684685@lol-esports-calendar
@@ -1370,13 +1370,13 @@ DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: Xi'an Team WE
  vs EDWARD GAMING
 END:VEVENT
 BEGIN:VEVENT
-UID:lolmatch-116566854547769688@lol-esports-calendar
+UID:lolmatch-116566854547835344@lol-esports-calendar
 DTSTAMP:20260820T070000Z
 DTSTART:20260820T070000Z
 DTEND:20260820T100000Z
-SUMMARY:LPL: AL vs TES (Week 5)
-DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: Anyone's Legen
- d vs TOP ESPORTS
+SUMMARY:LPL: LNG vs WBG (Week 5)
+DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: Suzhou LNG Esp
+ orts vs WeiboGaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548147900619029@lol-esports-calendar
@@ -1396,13 +1396,13 @@ SUMMARY:LCP: TBD vs TBD (Playoffs)
 DESCRIPTION:League: LCP\nStage: Playoffs\nFormat: BO5\nMatch: TBD vs TBD
 END:VEVENT
 BEGIN:VEVENT
-UID:lolmatch-116566854547769748@lol-esports-calendar
+UID:lolmatch-116566854547769752@lol-esports-calendar
 DTSTAMP:20260820T090000Z
 DTSTART:20260820T090000Z
 DTEND:20260820T120000Z
-SUMMARY:LPL: JDG vs EDG (Week 5)
-DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: Beijing JDG Es
- ports vs EDWARD GAMING
+SUMMARY:LPL: TT vs JDG (Week 5)
+DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: THUNDER TALK G
+ AMING vs Beijing JDG Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548147900750237@lol-esports-calendar
@@ -1423,13 +1423,13 @@ DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: LGD GAMING vs
  BILIBILI GAMING
 END:VEVENT
 BEGIN:VEVENT
-UID:lolmatch-116566854547769708@lol-esports-calendar
+UID:lolmatch-116566854547835300@lol-esports-calendar
 DTSTAMP:20260821T070000Z
 DTSTART:20260821T070000Z
 DTEND:20260821T100000Z
-SUMMARY:LPL: AL vs WE (Week 5)
-DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: Anyone's Legen
- d vs Xi'an Team WE
+SUMMARY:LPL: TT vs EDG (Week 5)
+DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: THUNDER TALK G
+ AMING vs EDWARD GAMING
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548147900684673@lol-esports-calendar
@@ -1449,13 +1449,13 @@ SUMMARY:LCP: TBD vs TBD (Playoffs)
 DESCRIPTION:League: LCP\nStage: Playoffs\nFormat: BO5\nMatch: TBD vs TBD
 END:VEVENT
 BEGIN:VEVENT
-UID:lolmatch-116566854547835296@lol-esports-calendar
+UID:lolmatch-116566854547769708@lol-esports-calendar
 DTSTAMP:20260821T090000Z
 DTSTART:20260821T090000Z
 DTEND:20260821T120000Z
-SUMMARY:LPL: TT vs LGD (Week 5)
-DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: THUNDER TALK G
- AMING vs LGD GAMING
+SUMMARY:LPL: AL vs WE (Week 5)
+DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: Anyone's Legen
+ d vs Xi'an Team WE
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548147900619037@lol-esports-calendar
@@ -1494,13 +1494,13 @@ DESCRIPTION:League: LEC\nStage: Week 5\nFormat: BO3\nMatch: Natus Vincere
  vs Team Vitality
 END:VEVENT
 BEGIN:VEVENT
-UID:lolmatch-116566854547835300@lol-esports-calendar
+UID:lolmatch-116566854547769716@lol-esports-calendar
 DTSTAMP:20260822T070000Z
 DTSTART:20260822T070000Z
 DTEND:20260822T100000Z
-SUMMARY:LPL: TT vs EDG (Week 5)
-DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: THUNDER TALK G
- AMING vs EDWARD GAMING
+SUMMARY:LPL: LGD vs WE (Week 5)
+DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: LGD GAMING vs 
+ Xi'an Team WE
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548147900619049@lol-esports-calendar
@@ -1565,13 +1565,13 @@ DESCRIPTION:League: LEC\nStage: Week 5\nFormat: BO3\nMatch: SK Gaming vs M
  ovistar KOI
 END:VEVENT
 BEGIN:VEVENT
-UID:lolmatch-116566854547835344@lol-esports-calendar
+UID:lolmatch-116566854547835296@lol-esports-calendar
 DTSTAMP:20260823T070000Z
 DTSTART:20260823T070000Z
 DTEND:20260823T100000Z
-SUMMARY:LPL: LNG vs WBG (Week 5)
-DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: Suzhou LNG Esp
- orts vs WeiboGaming
+SUMMARY:LPL: TT vs LGD (Week 5)
+DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: THUNDER TALK G
+ AMING vs LGD GAMING
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548147900553481@lol-esports-calendar
@@ -1591,13 +1591,13 @@ SUMMARY:LCP: TBD vs TBD (Playoffs)
 DESCRIPTION:League: LCP\nStage: Playoffs\nFormat: BO5\nMatch: TBD vs TBD
 END:VEVENT
 BEGIN:VEVENT
-UID:lolmatch-116566854547769716@lol-esports-calendar
+UID:lolmatch-116566854547769748@lol-esports-calendar
 DTSTAMP:20260823T090000Z
 DTSTART:20260823T090000Z
 DTEND:20260823T120000Z
-SUMMARY:LPL: LGD vs WE (Week 5)
-DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: LGD GAMING vs 
- Xi'an Team WE
+SUMMARY:LPL: JDG vs EDG (Week 5)
+DESCRIPTION:League: LPL\nStage: Week 5\nFormat: BO3\nMatch: Beijing JDG Es
+ ports vs EDWARD GAMING
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548147900750229@lol-esports-calendar
