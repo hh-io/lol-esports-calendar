@@ -12,7 +12,7 @@ UID:lolmatch-115548681803406275@lol-esports-calendar
 DTSTAMP:20260724T143000Z
 DTSTART:20260724T143000Z
 DTEND:20260724T173000Z
-SUMMARY:LEC: MKOI vs G2 (第 1 周)
+SUMMARY:LEC: MKOI 1-2 G2 (第 1 周)
 DESCRIPTION:赛区: LEC\n阶段: 第 1 周\n赛制: BO3\n对阵: Movistar 
  KOI vs G2 Esports
 END:VEVENT
@@ -21,9 +21,9 @@ UID:lolmatch-115548681803406199@lol-esports-calendar
 DTSTAMP:20260724T173000Z
 DTSTART:20260724T173000Z
 DTEND:20260724T203000Z
-SUMMARY:LEC: VIT vs KC (第 1 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 1 周\n赛制: BO3\n对阵: Team Vita
- lity vs Karmine Corp
+SUMMARY:LEC: KC vs VIT (第 1 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 1 周\n赛制: BO3\n对阵: Karmine C
+ orp vs Team Vitality
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406203@lol-esports-calendar
