@@ -12,9 +12,9 @@ UID:lolmatch-115570814727838285@lol-esports-calendar
 DTSTAMP:20260725T090000Z
 DTSTART:20260725T090000Z
 DTEND:20260725T120000Z
-SUMMARY:LCP: GZ vs MVK (Swiss)
-DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: Ground Zero Gam
- ing vs MVK Esports
+SUMMARY:LCP: MVK vs GZ (Swiss)
+DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: MVK Esports vs 
+ Ground Zero Gaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115570814727903825@lol-esports-calendar
