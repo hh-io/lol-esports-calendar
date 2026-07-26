@@ -30,7 +30,7 @@ UID:lolmatch-115570814727903829@lol-esports-calendar
 DTSTAMP:20260726T090000Z
 DTSTART:20260726T090000Z
 DTEND:20260726T120000Z
-SUMMARY:LCP: DFM 0-0 GAM (Swiss)
+SUMMARY:LCP: DFM 0-2 GAM (Swiss)
 DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: DetonatioN Focu
  sMe vs GAM Esports
 END:VEVENT
@@ -39,41 +39,45 @@ UID:lolmatch-115570814727903833@lol-esports-calendar
 DTSTAMP:20260726T113000Z
 DTSTART:20260726T113000Z
 DTEND:20260726T143000Z
-SUMMARY:LCP: CFO 0-0 DCG (Swiss)
-DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: CTBC Flying Oys
- ter vs Relove Deep Cross Gaming
+SUMMARY:LCP: DCG 0-2 CFO (Swiss)
+DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: Relove Deep Cro
+ ss Gaming vs CTBC Flying Oyster
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115570814727903845@lol-esports-calendar
 DTSTAMP:20260730T090000Z
 DTSTART:20260730T090000Z
 DTEND:20260730T120000Z
-SUMMARY:LCP: TBD vs TBD (Swiss)
-DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
+SUMMARY:LCP: SHG vs DFM (Swiss)
+DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: Fukuoka SoftBan
+ k HAWKS gaming vs DetonatioN FocusMe
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115570814727903849@lol-esports-calendar
 DTSTAMP:20260730T113000Z
 DTSTART:20260730T113000Z
 DTEND:20260730T143000Z
-SUMMARY:LCP: TBD vs TBD (Swiss)
-DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
+SUMMARY:LCP: DCG vs GZ (Swiss)
+DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: Relove Deep Cro
+ ss Gaming vs Ground Zero Gaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115570814727903837@lol-esports-calendar
 DTSTAMP:20260731T090000Z
 DTSTART:20260731T090000Z
 DTEND:20260731T120000Z
-SUMMARY:LCP: TBD vs TBD (Swiss)
-DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
+SUMMARY:LCP: TSW vs MVK (Swiss)
+DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: Team Secret Wha
+ les vs MVK Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115570814727903841@lol-esports-calendar
 DTSTAMP:20260731T113000Z
 DTSTART:20260731T113000Z
 DTEND:20260731T143000Z
-SUMMARY:LCP: TBD vs TBD (Swiss)
-DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
+SUMMARY:LCP: CFO vs GAM (Swiss)
+DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: CTBC Flying Oys
+ ter vs GAM Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115570814727903859@lol-esports-calendar
