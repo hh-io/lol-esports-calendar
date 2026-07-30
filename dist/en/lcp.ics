@@ -57,9 +57,9 @@ UID:lolmatch-115570814727903849@lol-esports-calendar
 DTSTAMP:20260730T113000Z
 DTSTART:20260730T113000Z
 DTEND:20260730T143000Z
-SUMMARY:LCP: DCG vs GZ (Swiss)
-DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: Relove Deep Cro
- ss Gaming vs Ground Zero Gaming
+SUMMARY:LCP: GZ vs DCG (Swiss)
+DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO3\nMatch: Ground Zero Gam
+ ing vs Relove Deep Cross Gaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115570814727903837@lol-esports-calendar
