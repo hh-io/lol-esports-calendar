@@ -300,7 +300,7 @@ UID:lolmatch-115548681803406115@lol-esports-calendar
 DTSTAMP:20260731T150000Z
 DTSTART:20260731T150000Z
 DTEND:20260731T180000Z
-SUMMARY:LEC: TH vs VIT (Week 2)
+SUMMARY:LEC: TH 0-2 VIT (Week 2)
 DESCRIPTION:League: LEC\nStage: Week 2\nFormat: BO3\nMatch: Team Heretics 
  vs Team Vitality
 END:VEVENT
@@ -309,9 +309,9 @@ UID:lolmatch-115548681803406215@lol-esports-calendar
 DTSTAMP:20260731T171500Z
 DTSTART:20260731T171500Z
 DTEND:20260731T201500Z
-SUMMARY:LEC: SHFT vs MKOI (Week 2)
-DESCRIPTION:League: LEC\nStage: Week 2\nFormat: BO3\nMatch: Shifters vs Mo
- vistar KOI
+SUMMARY:LEC: MKOI vs SHFT (Week 2)
+DESCRIPTION:League: LEC\nStage: Week 2\nFormat: BO3\nMatch: Movistar KOI v
+ s Shifters
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116566854547769628@lol-esports-calendar
