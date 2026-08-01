@@ -57,9 +57,9 @@ UID:lolmatch-115548681803406171@lol-esports-calendar
 DTSTAMP:20260801T171500Z
 DTSTART:20260801T171500Z
 DTEND:20260801T201500Z
-SUMMARY:LEC: NAVI vs KC (第 2 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 2 周\n赛制: BO3\n对阵: Natus Vin
- cere vs Karmine Corp
+SUMMARY:LEC: KC vs NAVI (第 2 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 2 周\n赛制: BO3\n对阵: Karmine C
+ orp vs Natus Vincere
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406263@lol-esports-calendar
