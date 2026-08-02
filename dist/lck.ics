@@ -93,9 +93,9 @@ UID:lolmatch-115548147900553449@lol-esports-calendar
 DTSTAMP:20260802T100000Z
 DTSTART:20260802T100000Z
 DTEND:20260802T130000Z
-SUMMARY:LCK: KT vs HLE (第 10 周)
-DESCRIPTION:赛区: LCK\n阶段: 第 10 周\n赛制: BO3\n对阵: kt Rolst
- er vs Hanwha Life Esports
+SUMMARY:LCK: HLE vs KT (第 10 周)
+DESCRIPTION:赛区: LCK\n阶段: 第 10 周\n赛制: BO3\n对阵: Hanwha L
+ ife Esports vs kt Rolster
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548147900684641@lol-esports-calendar
