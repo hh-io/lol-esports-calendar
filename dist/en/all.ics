@@ -480,8 +480,9 @@ UID:lolmatch-115570814727903885@lol-esports-calendar
 DTSTAMP:20260807T090000Z
 DTSTART:20260807T090000Z
 DTEND:20260807T133000Z
-SUMMARY:LCP: TBD vs TBD (Swiss)
-DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO5\nMatch: TBD vs TBD
+SUMMARY:LCP: DFM vs GAM (Swiss)
+DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO5\nMatch: DetonatioN Focu
+ sMe vs GAM Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116566854547769724@lol-esports-calendar
@@ -551,8 +552,9 @@ UID:lolmatch-115570814727903873@lol-esports-calendar
 DTSTAMP:20260808T090000Z
 DTSTART:20260808T090000Z
 DTEND:20260808T133000Z
-SUMMARY:LCP: TBD vs TBD (Swiss)
-DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO5\nMatch: TBD vs TBD
+SUMMARY:LCP: DCG vs MVK (Swiss)
+DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO5\nMatch: Relove Deep Cro
+ ss Gaming vs MVK Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116566854547769732@lol-esports-calendar
@@ -622,8 +624,9 @@ UID:lolmatch-115570814727903879@lol-esports-calendar
 DTSTAMP:20260809T090000Z
 DTSTART:20260809T090000Z
 DTEND:20260809T133000Z
-SUMMARY:LCP: TBD vs TBD (Swiss)
-DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO5\nMatch: TBD vs TBD
+SUMMARY:LCP: TBD vs CFO (Swiss)
+DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO5\nMatch: TBD vs CTBC Fly
+ ing Oyster
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116566854547769704@lol-esports-calendar
