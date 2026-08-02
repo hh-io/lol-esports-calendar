@@ -327,9 +327,9 @@ UID:lolmatch-115548681803406263@lol-esports-calendar
 DTSTAMP:20260802T150000Z
 DTSTART:20260802T150000Z
 DTEND:20260802T180000Z
-SUMMARY:LEC: SK vs G2 (第 2 周)
-DESCRIPTION:赛区: LEC\n阶段: 第 2 周\n赛制: BO3\n对阵: SK Gaming
-  vs G2 Esports
+SUMMARY:LEC: G2 vs SK (第 2 周)
+DESCRIPTION:赛区: LEC\n阶段: 第 2 周\n赛制: BO3\n对阵: G2 Esport
+ s vs SK Gaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406267@lol-esports-calendar
