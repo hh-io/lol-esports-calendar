@@ -66,7 +66,7 @@ UID:lolmatch-115548681803406151@lol-esports-calendar
 DTSTAMP:20260803T150000Z
 DTSTART:20260803T150000Z
 DTEND:20260803T180000Z
-SUMMARY:LEC: NAVI vs SHFT (Week 2)
+SUMMARY:LEC: NAVI 2-0 SHFT (Week 2)
 DESCRIPTION:League: LEC\nStage: Week 2\nFormat: BO3\nMatch: Natus Vincere 
  vs Shifters
 END:VEVENT
@@ -75,9 +75,9 @@ UID:lolmatch-115548681803406139@lol-esports-calendar
 DTSTAMP:20260803T171500Z
 DTSTART:20260803T171500Z
 DTEND:20260803T201500Z
-SUMMARY:LEC: TH vs KC (Week 2)
-DESCRIPTION:League: LEC\nStage: Week 2\nFormat: BO3\nMatch: Team Heretics 
- vs Karmine Corp
+SUMMARY:LEC: KC vs TH (Week 2)
+DESCRIPTION:League: LEC\nStage: Week 2\nFormat: BO3\nMatch: Karmine Corp v
+ s Team Heretics
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406207@lol-esports-calendar
