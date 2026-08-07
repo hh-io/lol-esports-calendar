@@ -93,9 +93,9 @@ UID:lolmatch-115548147900553469@lol-esports-calendar
 DTSTAMP:20260807T080000Z
 DTSTART:20260807T080000Z
 DTEND:20260807T110000Z
-SUMMARY:LCK: KT vs GEN (Week 11)
-DESCRIPTION:League: LCK\nStage: Week 11\nFormat: BO3\nMatch: kt Rolster vs
-  Gen.G Esports
+SUMMARY:LCK: GEN vs KT (Week 11)
+DESCRIPTION:League: LCK\nStage: Week 11\nFormat: BO3\nMatch: Gen.G Esports
+  vs kt Rolster
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548147900684633@lol-esports-calendar
