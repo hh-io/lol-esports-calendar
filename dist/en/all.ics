@@ -408,8 +408,9 @@ UID:lolmatch-115570814727903891@lol-esports-calendar
 DTSTAMP:20260813T090000Z
 DTSTART:20260813T090000Z
 DTEND:20260813T133000Z
-SUMMARY:LCP: TBD vs TBD (Swiss)
-DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO5\nMatch: TBD vs TBD
+SUMMARY:LCP: GAM vs DCG (Swiss)
+DESCRIPTION:League: LCP\nStage: Swiss\nFormat: BO5\nMatch: GAM Esports vs 
+ Relove Deep Cross Gaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116566854547769696@lol-esports-calendar
@@ -461,8 +462,9 @@ UID:lolmatch-116769725389404173@lol-esports-calendar
 DTSTAMP:20260814T090000Z
 DTSTART:20260814T090000Z
 DTEND:20260814T133000Z
-SUMMARY:LCP: TBD vs TBD (Play-Ins)
-DESCRIPTION:League: LCP\nStage: Play-Ins\nFormat: BO5\nMatch: TBD vs TBD
+SUMMARY:LCP: CFO vs MVK (Play-Ins)
+DESCRIPTION:League: LCP\nStage: Play-Ins\nFormat: BO5\nMatch: CTBC Flying 
+ Oyster vs MVK Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116566854547769684@lol-esports-calendar
@@ -528,12 +530,13 @@ DESCRIPTION:League: LCK\nStage: Week 12\nFormat: BO3\nMatch: Hanwha Life E
  sports vs kt Rolster
 END:VEVENT
 BEGIN:VEVENT
-UID:lolmatch-116769725389404185@lol-esports-calendar
+UID:lolmatch-116769725389404179@lol-esports-calendar
 DTSTAMP:20260815T090000Z
 DTSTART:20260815T090000Z
 DTEND:20260815T133000Z
-SUMMARY:LCP: TBD vs TBD (Play-Ins)
-DESCRIPTION:League: LCP\nStage: Play-Ins\nFormat: BO5\nMatch: TBD vs TBD
+SUMMARY:LCP: GZ vs DFM (Play-Ins)
+DESCRIPTION:League: LCP\nStage: Play-Ins\nFormat: BO5\nMatch: Ground Zero 
+ Gaming vs DetonatioN FocusMe
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116566854547769740@lol-esports-calendar
@@ -599,12 +602,13 @@ DESCRIPTION:League: LCK\nStage: Week 12\nFormat: BO3\nMatch: T1 vs Gen.G E
  sports
 END:VEVENT
 BEGIN:VEVENT
-UID:lolmatch-116769725389404179@lol-esports-calendar
+UID:lolmatch-116769725389404185@lol-esports-calendar
 DTSTAMP:20260816T090000Z
 DTSTART:20260816T090000Z
 DTEND:20260816T133000Z
-SUMMARY:LCP: TBD vs TBD (Play-Ins)
-DESCRIPTION:League: LCP\nStage: Play-Ins\nFormat: BO5\nMatch: TBD vs TBD
+SUMMARY:LCP: TBD vs TSW (Play-Ins)
+DESCRIPTION:League: LCP\nStage: Play-Ins\nFormat: BO5\nMatch: TBD vs Team 
+ Secret Whales
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116566854547835336@lol-esports-calendar
