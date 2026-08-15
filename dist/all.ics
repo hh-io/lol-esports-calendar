@@ -318,9 +318,9 @@ UID:lolmatch-116769725389404179@lol-esports-calendar
 DTSTAMP:20260815T090000Z
 DTSTART:20260815T090000Z
 DTEND:20260815T133000Z
-SUMMARY:LCP: GZ vs DFM (入围赛)
-DESCRIPTION:赛区: LCP\n阶段: 入围赛\n赛制: BO5\n对阵: Ground Ze
- ro Gaming vs DetonatioN FocusMe
+SUMMARY:LCP: DFM vs GZ (入围赛)
+DESCRIPTION:赛区: LCP\n阶段: 入围赛\n赛制: BO5\n对阵: Detonatio
+ N FocusMe vs Ground Zero Gaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116566854547769740@lol-esports-calendar
