@@ -318,9 +318,9 @@ UID:lolmatch-116769725389404185@lol-esports-calendar
 DTSTAMP:20260816T090000Z
 DTSTART:20260816T090000Z
 DTEND:20260816T133000Z
-SUMMARY:LCP: CFO vs TSW (플레이-인)
-DESCRIPTION:리그: LCP\n단계: 플레이-인\n방식: BO5\n대진: CTBC 
- Flying Oyster vs Team Secret Whales
+SUMMARY:LCP: TSW vs CFO (플레이-인)
+DESCRIPTION:리그: LCP\n단계: 플레이-인\n방식: BO5\n대진: Team 
+ Secret Whales vs CTBC Flying Oyster
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116566854547835336@lol-esports-calendar
