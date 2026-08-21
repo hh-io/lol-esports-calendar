@@ -48,18 +48,18 @@ UID:lolmatch-116769742220520943@lol-esports-calendar
 DTSTAMP:20260822T090000Z
 DTSTART:20260822T090000Z
 DTEND:20260822T133000Z
-SUMMARY:LCP: GAM vs MVK (淘汰赛)
-DESCRIPTION:赛区: LCP\n阶段: 淘汰赛\n赛制: BO5\n对阵: GAM Espor
- ts vs MVK Esports
+SUMMARY:LCP: MVK vs GAM (淘汰赛)
+DESCRIPTION:赛区: LCP\n阶段: 淘汰赛\n赛制: BO5\n对阵: MVK Espor
+ ts vs GAM Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116769742220520937@lol-esports-calendar
 DTSTAMP:20260823T090000Z
 DTSTART:20260823T090000Z
 DTEND:20260823T133000Z
-SUMMARY:LCP: TSW vs CFO (淘汰赛)
-DESCRIPTION:赛区: LCP\n阶段: 淘汰赛\n赛制: BO5\n对阵: Team Secr
- et Whales vs CTBC Flying Oyster
+SUMMARY:LCP: CFO vs TSW (淘汰赛)
+DESCRIPTION:赛区: LCP\n阶段: 淘汰赛\n赛制: BO5\n对阵: CTBC Flyi
+ ng Oyster vs Team Secret Whales
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116769742220520949@lol-esports-calendar

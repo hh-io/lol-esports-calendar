@@ -48,18 +48,18 @@ UID:lolmatch-116769742220520943@lol-esports-calendar
 DTSTAMP:20260822T090000Z
 DTSTART:20260822T090000Z
 DTEND:20260822T133000Z
-SUMMARY:LCP: GAM vs MVK (플레이오프)
-DESCRIPTION:리그: LCP\n단계: 플레이오프\n방식: BO5\n대진: GAM
-  Esports vs MVK Esports
+SUMMARY:LCP: MVK vs GAM (플레이오프)
+DESCRIPTION:리그: LCP\n단계: 플레이오프\n방식: BO5\n대진: MVK
+  Esports vs GAM Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116769742220520937@lol-esports-calendar
 DTSTAMP:20260823T090000Z
 DTSTART:20260823T090000Z
 DTEND:20260823T133000Z
-SUMMARY:LCP: TSW vs CFO (플레이오프)
-DESCRIPTION:리그: LCP\n단계: 플레이오프\n방식: BO5\n대진: Tea
- m Secret Whales vs CTBC Flying Oyster
+SUMMARY:LCP: CFO vs TSW (플레이오프)
+DESCRIPTION:리그: LCP\n단계: 플레이오프\n방식: BO5\n대진: CTB
+ C Flying Oyster vs Team Secret Whales
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116769742220520949@lol-esports-calendar
