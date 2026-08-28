@@ -255,8 +255,9 @@ UID:lolmatch-117030752644841589@lol-esports-calendar
 DTSTAMP:20260829T080000Z
 DTSTART:20260829T080000Z
 DTEND:20260829T123000Z
-SUMMARY:LCK: TBD vs TBD (Playoffs)
-DESCRIPTION:League: LCK\nStage: Playoffs\nFormat: BO5\nMatch: TBD vs TBD
+SUMMARY:LCK: T1 vs BFX (Playoffs)
+DESCRIPTION:League: LCK\nStage: Playoffs\nFormat: BO5\nMatch: T1 vs BNK FE
+ ARX
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116769742220520949@lol-esports-calendar
@@ -299,8 +300,9 @@ UID:lolmatch-117030752644841595@lol-esports-calendar
 DTSTAMP:20260830T080000Z
 DTSTART:20260830T080000Z
 DTEND:20260830T123000Z
-SUMMARY:LCK: TBD vs TBD (Playoffs)
-DESCRIPTION:League: LCK\nStage: Playoffs\nFormat: BO5\nMatch: TBD vs TBD
+SUMMARY:LCK: DK vs KT (Playoffs)
+DESCRIPTION:League: LCK\nStage: Playoffs\nFormat: BO5\nMatch: Dplus KIA vs
+  kt Rolster
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-116769742220520955@lol-esports-calendar
@@ -352,16 +354,18 @@ UID:lolmatch-117030752644841601@lol-esports-calendar
 DTSTAMP:20260901T080000Z
 DTSTART:20260901T080000Z
 DTEND:20260901T123000Z
-SUMMARY:LCK: TBD vs TBD (Playoffs)
-DESCRIPTION:League: LCK\nStage: Playoffs\nFormat: BO5\nMatch: TBD vs TBD
+SUMMARY:LCK: TBD vs GEN (Playoffs)
+DESCRIPTION:League: LCK\nStage: Playoffs\nFormat: BO5\nMatch: TBD vs Gen.G
+  Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117030752644841607@lol-esports-calendar
 DTSTAMP:20260902T080000Z
 DTSTART:20260902T080000Z
 DTEND:20260902T123000Z
-SUMMARY:LCK: TBD vs TBD (Playoffs)
-DESCRIPTION:League: LCK\nStage: Playoffs\nFormat: BO5\nMatch: TBD vs TBD
+SUMMARY:LCK: TBD vs HLE (Playoffs)
+DESCRIPTION:League: LCK\nStage: Playoffs\nFormat: BO5\nMatch: TBD vs Hanwh
+ a Life Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117030752644841613@lol-esports-calendar
