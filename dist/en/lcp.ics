@@ -30,8 +30,8 @@ UID:lolmatch-116769742220520955@lol-esports-calendar
 DTSTAMP:20260830T080000Z
 DTSTART:20260830T080000Z
 DTEND:20260830T123000Z
-SUMMARY:LCP: CFO vs TSW (Finals)
-DESCRIPTION:League: LCP\nStage: Finals\nFormat: BO5\nMatch: CTBC Flying Oy
- ster vs Team Secret Whales
+SUMMARY:LCP: TSW vs CFO (Finals)
+DESCRIPTION:League: LCP\nStage: Finals\nFormat: BO5\nMatch: Team Secret Wh
+ ales vs CTBC Flying Oyster
 END:VEVENT
 END:VCALENDAR
