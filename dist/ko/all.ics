@@ -228,9 +228,9 @@ UID:lolmatch-117155436343202160@lol-esports-calendar
 DTSTAMP:20260905T060000Z
 DTSTART:20260905T060000Z
 DTEND:20260905T103000Z
-SUMMARY:LPL: TES vs NIP (플레이오프)
-DESCRIPTION:리그: LPL\n단계: 플레이오프\n방식: BO5\n대진: TOP
-  ESPORTS vs Shenzhen NINJAS IN PYJAMAS
+SUMMARY:LPL: IG vs TES (플레이오프)
+DESCRIPTION:리그: LPL\n단계: 플레이오프\n방식: BO5\n대진: Inv
+ ictus Gaming vs TOP ESPORTS
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117030752644841619@lol-esports-calendar
@@ -246,9 +246,9 @@ UID:lolmatch-117155436343202166@lol-esports-calendar
 DTSTAMP:20260905T090000Z
 DTSTART:20260905T090000Z
 DTEND:20260905T133000Z
-SUMMARY:LPL: JDG vs IG (플레이오프)
-DESCRIPTION:리그: LPL\n단계: 플레이오프\n방식: BO5\n대진: Bei
- jing JDG Esports vs Invictus Gaming
+SUMMARY:LPL: NIP vs JDG (플레이오프)
+DESCRIPTION:리그: LPL\n단계: 플레이오프\n방식: BO5\n대진: She
+ nzhen NINJAS IN PYJAMAS vs Beijing JDG Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406297@lol-esports-calendar
