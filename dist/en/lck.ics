@@ -57,7 +57,7 @@ UID:lolmatch-117030752644841607@lol-esports-calendar
 DTSTAMP:20260902T080000Z
 DTSTART:20260902T080000Z
 DTEND:20260902T123000Z
-SUMMARY:LCK: T1 vs HLE (Playoffs)
+SUMMARY:LCK: T1 2-3 HLE (Playoffs)
 DESCRIPTION:League: LCK\nStage: Playoffs\nFormat: BO5\nMatch: T1 vs Hanwha
   Life Esports
 END:VEVENT
@@ -83,9 +83,9 @@ UID:lolmatch-117030752644841619@lol-esports-calendar
 DTSTAMP:20260905T080000Z
 DTSTART:20260905T080000Z
 DTEND:20260905T123000Z
-SUMMARY:LCK: TBD vs GEN (Playoffs)
-DESCRIPTION:League: LCK\nStage: Playoffs\nFormat: BO5\nMatch: TBD vs Gen.G
-  Esports
+SUMMARY:LCK: HLE vs GEN (Playoffs)
+DESCRIPTION:League: LCK\nStage: Playoffs\nFormat: BO5\nMatch: Hanwha Life 
+ Esports vs Gen.G Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117030752644841631@lol-esports-calendar

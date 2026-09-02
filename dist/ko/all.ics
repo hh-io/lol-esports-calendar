@@ -174,7 +174,7 @@ UID:lolmatch-117030752644841607@lol-esports-calendar
 DTSTAMP:20260902T080000Z
 DTSTART:20260902T080000Z
 DTEND:20260902T123000Z
-SUMMARY:LCK: T1 vs HLE (플레이오프)
+SUMMARY:LCK: T1 2-3 HLE (플레이오프)
 DESCRIPTION:리그: LCK\n단계: 플레이오프\n방식: BO5\n대진: T1 
  vs Hanwha Life Esports
 END:VEVENT
@@ -228,9 +228,9 @@ UID:lolmatch-117030752644841619@lol-esports-calendar
 DTSTAMP:20260905T080000Z
 DTSTART:20260905T080000Z
 DTEND:20260905T123000Z
-SUMMARY:LCK: TBD vs GEN (플레이오프)
-DESCRIPTION:리그: LCK\n단계: 플레이오프\n방식: BO5\n대진: TBD
-  vs Gen.G Esports
+SUMMARY:LCK: HLE vs GEN (플레이오프)
+DESCRIPTION:리그: LCK\n단계: 플레이오프\n방식: BO5\n대진: Han
+ wha Life Esports vs Gen.G Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117155436343202166@lol-esports-calendar
