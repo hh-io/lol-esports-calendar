@@ -57,9 +57,9 @@ UID:lolmatch-115548681803406297@lol-esports-calendar
 DTSTAMP:20260905T100000Z
 DTSTART:20260905T100000Z
 DTEND:20260905T143000Z
-SUMMARY:LEC: VIT vs G2 (Playoffs)
-DESCRIPTION:League: LEC\nStage: Playoffs\nFormat: BO5\nMatch: Team Vitalit
- y vs G2 Esports
+SUMMARY:LEC: G2 vs VIT (Playoffs)
+DESCRIPTION:League: LEC\nStage: Playoffs\nFormat: BO5\nMatch: G2 Esports v
+ s Team Vitality
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406291@lol-esports-calendar

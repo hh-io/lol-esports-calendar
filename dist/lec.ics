@@ -57,9 +57,9 @@ UID:lolmatch-115548681803406297@lol-esports-calendar
 DTSTAMP:20260905T100000Z
 DTSTART:20260905T100000Z
 DTEND:20260905T143000Z
-SUMMARY:LEC: VIT vs G2 (淘汰赛)
-DESCRIPTION:赛区: LEC\n阶段: 淘汰赛\n赛制: BO5\n对阵: Team Vita
- lity vs G2 Esports
+SUMMARY:LEC: G2 vs VIT (淘汰赛)
+DESCRIPTION:赛区: LEC\n阶段: 淘汰赛\n赛制: BO5\n对阵: G2 Esport
+ s vs Team Vitality
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406291@lol-esports-calendar
