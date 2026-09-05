@@ -165,7 +165,7 @@ UID:lolmatch-115548681803406291@lol-esports-calendar
 DTSTAMP:20260905T150000Z
 DTSTART:20260905T150000Z
 DTEND:20260905T193000Z
-SUMMARY:LEC: KC vs GX (Playoffs)
+SUMMARY:LEC: KC 3-1 GX (Playoffs)
 DESCRIPTION:League: LEC\nStage: Playoffs\nFormat: BO5\nMatch: Karmine Corp
   vs GIANTX
 END:VEVENT
@@ -201,9 +201,9 @@ UID:lolmatch-115548681803406303@lol-esports-calendar
 DTSTAMP:20260906T150000Z
 DTSTART:20260906T150000Z
 DTEND:20260906T193000Z
-SUMMARY:LEC: TBD vs G2 (Playoffs)
-DESCRIPTION:League: LEC\nStage: Playoffs\nFormat: BO5\nMatch: TBD vs G2 Es
- ports
+SUMMARY:LEC: G2 vs KC (Playoffs)
+DESCRIPTION:League: LEC\nStage: Playoffs\nFormat: BO5\nMatch: G2 Esports v
+ s Karmine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117155436343202172@lol-esports-calendar
