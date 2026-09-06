@@ -39,9 +39,9 @@ UID:lolmatch-115548681803406303@lol-esports-calendar
 DTSTAMP:20260906T150000Z
 DTSTART:20260906T150000Z
 DTEND:20260906T193000Z
-SUMMARY:LEC: G2 vs KC (Playoffs)
-DESCRIPTION:League: LEC\nStage: Playoffs\nFormat: BO5\nMatch: G2 Esports v
- s Karmine Corp
+SUMMARY:LEC: KC vs G2 (Playoffs)
+DESCRIPTION:League: LEC\nStage: Playoffs\nFormat: BO5\nMatch: Karmine Corp
+  vs G2 Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406309@lol-esports-calendar
