@@ -165,9 +165,9 @@ UID:lolmatch-115548681803406309@lol-esports-calendar
 DTSTAMP:20260911T150000Z
 DTSTART:20260911T150000Z
 DTEND:20260911T193000Z
-SUMMARY:LEC: TBD vs NAVI (플레이오프)
-DESCRIPTION:리그: LEC\n단계: 플레이오프\n방식: BO5\n대진: TBD
-  vs Natus Vincere
+SUMMARY:LEC: GX vs NAVI (플레이오프)
+DESCRIPTION:리그: LEC\n단계: 플레이오프\n방식: BO5\n대진: GIA
+ NTX vs Natus Vincere
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117030752644841637@lol-esports-calendar
@@ -192,9 +192,9 @@ UID:lolmatch-115548681803406315@lol-esports-calendar
 DTSTAMP:20260912T150000Z
 DTSTART:20260912T150000Z
 DTEND:20260912T193000Z
-SUMMARY:LEC: TBD vs MKOI (플레이오프)
-DESCRIPTION:리그: LEC\n단계: 플레이오프\n방식: BO5\n대진: TBD
-  vs Movistar KOI
+SUMMARY:LEC: VIT vs MKOI (플레이오프)
+DESCRIPTION:리그: LEC\n단계: 플레이오프\n방식: BO5\n대진: Tea
+ m Vitality vs Movistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117030752644841643@lol-esports-calendar
