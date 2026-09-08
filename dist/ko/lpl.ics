@@ -75,7 +75,7 @@ UID:lolmatch-117155436343202190@lol-esports-calendar
 DTSTAMP:20260908T090000Z
 DTSTART:20260908T090000Z
 DTEND:20260908T133000Z
-SUMMARY:LPL: LGD 0-2 IG (플레이오프)
+SUMMARY:LPL: LGD 0-3 IG (플레이오프)
 DESCRIPTION:리그: LPL\n단계: 플레이오프\n방식: BO5\n대진: LGD
   GAMING vs Invictus Gaming
 END:VEVENT
@@ -84,9 +84,9 @@ UID:lolmatch-117155436343202196@lol-esports-calendar
 DTSTAMP:20260912T090000Z
 DTSTART:20260912T090000Z
 DTEND:20260912T133000Z
-SUMMARY:LPL: TBD vs AL (플레이오프)
-DESCRIPTION:리그: LPL\n단계: 플레이오프\n방식: BO5\n대진: TBD
-  vs Anyone's Legend
+SUMMARY:LPL: IG vs AL (플레이오프)
+DESCRIPTION:리그: LPL\n단계: 플레이오프\n방식: BO5\n대진: Inv
+ ictus Gaming vs Anyone's Legend
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117155436343202202@lol-esports-calendar
