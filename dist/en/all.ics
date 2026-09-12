@@ -120,9 +120,9 @@ UID:lolmatch-117030752644841637@lol-esports-calendar
 DTSTAMP:20260912T050000Z
 DTSTART:20260912T050000Z
 DTEND:20260912T093000Z
-SUMMARY:LCK: T1 vs HLE (Playoffs)
-DESCRIPTION:League: LCK\nStage: Playoffs\nFormat: BO5\nMatch: T1 vs Hanwha
-  Life Esports
+SUMMARY:LCK: HLE vs T1 (Playoffs)
+DESCRIPTION:League: LCK\nStage: Playoffs\nFormat: BO5\nMatch: Hanwha Life 
+ Esports vs T1
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117155436343202196@lol-esports-calendar

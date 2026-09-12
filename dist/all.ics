@@ -120,9 +120,9 @@ UID:lolmatch-117030752644841637@lol-esports-calendar
 DTSTAMP:20260912T050000Z
 DTSTART:20260912T050000Z
 DTEND:20260912T093000Z
-SUMMARY:LCK: T1 vs HLE (淘汰赛)
-DESCRIPTION:赛区: LCK\n阶段: 淘汰赛\n赛制: BO5\n对阵: T1 vs Han
- wha Life Esports
+SUMMARY:LCK: HLE vs T1 (淘汰赛)
+DESCRIPTION:赛区: LCK\n阶段: 淘汰赛\n赛制: BO5\n对阵: Hanwha Li
+ fe Esports vs T1
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117155436343202196@lol-esports-calendar

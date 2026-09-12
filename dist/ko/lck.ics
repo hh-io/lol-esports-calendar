@@ -30,9 +30,9 @@ UID:lolmatch-117030752644841637@lol-esports-calendar
 DTSTAMP:20260912T050000Z
 DTSTART:20260912T050000Z
 DTEND:20260912T093000Z
-SUMMARY:LCK: T1 vs HLE (플레이오프)
-DESCRIPTION:리그: LCK\n단계: 플레이오프\n방식: BO5\n대진: T1 
- vs Hanwha Life Esports
+SUMMARY:LCK: HLE vs T1 (플레이오프)
+DESCRIPTION:리그: LCK\n단계: 플레이오프\n방식: BO5\n대진: Han
+ wha Life Esports vs T1
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117030752644841643@lol-esports-calendar
