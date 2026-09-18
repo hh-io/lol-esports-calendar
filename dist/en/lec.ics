@@ -21,7 +21,7 @@ UID:lolmatch-115548681803406321@lol-esports-calendar
 DTSTAMP:20260918T150000Z
 DTSTART:20260918T150000Z
 DTEND:20260918T193000Z
-SUMMARY:LEC: MKOI vs NAVI (Playoffs)
+SUMMARY:LEC: MKOI 3-1 NAVI (Playoffs)
 DESCRIPTION:League: LEC\nStage: Playoffs\nFormat: BO5\nMatch: Movistar KOI
   vs Natus Vincere
 END:VEVENT
@@ -30,9 +30,9 @@ UID:lolmatch-115548681803406327@lol-esports-calendar
 DTSTAMP:20260919T150000Z
 DTSTART:20260919T150000Z
 DTEND:20260919T193000Z
-SUMMARY:LEC: TBD vs KC (Playoffs)
-DESCRIPTION:League: LEC\nStage: Playoffs\nFormat: BO5\nMatch: TBD vs Karmi
- ne Corp
+SUMMARY:LEC: MKOI vs KC (Playoffs)
+DESCRIPTION:League: LEC\nStage: Playoffs\nFormat: BO5\nMatch: Movistar KOI
+  vs Karmine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115548681803406333@lol-esports-calendar
