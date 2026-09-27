@@ -118,8 +118,13 @@ def _normalize(ev: dict) -> Event | None:
     )
 
 
-def get_events(league_id: str, include_completed_days: int = 0, hl: str = HL) -> list[Event]:
+def get_events(
+    league_id: str, include_completed_days: int = 0, hl: str = HL
+) -> tuple[list[Event], int]:
     """抓取某赛区赛程，跟随分页向后翻完所有未来事件。
+
+    返回 (事件列表, 原始比赛数)。原始比赛数是回看窗口过滤前接口给出的 match 数，
+    供调用方区分「休赛期合法为空」与「接口返回空/残缺数据」。
 
     include_completed_days: 保留最近 N 天内已结束的比赛（便于回看），0 表示不保留。
     hl: 语言标签（如 zh-CN / en-US / ko-KR），决定赛区名与阶段名的语言。
@@ -131,6 +136,7 @@ def get_events(league_id: str, include_completed_days: int = 0, hl: str = HL) ->
         cutoff = datetime.now(UTC) - timedelta(days=include_completed_days)
 
     events: dict[str, Event] = {}
+    raw_count = 0
     page_token: str | None = None
     seen_tokens: set[str] = set()
 
@@ -144,6 +150,7 @@ def get_events(league_id: str, include_completed_days: int = 0, hl: str = HL) ->
             ev = _normalize(raw)
             if ev is None:
                 continue
+            raw_count += 1
             if ev.state == "completed":
                 if cutoff is None:
                     continue
@@ -156,7 +163,7 @@ def get_events(league_id: str, include_completed_days: int = 0, hl: str = HL) ->
             break
         seen_tokens.add(page_token)
 
-    return sorted(events.values(), key=lambda e: e.start_utc)
+    return sorted(events.values(), key=lambda e: e.start_utc), raw_count
 
 
 def _parse(iso: str):

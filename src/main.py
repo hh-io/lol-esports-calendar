@@ -66,12 +66,14 @@ KEEP_COMPLETED_DAYS = 7
 def main() -> int:
     # 先抓取所有语言、所有赛区。任一语言任一赛区失败即整体放弃，保留旧文件。
     events_by_lang: dict[str, dict] = {}
+    raw_total = 0  # 回看窗口过滤前的原始比赛总数，用于退化判断
     try:
         for lang, hl in LANGS.items():
             leagues = get_league_ids(ALL_SLUGS, hl=hl)
             by_slug = {}
             for slug, info in leagues.items():
-                evs = get_events(info["id"], include_completed_days=KEEP_COMPLETED_DAYS, hl=hl)
+                evs, raw = get_events(info["id"], include_completed_days=KEEP_COMPLETED_DAYS, hl=hl)
+                raw_total += raw
                 by_slug[slug] = evs
                 print(f"[info] {lang}/{slug}: {len(evs)} 场比赛")
             events_by_lang[lang] = by_slug
@@ -94,18 +96,18 @@ def main() -> int:
             planned.append((out_dir / f"{filename}.ics", ics_text, len(events)))
 
     # 退化保护：接口可能返回 HTTP 200 却是空/残缺数据（赛区列表为空、结构变更），
-    # 这种情况不会抛 FetchError，表现为「所有赛区一起归零」。仅当全部计划文件
-    # 事件总数为 0、而磁盘上仍有非空旧文件时，才判为系统性退化、整体放弃写入。
+    # 这种情况不会抛 FetchError。仅当接口原始比赛数为 0、而磁盘上仍有非空旧文件时，
+    # 才判为系统性退化、整体放弃写入。
     #
-    # 注意只看「系统性归零」而非「任一文件归零」：单个赛区休赛期合法地变 0
-    # （旧完赛记录滑出回看窗口）不应阻塞其余赛区的正常更新，其空日历照常写出。
-    total_events = sum(count for _path, _text, count in planned)
+    # 必须看过滤前的原始数而非写出的事件数：全部赛区同时休赛时，旧完赛记录都会
+    # 滑出回看窗口，写出的事件合法地全为 0，但接口仍会返回历史比赛。按写出数判断
+    # 会把这种正常休赛期误报为退化，导致 CI 持续失败。
     had_data = any(
         path.exists() and _existing_event_count(path) > 0 for path, _text, _count in planned
     )
-    if total_events == 0 and had_data:
+    if raw_total == 0 and had_data:
         print(
-            "[error] 数据疑似系统性退化（全部赛区均为 0 事件，旧文件非空），保留现有 .ics 文件",
+            "[error] 数据疑似系统性退化（接口未返回任何比赛，旧文件非空），保留现有 .ics 文件",
             file=sys.stderr,
         )
         return 1
