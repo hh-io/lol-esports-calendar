@@ -36,12 +36,15 @@ OUTPUTS = {
     "lck": (["lck"], {"zh": "LCK", "en": "LCK", "ko": "LCK"}),
     "lec": (["lec"], {"zh": "LEC", "en": "LEC", "ko": "LEC"}),
     "lcp": (["lcp"], {"zh": "LCP", "en": "LCP", "ko": "LCP"}),
+    # 文件名与显示名沿用 LTA：lta.ics 是已发布的订阅地址，改名会影响现有订阅者。
+    # LTA 于 2025 赛季后解散，美洲赛区回到 LCS / CBLOL，故 slug 指向这两个联赛。
     "lta": (
-        ["lta_n", "lta_s"],
+        ["lcs", "cblol-brazil"],
         {"zh": "LTA（美洲）", "en": "LTA (Americas)", "ko": "LTA (아메리카)"},
     ),
+    # 显示名同样保持不变（已有订阅者），新增的国际赛事只加 slug。
     "intl": (
-        ["msi", "worlds", "first_stand", "ewc_lol"],
+        ["msi", "worlds", "first_stand", "ewc_lol", "demacia_cup"],
         {
             "zh": "国际赛 (MSI/Worlds/First Stand/EWC)",
             "en": "International (MSI/Worlds/First Stand/EWC)",

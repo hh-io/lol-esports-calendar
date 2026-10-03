@@ -2,7 +2,7 @@
 
 **简体中文** · [English](README.en.md) · [한국어](README.ko.md)
 
-自动抓取**英雄联盟职业联赛赛程**（**LPL / LCK / LEC / LCP / LTA / MSI / Worlds / 国际赛**），生成可订阅的 `.ics` 日历文件，
+自动抓取**英雄联盟职业联赛赛程**（**LPL / LCK / LEC / LCP / LCS / CBLOL / MSI / Worlds / 国际赛**），生成可订阅的 `.ics` 日历文件，
 兼容 **Apple 日历、Google 日历、Outlook** 等任意支持 iCalendar（`.ics`）订阅的客户端。
 由 GitHub Actions 每小时刷新一次并托管在 GitHub Pages 上。**纯标准库，零依赖。**
 
@@ -20,8 +20,8 @@
 | LCK（韩国） | `https://hh-io.github.io/lol-esports-calendar/dist/lck.ics` |
 | LEC（欧洲） | `https://hh-io.github.io/lol-esports-calendar/dist/lec.ics` |
 | LCP（太平洋） | `https://hh-io.github.io/lol-esports-calendar/dist/lcp.ics` |
-| LTA（美洲） | `https://hh-io.github.io/lol-esports-calendar/dist/lta.ics` |
-| 国际赛（MSI/Worlds/First Stand/EWC） | `https://hh-io.github.io/lol-esports-calendar/dist/intl.ics` |
+| 美洲（LCS/CBLOL，原 LTA） | `https://hh-io.github.io/lol-esports-calendar/dist/lta.ics` |
+| 国际赛（MSI/Worlds/First Stand/EWC/DCGI） | `https://hh-io.github.io/lol-esports-calendar/dist/intl.ics` |
 | 全部赛区（含国际赛） | `https://hh-io.github.io/lol-esports-calendar/dist/all.ics` |
 
 > 自己 fork 部署时，把 `hh-io` / `lol-esports-calendar` 换成你的用户名 / 仓库名。

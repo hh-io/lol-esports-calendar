@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-抓取英雄联盟职业赛程（LPL/LCK/LEC/LCP/LTA/国际赛），生成 Apple 日历可订阅的 `.ics`。GitHub Actions 每小时刷新，托管在 GitHub Pages。
+抓取英雄联盟职业赛程（LPL/LCK/LEC/LCP/美洲 LCS·CBLOL/国际赛），生成 Apple 日历可订阅的 `.ics`。GitHub Actions 每小时刷新，托管在 GitHub Pages。
 
 日历正文支持多语言：`main.py` 的 `LANGS` 定义语言→`hl` 映射。默认中文输出到 `dist/`,其余语言到 `dist/<lang>/`(如 `dist/en/`、`dist/ko/`)。**中文路径 `dist/*.ics` 是已发布的订阅地址,不要改动其位置。** README 有 `README.md`(中) / `README.en.md` / `README.ko.md` 三份,改动面向用户的内容时三份都要同步。
 
@@ -25,6 +25,7 @@ python3 src/main.py   # 生成 dist/ 及 dist/en、dist/ko 下各赛区 .ics
 
 ## 常见改动
 
+- `lta.ics`、`intl.ics` 等已发布订阅的**文件名和日历显示名(`X-WR-CALNAME`)不随内容改名**:LTA 已解散,`lta` 组实际抓 `lcs` + `cblol-brazil`,名字保留是为了不打扰现有订阅者。
 - 增删赛区：改 `src/main.py` 的 `OUTPUTS`(`文件名 -> (slug 列表, {语言: 显示名})`)。`leagueId` 运行时由 `getLeagues` 按 slug 动态解析,不硬编码。
 - 增删语言：改 `LANGS`(`main.py`),并在 `ics.py` 的 `STRINGS` 加该语言的静态词条;赛区名/阶段名由 API 按 `hl` 返回。
 - 回看比分窗口：`src/main.py` 的 `KEEP_COMPLETED_DAYS`。

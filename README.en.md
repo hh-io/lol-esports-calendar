@@ -2,7 +2,7 @@
 
 [简体中文](README.md) · **English** · [한국어](README.ko.md)
 
-Auto-fetches **League of Legends esports schedules** (**LPL / LCK / LEC / LCP / LTA / MSI / Worlds / International**) and generates subscribable `.ics` calendar files that work in **Apple Calendar, Google Calendar, Outlook**, and any client supporting iCalendar (`.ics`) subscriptions. Refreshed hourly by GitHub Actions and hosted on GitHub Pages. **Pure standard library, zero dependencies.**
+Auto-fetches **League of Legends esports schedules** (**LPL / LCK / LEC / LCP / LCS / CBLOL / MSI / Worlds / International**) and generates subscribable `.ics` calendar files that work in **Apple Calendar, Google Calendar, Outlook**, and any client supporting iCalendar (`.ics`) subscriptions. Refreshed hourly by GitHub Actions and hosted on GitHub Pages. **Pure standard library, zero dependencies.**
 
 Calendar content is available in Chinese / English / Korean (see below).
 
@@ -18,8 +18,8 @@ Copy a link below to subscribe (calendar content is in **English**). Want Chines
 | LCK (Korea) | `https://hh-io.github.io/lol-esports-calendar/dist/en/lck.ics` |
 | LEC (EMEA) | `https://hh-io.github.io/lol-esports-calendar/dist/en/lec.ics` |
 | LCP (Pacific) | `https://hh-io.github.io/lol-esports-calendar/dist/en/lcp.ics` |
-| LTA (Americas) | `https://hh-io.github.io/lol-esports-calendar/dist/en/lta.ics` |
-| International (MSI/Worlds/First Stand/EWC) | `https://hh-io.github.io/lol-esports-calendar/dist/en/intl.ics` |
+| Americas (LCS/CBLOL, formerly LTA) | `https://hh-io.github.io/lol-esports-calendar/dist/en/lta.ics` |
+| International (MSI/Worlds/First Stand/EWC/DCGI) | `https://hh-io.github.io/lol-esports-calendar/dist/en/intl.ics` |
 | All Leagues (incl. International) | `https://hh-io.github.io/lol-esports-calendar/dist/en/all.ics` |
 
 > When you fork and deploy your own, replace `hh-io` / `lol-esports-calendar` with your username / repo.

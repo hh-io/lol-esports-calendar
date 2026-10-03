@@ -2,7 +2,7 @@
 
 [简体中文](README.md) · [English](README.en.md) · **한국어**
 
-**리그 오브 레전드 e스포츠 경기 일정**(**LPL / LCK / LEC / LCP / LTA / MSI / Worlds / 국제 대회**)을 자동으로 수집해 구독 가능한 `.ics` 캘린더 파일을 생성합니다. **Apple 캘린더, Google 캘린더, Outlook** 등 iCalendar(`.ics`) 구독을 지원하는 모든 클라이언트에서 사용할 수 있습니다. GitHub Actions가 매시간 갱신하고 GitHub Pages에서 호스팅합니다. **순수 표준 라이브러리, 의존성 없음.**
+**리그 오브 레전드 e스포츠 경기 일정**(**LPL / LCK / LEC / LCP / LCS / CBLOL / MSI / Worlds / 국제 대회**)을 자동으로 수집해 구독 가능한 `.ics` 캘린더 파일을 생성합니다. **Apple 캘린더, Google 캘린더, Outlook** 등 iCalendar(`.ics`) 구독을 지원하는 모든 클라이언트에서 사용할 수 있습니다. GitHub Actions가 매시간 갱신하고 GitHub Pages에서 호스팅합니다. **순수 표준 라이브러리, 의존성 없음.**
 
 캘린더 본문은 중국어 / 영어 / 한국어를 지원합니다(아래 표 참고).
 
@@ -18,8 +18,8 @@
 | LCK (한국) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lck.ics` |
 | LEC (유럽) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lec.ics` |
 | LCP (태평양) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lcp.ics` |
-| LTA (아메리카) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lta.ics` |
-| 국제 대회 (MSI/Worlds/First Stand/EWC) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/intl.ics` |
+| 아메리카 (LCS/CBLOL, 구 LTA) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/lta.ics` |
+| 국제 대회 (MSI/Worlds/First Stand/EWC/DCGI) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/intl.ics` |
 | 전체 리그 (국제 대회 포함) | `https://hh-io.github.io/lol-esports-calendar/dist/ko/all.ics` |
 
 > 직접 포크해서 배포할 때는 `hh-io` / `lol-esports-calendar`를 본인 사용자명 / 저장소명으로 바꾸세요.
