@@ -92,7 +92,7 @@ UID:lolmatch-115565004607949423@lol-esports-calendar
 DTSTAMP:20261003T200000Z
 DTSTART:20261003T200000Z
 DTEND:20261004T003000Z
-SUMMARY:LCS: LYON vs C9 (Playoffs)
+SUMMARY:LCS: LYON 3-1 C9 (Playoffs)
 DESCRIPTION:League: LCS\nStage: Playoffs\nFormat: BO5\nMatch: LYON vs Clou
  d9 Kia
 END:VEVENT
@@ -128,9 +128,9 @@ UID:lolmatch-115565004607949429@lol-esports-calendar
 DTSTAMP:20261004T200000Z
 DTSTART:20261004T200000Z
 DTEND:20261005T003000Z
-SUMMARY:LCS: TBD vs TLAW (Finals)
-DESCRIPTION:League: LCS\nStage: Finals\nFormat: BO5\nMatch: TBD vs Team Li
- quid Alienware
+SUMMARY:LCS: LYON vs TLAW (Finals)
+DESCRIPTION:League: LCS\nStage: Finals\nFormat: BO5\nMatch: LYON vs Team L
+ iquid Alienware
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117133805552262401@lol-esports-calendar
