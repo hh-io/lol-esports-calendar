@@ -93,9 +93,9 @@ UID:lolmatch-117133805552262401@lol-esports-calendar
 DTSTAMP:20261005T070000Z
 DTSTART:20261005T070000Z
 DTEND:20261005T100000Z
-SUMMARY:DCGI: GAM vs VIT (Swiss)
-DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: GAM Esports vs
-  Team Vitality
+SUMMARY:DCGI: VIT vs GAM (Swiss)
+DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: Team Vitality 
+ vs GAM Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117133805552262405@lol-esports-calendar

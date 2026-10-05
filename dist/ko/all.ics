@@ -120,9 +120,9 @@ UID:lolmatch-117133805552262401@lol-esports-calendar
 DTSTAMP:20261005T070000Z
 DTSTART:20261005T070000Z
 DTEND:20261005T100000Z
-SUMMARY:DCGI: GAM vs VIT (스위스)
-DESCRIPTION:리그: DCGI\n단계: 스위스\n방식: BO3\n대진: GAM Espo
- rts vs Team Vitality
+SUMMARY:DCGI: VIT vs GAM (스위스)
+DESCRIPTION:리그: DCGI\n단계: 스위스\n방식: BO3\n대진: Team Vit
+ ality vs GAM Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117133805552262405@lol-esports-calendar

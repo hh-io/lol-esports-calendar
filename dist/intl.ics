@@ -93,9 +93,9 @@ UID:lolmatch-117133805552262401@lol-esports-calendar
 DTSTAMP:20261005T070000Z
 DTSTART:20261005T070000Z
 DTEND:20261005T100000Z
-SUMMARY:DCGI: GAM vs VIT (瑞士轮)
-DESCRIPTION:赛区: DCGI\n阶段: 瑞士轮\n赛制: BO3\n对阵: GAM Espo
- rts vs Team Vitality
+SUMMARY:DCGI: VIT vs GAM (瑞士轮)
+DESCRIPTION:赛区: DCGI\n阶段: 瑞士轮\n赛制: BO3\n对阵: Team Vit
+ ality vs GAM Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117133805552262405@lol-esports-calendar
