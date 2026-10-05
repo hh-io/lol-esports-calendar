@@ -129,7 +129,7 @@ UID:lolmatch-117133805552262405@lol-esports-calendar
 DTSTAMP:20261005T090000Z
 DTSTART:20261005T090000Z
 DTEND:20261005T120000Z
-SUMMARY:DCGI: FLY vs NAVI (Swiss)
+SUMMARY:DCGI: FLY 0-2 NAVI (Swiss)
 DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: FlyQuest vs Na
  tus Vincere
 END:VEVENT
@@ -138,9 +138,9 @@ UID:lolmatch-117133805552262409@lol-esports-calendar
 DTSTAMP:20261005T110000Z
 DTSTART:20261005T110000Z
 DTEND:20261005T140000Z
-SUMMARY:DCGI: SR vs JDG (Swiss)
-DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: Shopify Rebell
- ion vs Beijing JDG Esports
+SUMMARY:DCGI: JDG vs SR (Swiss)
+DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: Beijing JDG Es
+ ports vs Shopify Rebellion
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117133805552262413@lol-esports-calendar
@@ -171,9 +171,9 @@ UID:lolmatch-117133816701918794@lol-esports-calendar
 DTSTAMP:20261007T070000Z
 DTSTART:20261007T070000Z
 DTEND:20261007T100000Z
-SUMMARY:DCGI: TBD vs GAM (Swiss)
-DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: TBD vs GAM Esp
- orts
+SUMMARY:DCGI: FLY vs GAM (Swiss)
+DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: FlyQuest vs GA
+ M Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117133816701918798@lol-esports-calendar
@@ -189,8 +189,8 @@ UID:lolmatch-117133816701918802@lol-esports-calendar
 DTSTAMP:20261007T110000Z
 DTSTART:20261007T110000Z
 DTEND:20261007T140000Z
-SUMMARY:DCGI: TBD vs TBD (Swiss)
-DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
+SUMMARY:DCGI: TBD vs FLY (Swiss)
+DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: TBD vs FlyQuest
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117133830114188936@lol-esports-calendar
