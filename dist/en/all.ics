@@ -183,9 +183,9 @@ UID:lolmatch-117133816701918798@lol-esports-calendar
 DTSTAMP:20261007T090000Z
 DTSTART:20261007T090000Z
 DTEND:20261007T120000Z
-SUMMARY:DCGI: SR vs GAM (Swiss)
-DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: Shopify Rebell
- ion vs GAM Esports
+SUMMARY:DCGI: GAM vs SR (Swiss)
+DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: GAM Esports vs
+  Shopify Rebellion
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117133816701918802@lol-esports-calendar
