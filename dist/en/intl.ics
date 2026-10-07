@@ -147,9 +147,9 @@ UID:lolmatch-117133816701918794@lol-esports-calendar
 DTSTAMP:20261007T070000Z
 DTSTART:20261007T070000Z
 DTEND:20261007T100000Z
-SUMMARY:DCGI: GAM vs FLY (Swiss)
-DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: GAM Esports vs
-  FlyQuest
+SUMMARY:DCGI: FLY vs GAM (Swiss)
+DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: FlyQuest vs GA
+ M Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117133816701918798@lol-esports-calendar
