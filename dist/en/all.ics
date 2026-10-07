@@ -183,7 +183,7 @@ UID:lolmatch-117133816701918798@lol-esports-calendar
 DTSTAMP:20261007T090000Z
 DTSTART:20261007T090000Z
 DTEND:20261007T120000Z
-SUMMARY:DCGI: GAM vs SR (Swiss)
+SUMMARY:DCGI: GAM 0-2 SR (Swiss)
 DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: GAM Esports vs
   Shopify Rebellion
 END:VEVENT
@@ -192,9 +192,9 @@ UID:lolmatch-117133816701918802@lol-esports-calendar
 DTSTAMP:20261007T110000Z
 DTSTART:20261007T110000Z
 DTEND:20261007T140000Z
-SUMMARY:DCGI: FLY vs SR (Swiss)
-DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: FlyQuest vs Sh
- opify Rebellion
+SUMMARY:DCGI: SR vs FLY (Swiss)
+DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: Shopify Rebell
+ ion vs FlyQuest
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117133830114188936@lol-esports-calendar
