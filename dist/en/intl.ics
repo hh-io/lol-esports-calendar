@@ -174,7 +174,7 @@ UID:lolmatch-117133830114188936@lol-esports-calendar
 DTSTAMP:20261008T090000Z
 DTSTART:20261008T090000Z
 DTEND:20261008T120000Z
-SUMMARY:DCGI: RED vs FLY (Swiss)
+SUMMARY:DCGI: RED 0-2 FLY (Swiss)
 DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: RED Kalunga vs
   FlyQuest
 END:VEVENT
@@ -183,9 +183,9 @@ UID:lolmatch-117133830114188940@lol-esports-calendar
 DTSTAMP:20261008T110000Z
 DTSTART:20261008T110000Z
 DTEND:20261008T140000Z
-SUMMARY:DCGI: NAVI vs JDG (Swiss)
-DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: Natus Vincere 
- vs Beijing JDG Esports
+SUMMARY:DCGI: JDG vs NAVI (Swiss)
+DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: Beijing JDG Es
+ ports vs Natus Vincere
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117133830110912093@lol-esports-calendar
