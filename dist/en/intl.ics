@@ -183,45 +183,45 @@ UID:lolmatch-117133830114188940@lol-esports-calendar
 DTSTAMP:20261008T110000Z
 DTSTART:20261008T110000Z
 DTEND:20261008T140000Z
-SUMMARY:DCGI: JDG vs NAVI (Swiss)
+SUMMARY:DCGI: JDG 2-1 NAVI (Swiss)
 DESCRIPTION:League: DCGI\nStage: Swiss\nFormat: BO3\nMatch: Beijing JDG Es
  ports vs Natus Vincere
 END:VEVENT
 BEGIN:VEVENT
-UID:lolmatch-117133830110912093@lol-esports-calendar
+UID:lolmatch-117133830110912099@lol-esports-calendar
 DTSTAMP:20261012T060000Z
 DTSTART:20261012T060000Z
 DTEND:20261012T103000Z
-SUMMARY:DCGI: TBD vs TBD (Quarterfinals)
-DESCRIPTION:League: DCGI\nStage: Quarterfinals\nFormat: BO5\nMatch: TBD vs
-  TBD
+SUMMARY:DCGI: KT vs VIT (Quarterfinals)
+DESCRIPTION:League: DCGI\nStage: Quarterfinals\nFormat: BO5\nMatch: kt Rol
+ ster vs Team Vitality
 END:VEVENT
 BEGIN:VEVENT
-UID:lolmatch-117133830110912099@lol-esports-calendar
+UID:lolmatch-117133830110912093@lol-esports-calendar
 DTSTAMP:20261012T090000Z
 DTSTART:20261012T090000Z
 DTEND:20261012T133000Z
-SUMMARY:DCGI: TBD vs TBD (Quarterfinals)
-DESCRIPTION:League: DCGI\nStage: Quarterfinals\nFormat: BO5\nMatch: TBD vs
-  TBD
+SUMMARY:DCGI: BFX vs JDG (Quarterfinals)
+DESCRIPTION:League: DCGI\nStage: Quarterfinals\nFormat: BO5\nMatch: BNK FE
+ ARX vs Beijing JDG Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117133830110912105@lol-esports-calendar
 DTSTAMP:20261013T060000Z
 DTSTART:20261013T060000Z
 DTEND:20261013T103000Z
-SUMMARY:DCGI: TBD vs TBD (Quarterfinals)
-DESCRIPTION:League: DCGI\nStage: Quarterfinals\nFormat: BO5\nMatch: TBD vs
-  TBD
+SUMMARY:DCGI: WE vs FLY (Quarterfinals)
+DESCRIPTION:League: DCGI\nStage: Quarterfinals\nFormat: BO5\nMatch: Xi'an 
+ Team WE vs FlyQuest
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117133830110912111@lol-esports-calendar
 DTSTAMP:20261013T090000Z
 DTSTART:20261013T090000Z
 DTEND:20261013T133000Z
-SUMMARY:DCGI: TBD vs TBD (Quarterfinals)
-DESCRIPTION:League: DCGI\nStage: Quarterfinals\nFormat: BO5\nMatch: TBD vs
-  TBD
+SUMMARY:DCGI: BRO vs LGD (Quarterfinals)
+DESCRIPTION:League: DCGI\nStage: Quarterfinals\nFormat: BO5\nMatch: HANJIN
+  BRION vs LGD GAMING
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117133830110912117@lol-esports-calendar
