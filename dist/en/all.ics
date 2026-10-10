@@ -207,16 +207,18 @@ UID:lolmatch-115660588583040710@lol-esports-calendar
 DTSTAMP:20261015T180000Z
 DTSTART:20261015T180000Z
 DTEND:20261015T223000Z
-SUMMARY:Worlds: TBD vs TBD (Play-Ins)
-DESCRIPTION:League: Worlds\nStage: Play-Ins\nFormat: BO5\nMatch: TBD vs TBD
+SUMMARY:Worlds: FUR vs MVK (Play-Ins)
+DESCRIPTION:League: Worlds\nStage: Play-Ins\nFormat: BO5\nMatch: FURIA vs 
+ MVK Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660588583171786@lol-esports-calendar
 DTSTAMP:20261015T230000Z
 DTSTART:20261015T230000Z
 DTEND:20261016T033000Z
-SUMMARY:Worlds: TBD vs TBD (Play-Ins)
-DESCRIPTION:League: Worlds\nStage: Play-Ins\nFormat: BO5\nMatch: TBD vs TBD
+SUMMARY:Worlds: C9 vs KC (Play-Ins)
+DESCRIPTION:League: Worlds\nStage: Play-Ins\nFormat: BO5\nMatch: Cloud9 Ki
+ a vs Karmine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660588583171790@lol-esports-calendar

@@ -192,18 +192,18 @@ UID:lolmatch-115660588583040710@lol-esports-calendar
 DTSTAMP:20261015T180000Z
 DTSTART:20261015T180000Z
 DTEND:20261015T223000Z
-SUMMARY:Worlds: TBD vs TBD (入围赛)
-DESCRIPTION:赛区: Worlds\n阶段: 入围赛\n赛制: BO5\n对阵: TBD vs
-  TBD
+SUMMARY:Worlds: FUR vs MVK (入围赛)
+DESCRIPTION:赛区: Worlds\n阶段: 入围赛\n赛制: BO5\n对阵: FURIA 
+ vs MVK Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660588583171786@lol-esports-calendar
 DTSTAMP:20261015T230000Z
 DTSTART:20261015T230000Z
 DTEND:20261016T033000Z
-SUMMARY:Worlds: TBD vs TBD (入围赛)
-DESCRIPTION:赛区: Worlds\n阶段: 入围赛\n赛制: BO5\n对阵: TBD vs
-  TBD
+SUMMARY:Worlds: C9 vs KC (入围赛)
+DESCRIPTION:赛区: Worlds\n阶段: 入围赛\n赛制: BO5\n对阵: Cloud9
+  Kia vs Karmine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660588583171790@lol-esports-calendar
