@@ -101,7 +101,7 @@ UID:lolmatch-117133830110912093@lol-esports-calendar
 DTSTAMP:20261012T090000Z
 DTSTART:20261012T090000Z
 DTEND:20261012T133000Z
-SUMMARY:DCGI: BFX vs JDG (Quarterfinals)
+SUMMARY:DCGI: BFX 3-2 JDG (Quarterfinals)
 DESCRIPTION:League: DCGI\nStage: Quarterfinals\nFormat: BO5\nMatch: BNK FE
  ARX vs Beijing JDG Esports
 END:VEVENT
@@ -128,9 +128,9 @@ UID:lolmatch-117133830110912117@lol-esports-calendar
 DTSTAMP:20261014T090000Z
 DTSTART:20261014T090000Z
 DTEND:20261014T133000Z
-SUMMARY:DCGI: TBD vs KT (Semifinals)
-DESCRIPTION:League: DCGI\nStage: Semifinals\nFormat: BO5\nMatch: TBD vs kt
-  Rolster
+SUMMARY:DCGI: KT vs BFX (Semifinals)
+DESCRIPTION:League: DCGI\nStage: Semifinals\nFormat: BO5\nMatch: kt Rolste
+ r vs BNK FEARX
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117133830110912123@lol-esports-calendar
