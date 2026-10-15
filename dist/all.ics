@@ -75,9 +75,9 @@ UID:lolmatch-115660588583171786@lol-esports-calendar
 DTSTAMP:20261015T180000Z
 DTSTART:20261015T180000Z
 DTEND:20261015T223000Z
-SUMMARY:Worlds: C9 vs KC (入围赛)
-DESCRIPTION:赛区: Worlds\n阶段: 入围赛\n赛制: BO5\n对阵: Cloud9
-  Kia vs Karmine Corp
+SUMMARY:Worlds: KC vs C9 (入围赛)
+DESCRIPTION:赛区: Worlds\n阶段: 入围赛\n赛制: BO5\n对阵: Karmin
+ e Corp vs Cloud9 Kia
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660588583040710@lol-esports-calendar

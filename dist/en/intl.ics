@@ -66,9 +66,9 @@ UID:lolmatch-115660588583171786@lol-esports-calendar
 DTSTAMP:20261015T180000Z
 DTSTART:20261015T180000Z
 DTEND:20261015T223000Z
-SUMMARY:Worlds: C9 vs KC (Play-Ins)
-DESCRIPTION:League: Worlds\nStage: Play-Ins\nFormat: BO5\nMatch: Cloud9 Ki
- a vs Karmine Corp
+SUMMARY:Worlds: KC vs C9 (Play-Ins)
+DESCRIPTION:League: Worlds\nStage: Play-Ins\nFormat: BO5\nMatch: Karmine C
+ orp vs Cloud9 Kia
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660588583040710@lol-esports-calendar
