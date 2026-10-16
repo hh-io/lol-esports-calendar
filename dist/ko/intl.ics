@@ -75,7 +75,7 @@ UID:lolmatch-115660588583040710@lol-esports-calendar
 DTSTAMP:20261015T230000Z
 DTSTART:20261015T230000Z
 DTEND:20261016T033000Z
-SUMMARY:Worlds: MVK vs FUR (플레이-인)
+SUMMARY:Worlds: MVK 3-0 FUR (플레이-인)
 DESCRIPTION:리그: 월드 챔피언십\n단계: 플레이-인\n방식: BO
  5\n대진: MVK Esports vs FURIA
 END:VEVENT
@@ -84,18 +84,18 @@ UID:lolmatch-115660588583171790@lol-esports-calendar
 DTSTAMP:20261016T180000Z
 DTSTART:20261016T180000Z
 DTEND:20261016T223000Z
-SUMMARY:Worlds: TBD vs KC (플레이-인)
+SUMMARY:Worlds: KC vs MVK (플레이-인)
 DESCRIPTION:리그: 월드 챔피언십\n단계: 플레이-인\n방식: BO
- 5\n대진: TBD vs Karmine Corp
+ 5\n대진: Karmine Corp vs MVK Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660588583171794@lol-esports-calendar
 DTSTAMP:20261016T230000Z
 DTSTART:20261016T230000Z
 DTEND:20261017T033000Z
-SUMMARY:Worlds: TBD vs C9 (플레이-인)
+SUMMARY:Worlds: C9 vs FUR (플레이-인)
 DESCRIPTION:리그: 월드 챔피언십\n단계: 플레이-인\n방식: BO
- 5\n대진: TBD vs Cloud9 Kia
+ 5\n대진: Cloud9 Kia vs FURIA
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-117133830110912129@lol-esports-calendar
