@@ -75,7 +75,7 @@ UID:lolmatch-115660540726095009@lol-esports-calendar
 DTSTAMP:20261023T200000Z
 DTSTART:20261023T200000Z
 DTEND:20261023T210000Z
-SUMMARY:Worlds: KC vs AL (스위스)
+SUMMARY:Worlds: KC 1-0 AL (스위스)
 DESCRIPTION:리그: 월드 챔피언십\n단계: 스위스\n방식: BO1\n
  대진: Karmine Corp vs Anyone's Legend
 END:VEVENT
@@ -84,9 +84,9 @@ UID:lolmatch-115660540726095011@lol-esports-calendar
 DTSTAMP:20261023T210000Z
 DTSTART:20261023T210000Z
 DTEND:20261023T220000Z
-SUMMARY:Worlds: G2 vs DK (스위스)
+SUMMARY:Worlds: DK vs G2 (스위스)
 DESCRIPTION:리그: 월드 챔피언십\n단계: 스위스\n방식: BO1\n
- 대진: G2 Esports vs Dplus KIA
+ 대진: Dplus KIA vs G2 Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095007@lol-esports-calendar
