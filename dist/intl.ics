@@ -57,9 +57,9 @@ UID:lolmatch-115660540726095005@lol-esports-calendar
 DTSTAMP:20261023T170000Z
 DTSTART:20261023T170000Z
 DTEND:20261023T180000Z
-SUMMARY:Worlds: GEN vs IG (瑞士轮)
-DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO1\n对阵: Gen.G 
- Esports vs Invictus Gaming
+SUMMARY:Worlds: IG vs GEN (瑞士轮)
+DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO1\n对阵: Invict
+ us Gaming vs Gen.G Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095013@lol-esports-calendar

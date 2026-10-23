@@ -57,9 +57,9 @@ UID:lolmatch-115660540726095005@lol-esports-calendar
 DTSTAMP:20261023T170000Z
 DTSTART:20261023T170000Z
 DTEND:20261023T180000Z
-SUMMARY:Worlds: GEN vs IG (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: Gen.G Esport
- s vs Invictus Gaming
+SUMMARY:Worlds: IG vs GEN (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: Invictus Gam
+ ing vs Gen.G Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095013@lol-esports-calendar
