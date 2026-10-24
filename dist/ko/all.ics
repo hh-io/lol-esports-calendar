@@ -138,7 +138,7 @@ UID:lolmatch-115660540726095025@lol-esports-calendar
 DTSTAMP:20261024T220000Z
 DTSTART:20261024T220000Z
 DTEND:20261024T230000Z
-SUMMARY:Worlds: HLE vs GEN (스위스)
+SUMMARY:Worlds: HLE 0-1 GEN (스위스)
 DESCRIPTION:리그: 월드 챔피언십\n단계: 스위스\n방식: BO1\n
  대진: Hanwha Life Esports vs Gen.G Esports
 END:VEVENT
@@ -147,9 +147,9 @@ UID:lolmatch-115660540726095027@lol-esports-calendar
 DTSTAMP:20261024T230000Z
 DTSTART:20261024T230000Z
 DTEND:20261025T000000Z
-SUMMARY:Worlds: T1 vs DK (스위스)
+SUMMARY:Worlds: DK vs T1 (스위스)
 DESCRIPTION:리그: 월드 챔피언십\n단계: 스위스\n방식: BO1\n
- 대진: T1 vs Dplus KIA
+ 대진: Dplus KIA vs T1
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095035@lol-esports-calendar
