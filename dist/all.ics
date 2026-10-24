@@ -102,9 +102,9 @@ UID:lolmatch-115660540726095029@lol-esports-calendar
 DTSTAMP:20261024T170000Z
 DTSTART:20261024T170000Z
 DTEND:20261024T180000Z
-SUMMARY:Worlds: AL vs TES (瑞士轮)
-DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO1\n对阵: Anyone
- 's Legend vs TOP ESPORTS
+SUMMARY:Worlds: TES vs AL (瑞士轮)
+DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO1\n对阵: TOP ES
+ PORTS vs Anyone's Legend
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095021@lol-esports-calendar

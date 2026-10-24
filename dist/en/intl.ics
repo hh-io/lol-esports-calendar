@@ -101,9 +101,9 @@ UID:lolmatch-115660540726095029@lol-esports-calendar
 DTSTAMP:20261024T170000Z
 DTSTART:20261024T170000Z
 DTEND:20261024T180000Z
-SUMMARY:Worlds: AL vs TES (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: Anyone's Leg
- end vs TOP ESPORTS
+SUMMARY:Worlds: TES vs AL (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: TOP ESPORTS 
+ vs Anyone's Legend
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095021@lol-esports-calendar
