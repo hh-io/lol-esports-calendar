@@ -102,7 +102,7 @@ UID:lolmatch-115660540726095021@lol-esports-calendar
 DTSTAMP:20261024T180000Z
 DTSTART:20261024T180000Z
 DTEND:20261024T190000Z
-SUMMARY:Worlds: MKOI vs CFO (瑞士轮)
+SUMMARY:Worlds: MKOI 1-0 CFO (瑞士轮)
 DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO1\n对阵: Movist
  ar KOI vs CTBC Flying Oyster
 END:VEVENT
@@ -111,9 +111,9 @@ UID:lolmatch-115660540726095031@lol-esports-calendar
 DTSTAMP:20261024T190000Z
 DTSTART:20261024T190000Z
 DTEND:20261024T200000Z
-SUMMARY:Worlds: G2 vs LOS (瑞士轮)
-DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO1\n对阵: G2 Esp
- orts vs LOS
+SUMMARY:Worlds: LOS vs G2 (瑞士轮)
+DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO1\n对阵: LOS vs
+  G2 Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095023@lol-esports-calendar

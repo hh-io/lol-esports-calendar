@@ -102,7 +102,7 @@ UID:lolmatch-115660540726095021@lol-esports-calendar
 DTSTAMP:20261024T180000Z
 DTSTART:20261024T180000Z
 DTEND:20261024T190000Z
-SUMMARY:Worlds: MKOI vs CFO (스위스)
+SUMMARY:Worlds: MKOI 1-0 CFO (스위스)
 DESCRIPTION:리그: 월드 챔피언십\n단계: 스위스\n방식: BO1\n
  대진: Movistar KOI vs CTBC Flying Oyster
 END:VEVENT
@@ -111,9 +111,9 @@ UID:lolmatch-115660540726095031@lol-esports-calendar
 DTSTAMP:20261024T190000Z
 DTSTART:20261024T190000Z
 DTEND:20261024T200000Z
-SUMMARY:Worlds: G2 vs LOS (스위스)
+SUMMARY:Worlds: LOS vs G2 (스위스)
 DESCRIPTION:리그: 월드 챔피언십\n단계: 스위스\n방식: BO1\n
- 대진: G2 Esports vs LOS
+ 대진: LOS vs G2 Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095023@lol-esports-calendar
