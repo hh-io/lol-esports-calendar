@@ -110,7 +110,7 @@ UID:lolmatch-115660540726095031@lol-esports-calendar
 DTSTAMP:20261024T190000Z
 DTSTART:20261024T190000Z
 DTEND:20261024T200000Z
-SUMMARY:Worlds: LOS vs G2 (Swiss)
+SUMMARY:Worlds: LOS 0-1 G2 (Swiss)
 DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: LOS vs G2 Es
  ports
 END:VEVENT
@@ -119,9 +119,9 @@ UID:lolmatch-115660540726095023@lol-esports-calendar
 DTSTAMP:20261024T200000Z
 DTSTART:20261024T200000Z
 DTEND:20261024T210000Z
-SUMMARY:Worlds: LYON vs KC (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: LYON vs Karm
- ine Corp
+SUMMARY:Worlds: KC vs LYON (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: Karmine Corp
+  vs LYON
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095033@lol-esports-calendar
