@@ -93,7 +93,7 @@ UID:lolmatch-115660540726095015@lol-esports-calendar
 DTSTAMP:20261023T230000Z
 DTSTART:20261023T230000Z
 DTEND:20261024T000000Z
-SUMMARY:Worlds: LOS vs T1 (스위스)
+SUMMARY:Worlds: LOS 0-1 T1 (스위스)
 DESCRIPTION:리그: 월드 챔피언십\n단계: 스위스\n방식: BO1\n
  대진: LOS vs T1
 END:VEVENT
@@ -102,9 +102,9 @@ UID:lolmatch-115660540726095017@lol-esports-calendar
 DTSTAMP:20261024T000000Z
 DTSTART:20261024T000000Z
 DTEND:20261024T010000Z
-SUMMARY:Worlds: TSW vs LYON (스위스)
+SUMMARY:Worlds: LYON vs TSW (스위스)
 DESCRIPTION:리그: 월드 챔피언십\n단계: 스위스\n방식: BO1\n
- 대진: Team Secret Whales vs LYON
+ 대진: LYON vs Team Secret Whales
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095021@lol-esports-calendar

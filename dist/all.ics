@@ -93,7 +93,7 @@ UID:lolmatch-115660540726095015@lol-esports-calendar
 DTSTAMP:20261023T230000Z
 DTSTART:20261023T230000Z
 DTEND:20261024T000000Z
-SUMMARY:Worlds: LOS vs T1 (瑞士轮)
+SUMMARY:Worlds: LOS 0-1 T1 (瑞士轮)
 DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO1\n对阵: LOS vs
   T1
 END:VEVENT
@@ -102,9 +102,9 @@ UID:lolmatch-115660540726095017@lol-esports-calendar
 DTSTAMP:20261024T000000Z
 DTSTART:20261024T000000Z
 DTEND:20261024T010000Z
-SUMMARY:Worlds: TSW vs LYON (瑞士轮)
-DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO1\n对阵: Team S
- ecret Whales vs LYON
+SUMMARY:Worlds: LYON vs TSW (瑞士轮)
+DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO1\n对阵: LYON v
+ s Team Secret Whales
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095021@lol-esports-calendar

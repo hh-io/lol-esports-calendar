@@ -93,7 +93,7 @@ UID:lolmatch-115660540726095015@lol-esports-calendar
 DTSTAMP:20261023T230000Z
 DTSTART:20261023T230000Z
 DTEND:20261024T000000Z
-SUMMARY:Worlds: LOS vs T1 (Swiss)
+SUMMARY:Worlds: LOS 0-1 T1 (Swiss)
 DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: LOS vs T1
 END:VEVENT
 BEGIN:VEVENT
@@ -101,9 +101,9 @@ UID:lolmatch-115660540726095017@lol-esports-calendar
 DTSTAMP:20261024T000000Z
 DTSTART:20261024T000000Z
 DTEND:20261024T010000Z
-SUMMARY:Worlds: TSW vs LYON (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: Team Secret 
- Whales vs LYON
+SUMMARY:Worlds: LYON vs TSW (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: LYON vs Team
+  Secret Whales
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095021@lol-esports-calendar
