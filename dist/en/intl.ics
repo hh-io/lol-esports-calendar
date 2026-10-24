@@ -128,7 +128,7 @@ UID:lolmatch-115660540726095033@lol-esports-calendar
 DTSTAMP:20261024T210000Z
 DTSTART:20261024T210000Z
 DTEND:20261024T220000Z
-SUMMARY:Worlds: TSW vs IG (Swiss)
+SUMMARY:Worlds: TSW 0-1 IG (Swiss)
 DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: Team Secret 
  Whales vs Invictus Gaming
 END:VEVENT
@@ -137,9 +137,9 @@ UID:lolmatch-115660540726095025@lol-esports-calendar
 DTSTAMP:20261024T220000Z
 DTSTART:20261024T220000Z
 DTEND:20261024T230000Z
-SUMMARY:Worlds: GEN vs HLE (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: Gen.G Esport
- s vs Hanwha Life Esports
+SUMMARY:Worlds: HLE vs GEN (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: Hanwha Life 
+ Esports vs Gen.G Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095027@lol-esports-calendar
