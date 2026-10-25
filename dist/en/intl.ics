@@ -164,9 +164,9 @@ UID:lolmatch-115660540726095045@lol-esports-calendar
 DTSTAMP:20261025T170000Z
 DTSTART:20261025T170000Z
 DTEND:20261025T180000Z
-SUMMARY:Worlds: HLE vs IG (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: Hanwha Life 
- Esports vs Invictus Gaming
+SUMMARY:Worlds: IG vs HLE (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: Invictus Gam
+ ing vs Hanwha Life Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095047@lol-esports-calendar
