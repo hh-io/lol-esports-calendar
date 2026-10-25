@@ -173,9 +173,9 @@ UID:lolmatch-115660540726095047@lol-esports-calendar
 DTSTAMP:20261025T180000Z
 DTSTART:20261025T180000Z
 DTEND:20261025T190000Z
-SUMMARY:Worlds: TES vs G2 (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: TOP ESPORTS 
- vs G2 Esports
+SUMMARY:Worlds: G2 vs TES (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: G2 Esports v
+ s TOP ESPORTS
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095037@lol-esports-calendar
