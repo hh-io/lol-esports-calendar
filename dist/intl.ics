@@ -174,7 +174,7 @@ UID:lolmatch-115660540726095037@lol-esports-calendar
 DTSTAMP:20261025T190000Z
 DTSTART:20261025T190000Z
 DTEND:20261025T220000Z
-SUMMARY:Worlds: MKOI vs DK (瑞士轮)
+SUMMARY:Worlds: MKOI 0-2 DK (瑞士轮)
 DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO3\n对阵: Movist
  ar KOI vs Dplus KIA
 END:VEVENT
@@ -183,9 +183,9 @@ UID:lolmatch-115660540726095041@lol-esports-calendar
 DTSTAMP:20261025T220000Z
 DTSTART:20261025T220000Z
 DTEND:20261026T010000Z
-SUMMARY:Worlds: GEN vs LYON (瑞士轮)
-DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO3\n对阵: Gen.G 
- Esports vs LYON
+SUMMARY:Worlds: LYON vs GEN (瑞士轮)
+DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO3\n对阵: LYON v
+ s Gen.G Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095049@lol-esports-calendar

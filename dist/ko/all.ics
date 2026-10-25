@@ -174,7 +174,7 @@ UID:lolmatch-115660540726095037@lol-esports-calendar
 DTSTAMP:20261025T190000Z
 DTSTART:20261025T190000Z
 DTEND:20261025T220000Z
-SUMMARY:Worlds: MKOI vs DK (스위스)
+SUMMARY:Worlds: MKOI 0-2 DK (스위스)
 DESCRIPTION:리그: 월드 챔피언십\n단계: 스위스\n방식: BO3\n
  대진: Movistar KOI vs Dplus KIA
 END:VEVENT
@@ -183,9 +183,9 @@ UID:lolmatch-115660540726095041@lol-esports-calendar
 DTSTAMP:20261025T220000Z
 DTSTART:20261025T220000Z
 DTEND:20261026T010000Z
-SUMMARY:Worlds: GEN vs LYON (스위스)
+SUMMARY:Worlds: LYON vs GEN (스위스)
 DESCRIPTION:리그: 월드 챔피언십\n단계: 스위스\n방식: BO3\n
- 대진: Gen.G Esports vs LYON
+ 대진: LYON vs Gen.G Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095049@lol-esports-calendar

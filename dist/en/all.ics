@@ -173,7 +173,7 @@ UID:lolmatch-115660540726095037@lol-esports-calendar
 DTSTAMP:20261025T190000Z
 DTSTART:20261025T190000Z
 DTEND:20261025T220000Z
-SUMMARY:Worlds: MKOI vs DK (Swiss)
+SUMMARY:Worlds: MKOI 0-2 DK (Swiss)
 DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: Movistar KOI
   vs Dplus KIA
 END:VEVENT
@@ -182,9 +182,9 @@ UID:lolmatch-115660540726095041@lol-esports-calendar
 DTSTAMP:20261025T220000Z
 DTSTART:20261025T220000Z
 DTEND:20261026T010000Z
-SUMMARY:Worlds: GEN vs LYON (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: Gen.G Esport
- s vs LYON
+SUMMARY:Worlds: LYON vs GEN (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: LYON vs Gen.
+ G Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095049@lol-esports-calendar
