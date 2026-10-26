@@ -201,7 +201,7 @@ UID:lolmatch-115660540726095051@lol-esports-calendar
 DTSTAMP:20261026T180000Z
 DTSTART:20261026T180000Z
 DTEND:20261026T190000Z
-SUMMARY:Worlds: BLG vs KC (瑞士轮)
+SUMMARY:Worlds: BLG 1-0 KC (瑞士轮)
 DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO1\n对阵: BILIBI
  LI GAMING vs Karmine Corp
 END:VEVENT
@@ -210,9 +210,9 @@ UID:lolmatch-115660540726095053@lol-esports-calendar
 DTSTAMP:20261026T190000Z
 DTSTART:20261026T190000Z
 DTEND:20261026T220000Z
-SUMMARY:Worlds: LOS vs TSW (瑞士轮)
-DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO3\n对阵: LOS vs
-  Team Secret Whales
+SUMMARY:Worlds: TSW vs LOS (瑞士轮)
+DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO3\n对阵: Team S
+ ecret Whales vs LOS
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095057@lol-esports-calendar
