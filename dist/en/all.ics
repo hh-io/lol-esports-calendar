@@ -191,9 +191,9 @@ UID:lolmatch-115660540726095049@lol-esports-calendar
 DTSTAMP:20261026T170000Z
 DTSTART:20261026T170000Z
 DTEND:20261026T180000Z
-SUMMARY:Worlds: CFO vs T1 (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: CTBC Flying 
- Oyster vs T1
+SUMMARY:Worlds: T1 vs CFO (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO1\nMatch: T1 vs CTBC F
+ lying Oyster
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095051@lol-esports-calendar
