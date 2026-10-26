@@ -209,7 +209,7 @@ UID:lolmatch-115660540726095053@lol-esports-calendar
 DTSTAMP:20261026T190000Z
 DTSTART:20261026T190000Z
 DTEND:20261026T220000Z
-SUMMARY:Worlds: TSW vs LOS (Swiss)
+SUMMARY:Worlds: TSW 0-2 LOS (Swiss)
 DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: Team Secret 
  Whales vs LOS
 END:VEVENT
@@ -218,9 +218,9 @@ UID:lolmatch-115660540726095057@lol-esports-calendar
 DTSTAMP:20261026T220000Z
 DTSTART:20261026T220000Z
 DTEND:20261027T010000Z
-SUMMARY:Worlds: TLAW vs AL (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: Team Liquid 
- Alienware vs Anyone's Legend
+SUMMARY:Worlds: AL vs TLAW (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: Anyone's Leg
+ end vs Team Liquid Alienware
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095061@lol-esports-calendar
