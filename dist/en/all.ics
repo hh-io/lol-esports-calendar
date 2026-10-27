@@ -227,48 +227,54 @@ UID:lolmatch-115660540726095061@lol-esports-calendar
 DTSTAMP:20261028T200000Z
 DTSTART:20261028T200000Z
 DTEND:20261028T230000Z
-SUMMARY:Worlds: TBD vs TBD (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
+SUMMARY:Worlds: MKOI vs T1 (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: Movistar KOI
+  vs T1
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095065@lol-esports-calendar
 DTSTAMP:20261028T230000Z
 DTSTART:20261028T230000Z
 DTEND:20261029T020000Z
-SUMMARY:Worlds: TBD vs TBD (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
-END:VEVENT
-BEGIN:VEVENT
-UID:lolmatch-115660540726095069@lol-esports-calendar
-DTSTAMP:20261029T200000Z
-DTSTART:20261029T200000Z
-DTEND:20261029T230000Z
-SUMMARY:Worlds: TBD vs TBD (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
+SUMMARY:Worlds: LYON vs IG (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: LYON vs Invi
+ ctus Gaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095073@lol-esports-calendar
+DTSTAMP:20261029T200000Z
+DTSTART:20261029T200000Z
+DTEND:20261029T230000Z
+SUMMARY:Worlds: CFO vs KC (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: CTBC Flying 
+ Oyster vs Karmine Corp
+END:VEVENT
+BEGIN:VEVENT
+UID:lolmatch-115660540726095069@lol-esports-calendar
 DTSTAMP:20261029T230000Z
 DTSTART:20261029T230000Z
 DTEND:20261030T020000Z
-SUMMARY:Worlds: TBD vs TBD (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
+SUMMARY:Worlds: BLG vs TES (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: BILIBILI GAM
+ ING vs TOP ESPORTS
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095077@lol-esports-calendar
 DTSTAMP:20261030T200000Z
 DTSTART:20261030T200000Z
 DTEND:20261030T230000Z
-SUMMARY:Worlds: TBD vs TBD (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
+SUMMARY:Worlds: TLAW vs LOS (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: Team Liquid 
+ Alienware vs LOS
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095081@lol-esports-calendar
 DTSTAMP:20261030T230000Z
 DTSTART:20261030T230000Z
 DTEND:20261031T020000Z
-SUMMARY:Worlds: TBD vs TBD (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
+SUMMARY:Worlds: G2 vs HLE (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: G2 Esports v
+ s Hanwha Life Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095085@lol-esports-calendar
