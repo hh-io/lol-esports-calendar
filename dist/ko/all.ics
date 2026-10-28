@@ -228,9 +228,9 @@ UID:lolmatch-115660540726095061@lol-esports-calendar
 DTSTAMP:20261028T200000Z
 DTSTART:20261028T200000Z
 DTEND:20261028T230000Z
-SUMMARY:Worlds: MKOI vs T1 (스위스)
+SUMMARY:Worlds: T1 vs MKOI (스위스)
 DESCRIPTION:리그: 월드 챔피언십\n단계: 스위스\n방식: BO3\n
- 대진: Movistar KOI vs T1
+ 대진: T1 vs Movistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095065@lol-esports-calendar

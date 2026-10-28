@@ -228,9 +228,9 @@ UID:lolmatch-115660540726095061@lol-esports-calendar
 DTSTAMP:20261028T200000Z
 DTSTART:20261028T200000Z
 DTEND:20261028T230000Z
-SUMMARY:Worlds: MKOI vs T1 (瑞士轮)
-DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO3\n对阵: Movist
- ar KOI vs T1
+SUMMARY:Worlds: T1 vs MKOI (瑞士轮)
+DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO3\n对阵: T1 vs 
+ Movistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095065@lol-esports-calendar
