@@ -245,9 +245,9 @@ UID:lolmatch-115660540726095073@lol-esports-calendar
 DTSTAMP:20261029T200000Z
 DTSTART:20261029T200000Z
 DTEND:20261029T230000Z
-SUMMARY:Worlds: CFO vs KC (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: CTBC Flying 
- Oyster vs Karmine Corp
+SUMMARY:Worlds: KC vs CFO (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: Karmine Corp
+  vs CTBC Flying Oyster
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095069@lol-esports-calendar
