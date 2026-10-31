@@ -578,9 +578,9 @@ UID:lolmatch-115660540726095085@lol-esports-calendar
 DTSTAMP:20261031T170000Z
 DTSTART:20261031T170000Z
 DTEND:20261031T200000Z
-SUMMARY:Worlds: MKOI vs KC (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: Movistar KOI
-  vs Karmine Corp
+SUMMARY:Worlds: KC vs MKOI (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: Karmine Corp
+  vs Movistar KOI
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095089@lol-esports-calendar
