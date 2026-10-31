@@ -63,7 +63,8 @@ OUTPUTS["all"] = (
 )
 
 # 保留最近 N 天已结束的比赛，便于回看比分。
-KEEP_COMPLETED_DAYS = 7
+# 取 31 天是为了覆盖整届世界赛（入围赛到决赛约一个月），决赛当天仍能回看首轮。
+KEEP_COMPLETED_DAYS = 31
 
 
 def main() -> int:
