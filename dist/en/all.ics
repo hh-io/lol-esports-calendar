@@ -622,7 +622,7 @@ UID:lolmatch-115660540726095089@lol-esports-calendar
 DTSTAMP:20261031T200000Z
 DTSTART:20261031T200000Z
 DTEND:20261031T230000Z
-SUMMARY:Worlds: LYON vs LOS (Swiss)
+SUMMARY:Worlds: LYON 2-1 LOS (Swiss)
 DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: LYON vs LOS
 END:VEVENT
 BEGIN:VEVENT
@@ -630,9 +630,9 @@ UID:lolmatch-115660540726095093@lol-esports-calendar
 DTSTAMP:20261031T230000Z
 DTSTART:20261031T230000Z
 DTEND:20261101T020000Z
-SUMMARY:Worlds: HLE vs BLG (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: Hanwha Life 
- Esports vs BILIBILI GAMING
+SUMMARY:Worlds: BLG vs HLE (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: BILIBILI GAM
+ ING vs Hanwha Life Esports
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095097@lol-esports-calendar
