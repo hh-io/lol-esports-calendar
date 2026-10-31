@@ -210,24 +210,26 @@ UID:lolmatch-115660540726095085@lol-esports-calendar
 DTSTAMP:20261031T170000Z
 DTSTART:20261031T170000Z
 DTEND:20261031T200000Z
-SUMMARY:Worlds: TBD vs TBD (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
+SUMMARY:Worlds: MKOI vs KC (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: Movistar KOI
+  vs Karmine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095089@lol-esports-calendar
 DTSTAMP:20261031T200000Z
 DTSTART:20261031T200000Z
 DTEND:20261031T230000Z
-SUMMARY:Worlds: TBD vs TBD (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
+SUMMARY:Worlds: LOS vs LYON (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: LOS vs LYON
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095093@lol-esports-calendar
 DTSTAMP:20261031T230000Z
 DTSTART:20261031T230000Z
 DTEND:20261101T020000Z
-SUMMARY:Worlds: TBD vs TBD (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: TBD vs TBD
+SUMMARY:Worlds: HLE vs BLG (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: Hanwha Life 
+ Esports vs BILIBILI GAMING
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095097@lol-esports-calendar

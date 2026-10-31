@@ -210,27 +210,27 @@ UID:lolmatch-115660540726095085@lol-esports-calendar
 DTSTAMP:20261031T170000Z
 DTSTART:20261031T170000Z
 DTEND:20261031T200000Z
-SUMMARY:Worlds: TBD vs TBD (瑞士轮)
-DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO3\n对阵: TBD vs
-  TBD
+SUMMARY:Worlds: MKOI vs KC (瑞士轮)
+DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO3\n对阵: Movist
+ ar KOI vs Karmine Corp
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095089@lol-esports-calendar
 DTSTAMP:20261031T200000Z
 DTSTART:20261031T200000Z
 DTEND:20261031T230000Z
-SUMMARY:Worlds: TBD vs TBD (瑞士轮)
-DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO3\n对阵: TBD vs
-  TBD
+SUMMARY:Worlds: LOS vs LYON (瑞士轮)
+DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO3\n对阵: LOS vs
+  LYON
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095093@lol-esports-calendar
 DTSTAMP:20261031T230000Z
 DTSTART:20261031T230000Z
 DTEND:20261101T020000Z
-SUMMARY:Worlds: TBD vs TBD (瑞士轮)
-DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO3\n对阵: TBD vs
-  TBD
+SUMMARY:Worlds: HLE vs BLG (瑞士轮)
+DESCRIPTION:赛区: Worlds\n阶段: 瑞士轮\n赛制: BO3\n对阵: Hanwha
+  Life Esports vs BILIBILI GAMING
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095097@lol-esports-calendar
