@@ -622,8 +622,8 @@ UID:lolmatch-115660540726095089@lol-esports-calendar
 DTSTAMP:20261031T200000Z
 DTSTART:20261031T200000Z
 DTEND:20261031T230000Z
-SUMMARY:Worlds: LOS vs LYON (Swiss)
-DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: LOS vs LYON
+SUMMARY:Worlds: LYON vs LOS (Swiss)
+DESCRIPTION:League: Worlds\nStage: Swiss\nFormat: BO3\nMatch: LYON vs LOS
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095093@lol-esports-calendar
