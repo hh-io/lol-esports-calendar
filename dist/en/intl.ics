@@ -550,9 +550,9 @@ UID:lolmatch-115660540726095109@lol-esports-calendar
 DTSTAMP:20261103T220000Z
 DTSTART:20261103T220000Z
 DTEND:20261104T023000Z
-SUMMARY:Worlds: TES vs IG (Quarterfinals)
-DESCRIPTION:League: Worlds\nStage: Quarterfinals\nFormat: BO5\nMatch: TOP 
- ESPORTS vs Invictus Gaming
+SUMMARY:Worlds: IG vs TES (Quarterfinals)
+DESCRIPTION:League: Worlds\nStage: Quarterfinals\nFormat: BO5\nMatch: Invi
+ ctus Gaming vs TOP ESPORTS
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095115@lol-esports-calendar
