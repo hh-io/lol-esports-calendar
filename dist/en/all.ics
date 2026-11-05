@@ -540,7 +540,7 @@ UID:lolmatch-115660540726095115@lol-esports-calendar
 DTSTAMP:20261104T220000Z
 DTSTART:20261104T220000Z
 DTEND:20261105T023000Z
-SUMMARY:Worlds: GEN vs LYON (Quarterfinals)
+SUMMARY:Worlds: GEN 3-0 LYON (Quarterfinals)
 DESCRIPTION:League: Worlds\nStage: Quarterfinals\nFormat: BO5\nMatch: Gen.
  G Esports vs LYON
 END:VEVENT
@@ -567,9 +567,9 @@ UID:lolmatch-115660540726095127@lol-esports-calendar
 DTSTAMP:20261107T220000Z
 DTSTART:20261107T220000Z
 DTEND:20261108T023000Z
-SUMMARY:Worlds: TBD vs IG (Semifinals)
-DESCRIPTION:League: Worlds\nStage: Semifinals\nFormat: BO5\nMatch: TBD vs 
- Invictus Gaming
+SUMMARY:Worlds: GEN vs IG (Semifinals)
+DESCRIPTION:League: Worlds\nStage: Semifinals\nFormat: BO5\nMatch: Gen.G E
+ sports vs Invictus Gaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095121@lol-esports-calendar

@@ -543,7 +543,7 @@ UID:lolmatch-115660540726095115@lol-esports-calendar
 DTSTAMP:20261104T220000Z
 DTSTART:20261104T220000Z
 DTEND:20261105T023000Z
-SUMMARY:Worlds: GEN vs LYON (8강)
+SUMMARY:Worlds: GEN 3-0 LYON (8강)
 DESCRIPTION:리그: 월드 챔피언십\n단계: 8강\n방식: BO5\n대진
  : Gen.G Esports vs LYON
 END:VEVENT
@@ -570,9 +570,9 @@ UID:lolmatch-115660540726095127@lol-esports-calendar
 DTSTAMP:20261107T220000Z
 DTSTART:20261107T220000Z
 DTEND:20261108T023000Z
-SUMMARY:Worlds: TBD vs IG (4강)
+SUMMARY:Worlds: GEN vs IG (4강)
 DESCRIPTION:리그: 월드 챔피언십\n단계: 4강\n방식: BO5\n대진
- : TBD vs Invictus Gaming
+ : Gen.G Esports vs Invictus Gaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095121@lol-esports-calendar

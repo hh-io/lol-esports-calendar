@@ -534,7 +534,7 @@ UID:lolmatch-115660540726095115@lol-esports-calendar
 DTSTAMP:20261104T220000Z
 DTSTART:20261104T220000Z
 DTEND:20261105T023000Z
-SUMMARY:Worlds: GEN vs LYON (四分之一决赛)
+SUMMARY:Worlds: GEN 3-0 LYON (四分之一决赛)
 DESCRIPTION:赛区: Worlds\n阶段: 四分之一决赛\n赛制: BO5\n对
  阵: Gen.G Esports vs LYON
 END:VEVENT
@@ -561,9 +561,9 @@ UID:lolmatch-115660540726095127@lol-esports-calendar
 DTSTAMP:20261107T220000Z
 DTSTART:20261107T220000Z
 DTEND:20261108T023000Z
-SUMMARY:Worlds: TBD vs IG (半决赛)
-DESCRIPTION:赛区: Worlds\n阶段: 半决赛\n赛制: BO5\n对阵: TBD vs
-  Invictus Gaming
+SUMMARY:Worlds: GEN vs IG (半决赛)
+DESCRIPTION:赛区: Worlds\n阶段: 半决赛\n赛制: BO5\n对阵: Gen.G 
+ Esports vs Invictus Gaming
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095121@lol-esports-calendar
