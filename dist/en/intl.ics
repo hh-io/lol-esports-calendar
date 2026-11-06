@@ -514,7 +514,7 @@ UID:lolmatch-115660540726095097@lol-esports-calendar
 DTSTAMP:20261105T220000Z
 DTSTART:20261105T220000Z
 DTEND:20261106T023000Z
-SUMMARY:Worlds: BLG vs DK (Quarterfinals)
+SUMMARY:Worlds: BLG 3-0 DK (Quarterfinals)
 DESCRIPTION:League: Worlds\nStage: Quarterfinals\nFormat: BO5\nMatch: BILI
  BILI GAMING vs Dplus KIA
 END:VEVENT
@@ -541,9 +541,9 @@ UID:lolmatch-115660540726095121@lol-esports-calendar
 DTSTAMP:20261108T220000Z
 DTSTART:20261108T220000Z
 DTEND:20261109T023000Z
-SUMMARY:Worlds: TBD vs TBD (Semifinals)
+SUMMARY:Worlds: TBD vs BLG (Semifinals)
 DESCRIPTION:League: Worlds\nStage: Semifinals\nFormat: BO5\nMatch: TBD vs 
- TBD
+ BILIBILI GAMING
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095133@lol-esports-calendar
