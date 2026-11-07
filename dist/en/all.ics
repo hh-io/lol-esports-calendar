@@ -504,7 +504,7 @@ UID:lolmatch-115660540726095103@lol-esports-calendar
 DTSTAMP:20261106T220000Z
 DTSTART:20261106T220000Z
 DTEND:20261107T023000Z
-SUMMARY:Worlds: T1 vs KC (Quarterfinals)
+SUMMARY:Worlds: T1 3-1 KC (Quarterfinals)
 DESCRIPTION:League: Worlds\nStage: Quarterfinals\nFormat: BO5\nMatch: T1 v
  s Karmine Corp
 END:VEVENT
@@ -522,9 +522,9 @@ UID:lolmatch-115660540726095121@lol-esports-calendar
 DTSTAMP:20261108T220000Z
 DTSTART:20261108T220000Z
 DTEND:20261109T023000Z
-SUMMARY:Worlds: TBD vs BLG (Semifinals)
-DESCRIPTION:League: Worlds\nStage: Semifinals\nFormat: BO5\nMatch: TBD vs 
- BILIBILI GAMING
+SUMMARY:Worlds: T1 vs BLG (Semifinals)
+DESCRIPTION:League: Worlds\nStage: Semifinals\nFormat: BO5\nMatch: T1 vs B
+ ILIBILI GAMING
 END:VEVENT
 BEGIN:VEVENT
 UID:lolmatch-115660540726095133@lol-esports-calendar
