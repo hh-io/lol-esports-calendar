@@ -486,7 +486,7 @@ UID:lolmatch-115660540726095127@lol-esports-calendar
 DTSTAMP:20261107T220000Z
 DTSTART:20261107T220000Z
 DTEND:20261108T023000Z
-SUMMARY:Worlds: GEN vs IG (Semifinals)
+SUMMARY:Worlds: GEN 3-0 IG (Semifinals)
 DESCRIPTION:League: Worlds\nStage: Semifinals\nFormat: BO5\nMatch: Gen.G E
  sports vs Invictus Gaming
 END:VEVENT
@@ -504,7 +504,8 @@ UID:lolmatch-115660540726095133@lol-esports-calendar
 DTSTAMP:20261114T190000Z
 DTSTART:20261114T190000Z
 DTEND:20261114T233000Z
-SUMMARY:Worlds: TBD vs TBD (Finals)
-DESCRIPTION:League: Worlds\nStage: Finals\nFormat: BO5\nMatch: TBD vs TBD
+SUMMARY:Worlds: TBD vs GEN (Finals)
+DESCRIPTION:League: Worlds\nStage: Finals\nFormat: BO5\nMatch: TBD vs Gen.
+ G Esports
 END:VEVENT
 END:VCALENDAR

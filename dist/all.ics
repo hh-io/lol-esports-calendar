@@ -489,7 +489,7 @@ UID:lolmatch-115660540726095127@lol-esports-calendar
 DTSTAMP:20261107T220000Z
 DTSTART:20261107T220000Z
 DTEND:20261108T023000Z
-SUMMARY:Worlds: GEN vs IG (半决赛)
+SUMMARY:Worlds: GEN 3-0 IG (半决赛)
 DESCRIPTION:赛区: Worlds\n阶段: 半决赛\n赛制: BO5\n对阵: Gen.G 
  Esports vs Invictus Gaming
 END:VEVENT
@@ -507,7 +507,8 @@ UID:lolmatch-115660540726095133@lol-esports-calendar
 DTSTAMP:20261114T190000Z
 DTSTART:20261114T190000Z
 DTEND:20261114T233000Z
-SUMMARY:Worlds: TBD vs TBD (决赛)
-DESCRIPTION:赛区: Worlds\n阶段: 决赛\n赛制: BO5\n对阵: TBD vs TBD
+SUMMARY:Worlds: TBD vs GEN (决赛)
+DESCRIPTION:赛区: Worlds\n阶段: 决赛\n赛制: BO5\n对阵: TBD vs Ge
+ n.G Esports
 END:VEVENT
 END:VCALENDAR
