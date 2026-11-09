@@ -477,7 +477,7 @@ UID:lolmatch-115660540726095121@lol-esports-calendar
 DTSTAMP:20261108T220000Z
 DTSTART:20261108T220000Z
 DTEND:20261109T023000Z
-SUMMARY:Worlds: BLG vs T1 (Semifinals)
+SUMMARY:Worlds: BLG 3-1 T1 (Semifinals)
 DESCRIPTION:League: Worlds\nStage: Semifinals\nFormat: BO5\nMatch: BILIBIL
  I GAMING vs T1
 END:VEVENT
@@ -486,8 +486,8 @@ UID:lolmatch-115660540726095133@lol-esports-calendar
 DTSTAMP:20261114T190000Z
 DTSTART:20261114T190000Z
 DTEND:20261114T233000Z
-SUMMARY:Worlds: TBD vs GEN (Finals)
-DESCRIPTION:League: Worlds\nStage: Finals\nFormat: BO5\nMatch: TBD vs Gen.
- G Esports
+SUMMARY:Worlds: GEN vs BLG (Finals)
+DESCRIPTION:League: Worlds\nStage: Finals\nFormat: BO5\nMatch: Gen.G Espor
+ ts vs BILIBILI GAMING
 END:VEVENT
 END:VCALENDAR
