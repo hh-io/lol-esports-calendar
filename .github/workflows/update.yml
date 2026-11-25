@@ -20,7 +20,7 @@ jobs:
     # 用 GitHub Actions 部署 Pages，绕开会偶发挂掉的 legacy 分支构建管线
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      url: ${{ steps.deploy.outputs.page_url || steps.deploy_retry1.outputs.page_url || steps.deploy_retry2.outputs.page_url }}
     steps:
       - uses: actions/checkout@v5
 
@@ -66,6 +66,29 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
 
+      # 刚上传的 artifact 在列表 API 里要过几秒（偶尔几十秒）才可见，紧接着部署会偶发
+      # "No artifacts named github-pages"（actions/deploy-pages#451）。整次 run 重跑会撞上
+      # "Multiple artifacts" 无法恢复，所以在同一 job 内退避重试。
       - name: Deploy to GitHub Pages
         id: deploy
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Wait before deploy retry
+        if: steps.deploy.outcome == 'failure'
+        run: sleep 15
+
+      - name: Deploy to GitHub Pages (retry 1)
+        id: deploy_retry1
+        if: steps.deploy.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Wait before final deploy retry
+        if: steps.deploy_retry1.outcome == 'failure'
+        run: sleep 45
+
+      - name: Deploy to GitHub Pages (retry 2)
+        id: deploy_retry2
+        if: steps.deploy_retry1.outcome == 'failure'
         uses: actions/deploy-pages@v4
